@@ -12,7 +12,8 @@
         <Role>GeneralContact</Role>
 </Contact>
       <PriorID>spase://VSPO/NumericalData/P_INTTAIL_HDR_ELE_120S</PriorID>
-        <PriorID>spase://VSPO/NumericalData/Interball-1/ELECTRON/PT120S</PriorID>
+      <PriorID>spase://VSPO/NumericalData/Interball-1/ELECTRON/PT120S</PriorID>
+      <PriorID>spase://NASA/NumericalData/Interball-1/ELECTRON/PT120S</PriorID>
 </ResourceHeader>
     <AccessInformation>
       <RepositoryID>spase://SMWG/Repository/NASA/GSFC/SPDF</RepositoryID>
