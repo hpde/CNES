@@ -5,7 +5,7 @@
     <ResourceID>spase://CNES/NumericalData/Interball-1/ELECTRON/PT120S</ResourceID>
     <ResourceHeader>
       <ResourceName>Interball Tail Plasma Electron 2-min Key Parameters</ResourceName>
-      <ReleaseDate>2021-04-27T17:50:51Z</ReleaseDate>
+      <ReleaseDate>2021-06-01T00:00:00Z</ReleaseDate>
       <Description>Interball Tail ELECTRON Plasma Electron 2-min Key Parameters (Density and Mean Energy)</Description>
       <Contact>
         <PersonID>spase://SMWG/Person/Jean-Andre.C.Sauvaud</PersonID>
@@ -47,7 +47,6 @@
         <Description>Web Service to this product using the HAPI interface.</Description>
       </AccessURL>
       <Format>CSV</Format>
-      <Acknowledgement/>
     </AccessInformation>
     <ProviderProcessingLevel>CALCULATED</ProviderProcessingLevel>
     <InstrumentID>spase://SMWG/Instrument/Interball-1/ELECTRON</InstrumentID>
