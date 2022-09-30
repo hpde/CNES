@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Spase xmlns="http://www.spase-group.org/data/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.spase-group.org/data/schema http://www.spase-group.org/data/schema/spase-2.4.1.xsd">
+  <Version>2.4.1</Version>
+  <NumericalData>
+    <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/MEX/ELS/mex-els-all</ResourceID>
+    <ResourceHeader>
+      <ResourceName>electron energy spectra : 16 anodes</ResourceName>
+      <ReleaseDate>2021-10-12T19:02:01Z</ReleaseDate>
+      <Description>Level2 data. This dataset is generated directly from the MEX telemetry with IRAP software</Description>
+      <Acknowledgement>The Mars Express ASPERA team, S.Barabash, Swedish
+Institute of Space Physics, PI, and the European Space Agency</Acknowledgement>
+      <Contact>
+        <PersonID>spase://SMWG/Person/Stas.Barabash</PersonID>
+        <Role>PrincipalInvestigator</Role>
+      </Contact>
+      <Contact>
+        <PersonID>spase://CNES/Person/CDPP-AMDA/Rudy.Frahm</PersonID>
+        <Role>GeneralContact</Role>
+      </Contact>
+      <Contact>
+        <PersonID>spase://SMWG/Person/Elena.Budnik</PersonID>
+        <Role>TechnicalContact</Role>
+      </Contact>
+    </ResourceHeader>
+    <AccessInformation>
+         <RepositoryID>spase://SMWG/Repository/CDPP/AMDA</RepositoryID>
+         <Availability>Online</Availability>
+         <AccessRights>Open</AccessRights>
+         <AccessURL>
+            <Name>CDPP/AMDA HAPI Server</Name>
+            <URL>http://amda.irap.omp.eu/service/hapi</URL>
+            <Style>HAPI</Style>
+            <Description>Web Service to this product using the HAPI interface.</Description>
+         </AccessURL>
+         <Format>CSV</Format>
+         <Acknowledgement>Thank you for acknowledging the use of AMDA in publications with wording like "Data analysis was performed with the AMDA science analysis system provided by the Centre de Données de la Physique des Plasmas (CDPP) supported by CNRS, CNES, Observatoire de Paris and Université Paul Sabatier, Toulouse".. See the Rules of the road at http://amda.cdpp.eu/help/policy.html. Please acknowledge the Data Providers.</Acknowledgement>
+      </AccessInformation>
+    <AccessInformation>
+         <RepositoryID>spase://SMWG/Repository/CDPP/AMDA</RepositoryID>
+         <Availability>Online</Availability>
+         <AccessRights>Open</AccessRights>
+         <AccessURL>
+            <Name>CDPP/AMDA Web application</Name>
+            <URL>http://amda.cdpp.eu</URL>
+            <Description>Access to Data via CDPP/AMDA Web application.</Description>
+         </AccessURL>
+         <Format>CSV</Format>
+         <Format>VOTable</Format>
+         <Format>CDF</Format>
+         <Format>PNG</Format>
+         <Acknowledgement>Thank you for acknowledging the use of AMDA in publications with wording like "Data analysis was performed with the AMDA science analysis system provided by the Centre de Données de la Physique des Plasmas (CDPP) supported by CNRS, CNES, Observatoire de Paris and Université Paul Sabatier, Toulouse".. See the Rules of the road at http://amda.cdpp.eu/help/policy.html. Please acknowledge the Data Providers.</Acknowledgement>
+      </AccessInformation>
+    <ProviderName>IRAP</ProviderName>
+    <InstrumentID>spase://CNES/Instrument/CDPP-AMDA/MEX/ELS</InstrumentID>
+    <MeasurementType>ThermalPlasma</MeasurementType>
+    <TemporalDescription>
+      <TimeSpan>
+        <StartDate>2003-06-23T18:42:48Z</StartDate>
+        <StopDate>2021-09-22T21:47:31Z</StopDate>
+      </TimeSpan>
+      <CadenceMin>PT1S</CadenceMin>
+      <CadenceMax>PT64S</CadenceMax>
+    </TemporalDescription>
+    <ObservedRegion>Mars</ObservedRegion>
+    <Caveats><!--                                                                                                                                                                                                                        
+   * Concerning ELS NEV Data :Before 2003/190 (09 July 2003), operational engineering tests were being executed on the ELS instrument.  Before 2100 hours on that date,        
+the ELS science data should be all zero (except for day 2003/183,             
+02 July 2003, between 0100 hours and 0200 hours).  For all times other        
+than the 2003/183 (2003-07-02) time listed above, ELS was undergoing the      
+Near Earth Verification tests.  These tests adjusted the ELS instrument       
+voltages and the ELS science data was monitored to be sure that the           
+science data were all zero.  If ELS science data had not been zero, it        
+would have been an indication that there was something wrong with the         
+instrument.  Thus, the zeroes in the ELS science data are normal and          
+expected during these times.                                                  
+The exception for day 2003/183 (02 July 2003) between 0100 hours and 0200 hours was when the deflection plates were not stepping and the           
+instrument voltages were increased such that a science signal could be seen.  Since the ELS was not sweeping but held at a fixed value, there        
+should be science data only at one energy (although the numeric value for     
+each sector should be different).  Science data values should show in all     
+sectors of ELS, not just in sector zero.  Tests were to include sweeping      
+of the deflection plates at this time, but a small bug in the operations      
+software prevented sweeping.  This was not fixed until after 2100 hours       
+on day 2003/190 (09 July 2003).                                               
+                                                                              
+                                                                              
+ * Concerning ELS January 2004 Data: The Mars Express commissioning period for ASPERA-3 occurred in January 2004. Since operational engineering tests were being executed on the ELS instrument during this time, some of the ELS science data are all zeroes.  The zeroes are normal and expected during January 5, 12, and 14, 2004.  If the ELS science data had not been zero during these times, it would have been an indication that there was something wrong with the instrument.                                                    
+                                                                                                                                                            
+ * Note on Noise Levels: The ELS sectors which view across the spacecraft and into the spacecraft   
+body measure electrons escaping the spacecraft either due to outgassing by    
+the spacecraft, emissions from the spacecraft surfaces, scattered primary     
+electrons reflected from the spacecraft, or secondary electrons that had      
+been absorbed and then re-emitted by the spacecraft.  From launch until       
+about mid-2004, spacecraft outgassing is observed as an increase in the       
+background values to higher than normal levels in those sectors which view    
+across the spacecraft.                                                        
+   These background levels of each sector are known to vary in time.  This    
+is caused when some ELS sectors view across the spacecraft or at spacecraft   
+objects.  In launch configuration, ELS sectors 15, 14, 13, 12, 1, and 0       
+view over the spacecraft.  In addition ELS sector 1 includes a spacecraft     
+sun sensor within its field of view, and ELS sector 13 views the spacecraft   
+solar array attachment arm.  The ELS was in its launch configuration until    
+January 24, 2006 when the scanner platform was activated.  After this date,   
+the angle which the scanner is rotated determines the degree of blockage by   
+the spacecraft for each sector.                                               
+   The scanner angle is set at 90 deg for the launch configuration (this is   
+0 deg in the Unit Reference Frame).  When the scanner rotates, it moves       
+toward the 0 deg position (+90 deg in the Unit Reference Frame).  At this     
+time, ELS sectors 15, 14, 13, and part of sector 12 rotate to view the        
+spacecraft body.  ELS sector 0 and 12 view across the spacecraft.  The        
+scanner then rotates toward its 180 deg position (-90 deg in the Unit         
+Reference Frame) when active.  As the scanner rotation passes the 90 deg      
+position, ELS sectors 0, 1, 2, and part of sector 3 view the spacecraft       
+body.  ELS sector 15 and 3 view across the spacecraft.                        
+   It should also be noted that the relative calibration factors (relative    
+efficiency coefficients for Anode 13 in CALINFO.TXT) indicate that the        
+sensitivity of sector 13 is lower than the rest of the sectors by a factor    
+of about 2 or 3.  A rough estimate of the orientation of the particle         
+entrance geometry to the MCP indicated that the electrons in this sector      
+penetrate deeper into the MCP chevron than the other sectors.  This means     
+that there are fewer electrons generated by the MCP during the cascade        
+(electron multiplication) process.  Thus, this intensity difference has       
+been compensated for by the relative calibration factors for this sector.     
+                                                                              
+                                                                              
+ * Note on Artificial Peaks in Spectra:  At about 150 eV, there is an artificial effect which is caused by the      
+transition between control states of the ELS power supplies.  This            
+artificial effect appears as a peak, drifting in amplitude, shape, and        
+affected energy range.  The artificial peak occurs because the controlling    
+signal to ELS exceeds its designed specifications and exhibits enough         
+drift so that the controlling voltage sent to ELS does not accurately         
+reflect the control voltage reported by the ASPERA-3 Main Unit.  This         
+results in an error in the measurement energy which occurs at the lowest      
+control voltage (where the drift is a larger part of the control signal).     
+The flux measured at the expected energy is actually measured at a lower      
+energy than expected (where the flux is slightly higher).  The region         
+affected by the artificial spike at about 150 eV rarely exceeds 200 eV.       
+   The ELS stepping power supply has two ranges.  The stepping voltage        
+value is controlled by an analog signal sent to ELS by the ASPERA-3 Main      
+Unit. The power supply range is controlled by a digital bit. ELS converts     
+the analog control voltage into a voltage across its deflection plates        
+which relates to the particle energy.  Thus, an error in the control          
+voltage translates into an error in the particle energy.                      
+   ELS has a voltage monitor that reports every sample, but it is accessed    
+by the ASPERA-3 main unit only about every 32 sec.  ELS was to use the        
+monitor value along with the science data value to correct for any drift      
+within the sweep voltage.  Unfortunately due to telemetry restrictions,       
+a decision was made to not telemeter the step voltage monitor the same        
+time as the science data, so no correction can be determined between the      
+voltage monitor drift and the energy shift observed in the science data.      
+   This same effect is likely to be hidden in the low range deflection,       
+below about 10 eV.  Its existence and magnitude can not be accurately         
+assessed because the ASPERA-3 main unit does not sample the simultaneous      
+sweep, monitor, and science data for ELS.  An artificial spike is noticed     
+at about 150 eV because any drift in the control voltage is a larger          
+fraction on the low voltage side of the high range and a smaller fractional   
+fluctuation on the higher voltage side of the low range.  The ELS sweep is    
+a decay step from its highest voltage value to its lowest voltage.  The       
+spike is seen by the observer because it is highlighted by the transition     
+between the sweep high range (larger fractional error) to the low range       
+(smaller fractional error).   -->Data gap 2015-05-24 - 2015-07-01</Caveats>
+    <Parameter>
+      <Name>counts : per anode ##anode##</Name>
+      <ParameterKey>mex_els_spec</ParameterKey>
+      <Description>energy spectrogram of electron counts</Description>
+      <UCD>phys.count;phys.electron</UCD>
+      <Units>cnts</Units>
+      <RenderingHints>
+        <DisplayType>Spectrogram</DisplayType>
+      </RenderingHints>
+      <Structure>
+        <Size>128</Size>
+      </Structure>
+      <Particle>
+        <ParticleType>Electron</ParticleType>
+        <ParticleQuantity>Counts</ParticleQuantity>
+      </Particle>
+    </Parameter>
+    <Parameter>
+      <Name>counts : sum over anodes</Name>
+      <ParameterKey>mex_els_spec_sum</ParameterKey>
+      <Description>energy spectrogram of electron counts</Description>
+      <UCD>phys.count;phys.electron</UCD>
+      <Units>cnts</Units>
+      <RenderingHints>
+        <DisplayType>Spectrogram</DisplayType>
+      </RenderingHints>
+      <Structure>
+        <Size>128</Size>
+      </Structure>
+      <Particle>
+        <ParticleType>Electron</ParticleType>
+        <ParticleQuantity>Counts</ParticleQuantity>
+      </Particle>
+    </Parameter>
+  </NumericalData>
+</Spase>
