@@ -63,9 +63,7 @@
       <Name>h+ eflux : 2D energy/polar</Name>
       <ParameterKey>mms2_hpca_hfl</ParameterKey>
       <Description>H+ Flux for all elevation anodes accross all energies</Description>
-      <UCD/>
       <Units>keV/((cm^2-s-sr-keV))</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -77,9 +75,7 @@
       <Name>h+ eflux : sum on elevations</Name>
       <ParameterKey>mms2_hpca_hfl_elevation</ParameterKey>
       <Description>H+ Flux for  all energies</Description>
-      <UCD/>
       <Units>keV/((cm^2-s-sr-keV))</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -90,10 +86,6 @@
     <Parameter>
       <Name>h+ eflux quality</Name>
       <ParameterKey>mms2_hpca_hq</ParameterKey>
-      <Description/>
-      <UCD/>
-      <Units/>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -105,9 +97,7 @@
       <Name>he+ eflux : 2D energy/polar</Name>
       <ParameterKey>mms2_hpca_hefl</ParameterKey>
       <Description>He Flux for all elevation anodes accross all energies</Description>
-      <UCD/>
       <Units>keV/((cm^2-s-sr-keV))</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -119,9 +109,7 @@
       <Name>he+ eflux : sum on elevations</Name>
       <ParameterKey>mms2_hpca_hefl_elevation</ParameterKey>
       <Description>He Flux for  all energies</Description>
-      <UCD/>
       <Units>keV/((cm^2-s-sr-keV))</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -132,10 +120,6 @@
     <Parameter>
       <Name>he+ eflux quality</Name>
       <ParameterKey>mms2_hpca_heq</ParameterKey>
-      <Description/>
-      <UCD/>
-      <Units/>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -147,9 +131,7 @@
       <Name>he++ eflux : 2D energy/polar</Name>
       <ParameterKey>mms2_hpca_heefl</ParameterKey>
       <Description>He++ Flux for all elevation anodes accross all energies</Description>
-      <UCD/>
       <Units>keV/((cm^2-s-sr-keV))</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -161,9 +143,7 @@
       <Name>he++ eflux : sum on elevations</Name>
       <ParameterKey>mms2_hpca_heefl_elevation</ParameterKey>
       <Description>He++ Flux for  all energies</Description>
-      <UCD/>
       <Units>keV/((cm^2-s-sr-keV))</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -174,10 +154,6 @@
     <Parameter>
       <Name>he++ eflux quality</Name>
       <ParameterKey>mms2_hpca_heeq</ParameterKey>
-      <Description/>
-      <UCD/>
-      <Units/>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -189,9 +165,7 @@
       <Name>o+ eflux : 2D energy/polar</Name>
       <ParameterKey>mms2_hpca_ofl</ParameterKey>
       <Description>O+ Flux for all elevation anodes accross all energies</Description>
-      <UCD/>
       <Units>keV/((cm^2-s-sr-keV))</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -203,9 +177,7 @@
       <Name>o+ eflux : sum on elevations</Name>
       <ParameterKey>mms2_hpca_ofl_elevation</ParameterKey>
       <Description>O+ Flux for  all energies</Description>
-      <UCD/>
       <Units>keV/((cm^2-s-sr-keV))</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -216,10 +188,6 @@
     <Parameter>
       <Name>o+ eflux quality</Name>
       <ParameterKey>mms2_hpca_oq</ParameterKey>
-      <Description/>
-      <UCD/>
-      <Units/>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>

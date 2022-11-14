@@ -24,7 +24,7 @@
       </InformationURL>    
     </ResourceHeader>
     <InstrumentType>Radar</InstrumentType>  
-    <InvestigationName/>
+    <InvestigationName>Tromso UHF</InvestigationName>
     <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/EISCAT</ObservatoryID>
   </Instrument>
 </Spase>

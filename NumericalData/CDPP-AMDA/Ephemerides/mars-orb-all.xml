@@ -64,7 +64,6 @@ Ls=90 thus corresponds to northern summer solstice, just as Ls=180 marks the nor
     <Parameter>
       <Name>xyz_hee</Name>
       <ParameterKey>xyz_mars_hee</ParameterKey>
-      <UCD/>
       <Units>AU</Units>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
@@ -98,7 +97,6 @@ Ls=90 thus corresponds to northern summer solstice, just as Ls=180 marks the nor
     <Parameter>
       <Name>xyz_hci</Name>
       <ParameterKey>xyz_mars_hci</ParameterKey>
-      <UCD/>
       <Units>AU</Units>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
@@ -132,7 +130,6 @@ Ls=90 thus corresponds to northern summer solstice, just as Ls=180 marks the nor
     <Parameter>
       <Name>distance mars-sun</Name>
       <ParameterKey>r_mars</ParameterKey>
-      <UCD/>
       <Units>AU</Units>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
@@ -141,7 +138,6 @@ Ls=90 thus corresponds to northern summer solstice, just as Ls=180 marks the nor
     <Parameter>
       <Name>longitude HCI</Name>
       <ParameterKey>mars_hci_lon</ParameterKey>
-      <UCD/>
       <Units>deg</Units>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
@@ -150,7 +146,6 @@ Ls=90 thus corresponds to northern summer solstice, just as Ls=180 marks the nor
     <Parameter>
       <Name>latitude HCI</Name>
       <ParameterKey>mars_hci_lat</ParameterKey>
-      <UCD/>
       <Units>deg</Units>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
@@ -159,7 +154,6 @@ Ls=90 thus corresponds to northern summer solstice, just as Ls=180 marks the nor
     <Parameter>
       <Name>longitude IAU_sun</Name>
       <ParameterKey>mars_sol_lon</ParameterKey>
-      <UCD/>
       <Units>deg</Units>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
@@ -168,7 +162,6 @@ Ls=90 thus corresponds to northern summer solstice, just as Ls=180 marks the nor
     <Parameter>
       <Name>latitude IAU_sun</Name>
       <ParameterKey>mars_sol_lat</ParameterKey>
-      <UCD/>
       <Units>deg</Units>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
@@ -177,7 +170,6 @@ Ls=90 thus corresponds to northern summer solstice, just as Ls=180 marks the nor
     <Parameter>
       <Name>solar longitude (Ls)</Name>
       <ParameterKey>mars_sol_ls</ParameterKey>
-      <UCD/>
       <Units>deg</Units>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
@@ -186,7 +178,6 @@ Ls=90 thus corresponds to northern summer solstice, just as Ls=180 marks the nor
     <Parameter>
       <Name>longitude HEE</Name>
       <ParameterKey>mars_lon_hee</ParameterKey>
-      <UCD/>
       <Units>deg</Units>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
@@ -195,7 +186,6 @@ Ls=90 thus corresponds to northern summer solstice, just as Ls=180 marks the nor
     <Parameter>
       <Name>latitude HEE</Name>
       <ParameterKey>mars_lat_hee</ParameterKey>
-      <UCD/>
       <Units>deg</Units>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>

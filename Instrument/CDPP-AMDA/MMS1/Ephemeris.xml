@@ -7,7 +7,7 @@
       <ResourceName>Ephemeris</ResourceName>
       <AlternateName>MMS1 Ephemeris</AlternateName>
       <ReleaseDate>2017-02-04T15:37:46Z</ReleaseDate>
-      <Description></Description>
+      <Description>MMS 1 spacecraft ephemeris virtual instrument.</Description>
       <Contact>
         <PersonID>spase://CNES/Person/CDPP-AMDA/M.G.Henderson</PersonID>
         <Role>PrincipalInvestigator</Role>

@@ -16,8 +16,7 @@
       <InformationURL>
         <Name>IAGA geomagnetic indices</Name>
         <URL>http://isgi.unistra.fr/indices_aa.php</URL>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
     </ResourceHeader>
     <AccessInformation>
          <RepositoryID>spase://SMWG/Repository/CDPP/AMDA</RepositoryID>
@@ -63,10 +62,7 @@
     <Parameter>
       <Name>aa</Name>
       <ParameterKey>aa</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>nT</Units>
-      <UnitsConversion/>
       <Field>
         <FieldQuantity>Magnetic</FieldQuantity>
       </Field>
@@ -75,9 +71,7 @@
       <Name>Aa</Name>
       <ParameterKey>Aa</ParameterKey>
       <Description>Daily Mean of aa</Description>
-      <UCD/>
       <Units>nT</Units>
-      <UnitsConversion/>
       <Field>
         <FieldQuantity>Magnetic</FieldQuantity>
       </Field>

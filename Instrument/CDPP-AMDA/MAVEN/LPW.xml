@@ -28,7 +28,7 @@ Goals:
       </InformationURL>
     </ResourceHeader>
     <InstrumentType>LangmuirProbe</InstrumentType>
-    <InvestigationName/>
+    <InvestigationName>MAVEN Langmuir Probe and Waves Investigation</InvestigationName>
     <OperatingSpan>
       <StartDate>2013-11-18T13:28:00</StartDate>
       <!--StopDate>2014-12-16T00:00:00</StopDate-->

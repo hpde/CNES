@@ -49,7 +49,7 @@
       <PriorID>spase://SMWG/instrument/1997-045A-07</PriorID>
     </ResourceHeader>
     <InstrumentType>ElectrostaticAnalyser</InstrumentType>
-    <InvestigationName></InvestigationName>
+    <InvestigationName>Solar Wind Electron, Proton and Alpha Monitor (SWEPAM) on ACE</InvestigationName>
     <OperatingSpan>
       <StartDate>1998-02-04T00:00:00</StartDate>
       <Note>Oct 23, 2012: SWEPAM data status update</Note>

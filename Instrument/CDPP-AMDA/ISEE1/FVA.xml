@@ -12,19 +12,13 @@
         for protons. Voltages of ±187 and ±750 V are applied to the plates to select ~1.5 keV 
         in one pair, and ~6 keV in the second pair of analyzers.       
     </Description>
-      <Acknowledgement/>
-            <Contact>
+      <Contact>
                 <PersonID>spase://CNES/Person/CDPP-AMDA/K.A.Anderson</PersonID>
                 <Role>PrincipalInvestigator</Role>
             </Contact>
-      <InformationURL>
-        <Name></Name>
-        <URL></URL>
-      </InformationURL>
-    </ResourceHeader>
+      </ResourceHeader>
     <InstrumentType>ElectrostaticAnalyser</InstrumentType>
-    <InvestigationName/>
+    <InvestigationName>Fixed Voltage Analyzer</InvestigationName>
     <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/ISEE1</ObservatoryID>
-    <Caveats/>
-  </Instrument>
+    </Instrument>
 </Spase>

@@ -11,7 +11,6 @@
 by ionospheric/plasmaspheric electrons before reaching the Swarm GNSS antenna. From the 
 GNSS signal delay we can estimate slant total electron content (STEC), which is deﬁned as 
 ‘integrated’ electron density along the line of sight from Swarm to GNSS satellites.</Description>
-      <Acknowledgement/>
       <Contact>
         <PersonID>spase://CNES/Person/CDPP-AMDA/R.Haagmans</PersonID>
         <Role>ProjectScientist</Role>
@@ -19,8 +18,7 @@ GNSS signal delay we can estimate slant total electron content (STEC), which is 
       <InformationURL>
         <Name>TEC dataset description</Name>
         <URL>https://earth.esa.int/web/guest/document-library/browse-document-library/-/article/swarm-level-2-tec-product-description</URL>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
     </ResourceHeader>
     <AccessInformation>
          <RepositoryID>spase://SMWG/Repository/CDPP/AMDA</RepositoryID>
@@ -70,13 +68,10 @@ Note that AMDA keeps STEC / VTEC data for the highest elevation angle only.
       <Name>stec</Name>
       <ParameterKey>swb_stec</ParameterKey>
       <Description>Absolute slant TEC  from largest elevation GNSS satellite</Description>
-      <UCD/>
       <Units>TECU</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
-      <FillValue/>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
       </Support>
@@ -85,13 +80,10 @@ Note that AMDA keeps STEC / VTEC data for the highest elevation angle only.
       <Name>vtec</Name>
       <ParameterKey>swb_vtec</ParameterKey>
       <Description>Absolute vertical TEC  from largest elevation GNSS satellite</Description>
-      <UCD/>
       <Units>TECU</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
-      <FillValue/>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
       </Support>
@@ -100,13 +92,10 @@ Note that AMDA keeps STEC / VTEC data for the highest elevation angle only.
       <Name>relative stec</Name>
       <ParameterKey>swb_stec_rel</ParameterKey>
       <Description>Relative slant TEC</Description>
-      <UCD/>
       <Units>TECU</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
-      <FillValue/>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
       </Support>
@@ -115,13 +104,10 @@ Note that AMDA keeps STEC / VTEC data for the highest elevation angle only.
       <Name>gps elevation angle</Name>
       <ParameterKey>swb_gps_elev</ParameterKey>
       <Description>gps elevation angle</Description>
-      <UCD/>
       <Units>deg</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
-      <FillValue/>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
       </Support>
@@ -130,13 +116,9 @@ Note that AMDA keeps STEC / VTEC data for the highest elevation angle only.
       <Name>gps number</Name>
       <ParameterKey>swb_gps_number</ParameterKey>
       <Description>gps number</Description>
-      <UCD/>
-      <Units/>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
-      <FillValue/>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
       </Support>

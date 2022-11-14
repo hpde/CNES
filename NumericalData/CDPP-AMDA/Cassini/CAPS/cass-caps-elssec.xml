@@ -64,7 +64,6 @@
     <Parameter>
       <Name>telemetry mode</Name>
       <ParameterKey>cass_caps_elssectel</ParameterKey>
-      <Description/>
       <UCD>meta.code;instr.setup</UCD>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>

@@ -59,7 +59,6 @@
     <Parameter>
       <Name>xyz_hee</Name>
       <ParameterKey>xyz_vo1_hee</ParameterKey>
-      <UCD/>
       <Units>AU</Units>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
@@ -93,7 +92,6 @@
     <Parameter>
       <Name>xyz_hci</Name>
       <ParameterKey>xyz_vo1_hci</ParameterKey>
-      <UCD/>
       <Units>AU</Units>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
@@ -127,7 +125,6 @@
     <Parameter>
       <Name>distance vo1-sun</Name>
       <ParameterKey>r_vo1</ParameterKey>
-      <UCD/>
       <Units>AU</Units>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
@@ -136,7 +133,6 @@
     <Parameter>
       <Name>longitude IAU_sun</Name>
       <ParameterKey>vo1_sol_lon</ParameterKey>
-      <UCD/>
       <Units>rad</Units>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
@@ -145,7 +141,6 @@
     <Parameter>
       <Name>latitude IAU_sun</Name>
       <ParameterKey>vo1_sol_lat</ParameterKey>
-      <UCD/>
       <Units>rad</Units>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>

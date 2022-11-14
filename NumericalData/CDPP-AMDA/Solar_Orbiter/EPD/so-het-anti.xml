@@ -26,8 +26,7 @@ Parameter ID uses Detector looking directon.
       <InformationURL>
         <Name>SolO Archive Support Data</Name>
         <URL>https://issues.cosmos.esa.int/solarorbiterwiki/display/SOSP/Archive+Support+Data</URL>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
       <Association>
         <AssociationID>solo-epd-het</AssociationID>
         <AssociationType>PartOf</AssociationType>
@@ -80,9 +79,7 @@ Parameter ID uses Detector looking directon.
       <Name>h flux: sunward</Name>
       <ParameterKey>solo_het_asun_hflux</ParameterKey>
       <Description>Hydrogen flux</Description>
-      <UCD/>
       <Units>1/(s cm^2 sr MeV)</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -97,9 +94,7 @@ Parameter ID uses Detector looking directon.
       <Name>h flux unc: sunward</Name>
       <ParameterKey>solo_het_asun_hunc</ParameterKey>
       <Description>Uncertainty in Hydrogen flux</Description>
-      <UCD/>
       <Units>1/(s cm^2 sr MeV)</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -114,9 +109,7 @@ Parameter ID uses Detector looking directon.
       <Name>h cntrate: sunward</Name>
       <ParameterKey>solo_het_asun_hrate</ParameterKey>
       <Description>Hydrogen count rate</Description>
-      <UCD/>
       <Units>cnts/s</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -131,9 +124,6 @@ Parameter ID uses Detector looking directon.
       <Name>quality flag: sunward</Name>
       <ParameterKey>solo_het_asun_qf</ParameterKey>
       <Description>0: Bad, 1: Known problems, 2: Survey data, 3: Good, 4: Excellent</Description>
-      <UCD/>
-      <Units/>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>

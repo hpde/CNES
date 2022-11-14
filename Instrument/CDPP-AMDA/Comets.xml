@@ -6,14 +6,14 @@
     <ResourceHeader>
       <ResourceName>Comets</ResourceName>   
       <ReleaseDate>2009-05-20T21:10:13Z</ReleaseDate>
-      <Description></Description>
+      <Description>ToDo</Description>
       <Contact>       
         <PersonID>spase://CNES/Person/CDPP-AMDA/NAIF</PersonID> 
         <Role>PrincipalInvestigator</Role>
       </Contact>
     </ResourceHeader>
     <InstrumentType>Platform</InstrumentType>
-    <InvestigationName></InvestigationName>
+    <InvestigationName/>
     <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/Ephemerides</ObservatoryID>
   </Instrument>
 </Spase>

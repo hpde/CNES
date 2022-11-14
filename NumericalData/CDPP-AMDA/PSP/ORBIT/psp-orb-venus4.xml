@@ -5,7 +5,6 @@
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/PSP/ORBIT/psp-orb-venus4</ResourceID>
     <ResourceHeader>
       <ResourceName>Venus flyby #4</ResourceName>
-      <AlternateName/>
       <ReleaseDate>2021-07-20T08:07:54Z</ReleaseDate>
       <Description>Calculated in IRAP by using PSP SPICE kernels</Description>
       <Contact>
@@ -20,8 +19,7 @@
       <InformationURL>
         <Name>Landing Page at JHU/APL</Name>
         <URL>https://sppgway.jhuapl.edu/</URL>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
     </ResourceHeader>
     <AccessInformation>
          <RepositoryID>spase://SMWG/Repository/CDPP/AMDA</RepositoryID>
@@ -82,36 +80,24 @@
     <Parameter>
       <Name>xyz_vso</Name>
       <ParameterKey>psp_xyz_vso4</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>Rv</Units>
-      <UnitsConversion/>
       <Structure>
         <Size>3</Size>
         <Element>
           <Name>x</Name>
           <Index>1</Index>
           <ParameterKey>psp_xyz_vso4(0)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>y</Name>
           <Index>2</Index>
           <ParameterKey>psp_xyz_vso4(1)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>z</Name>
           <Index>3</Index>
           <ParameterKey>psp_xyz_vso4(2)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
       </Structure>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
@@ -120,10 +106,7 @@
     <Parameter>
       <Name>distance psp-venus</Name>
       <ParameterKey>psp_venus4_r</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>Rv</Units>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>
@@ -131,10 +114,7 @@
     <Parameter>
       <Name>lon iau_venus</Name>
       <ParameterKey>lon_psp_venus4</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>deg</Units>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>
@@ -142,10 +122,7 @@
     <Parameter>
       <Name>lat iau_venus</Name>
       <ParameterKey>lat_psp_venus4</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>deg</Units>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>

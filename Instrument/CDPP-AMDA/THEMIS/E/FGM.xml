@@ -47,8 +47,7 @@ The data are transimitted as several different types that vary in time resolutio
       <PriorID>spase://SMWG/Instrument/THEMIS-B/FGM</PriorID>
     </ResourceHeader>
     <InstrumentType>Magnetometer</InstrumentType>
-    <InvestigationName></InvestigationName>
+    <InvestigationName>Tri-axial Fluxgate Magnetometer</InvestigationName>
     <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/THEMIS/ThemisE</ObservatoryID>
-    <Caveats/>
-  </Instrument>
+    </Instrument>
 </Spase>

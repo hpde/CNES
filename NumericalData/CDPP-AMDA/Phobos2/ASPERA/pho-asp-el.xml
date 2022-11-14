@@ -6,7 +6,7 @@
     <ResourceHeader>
       <ResourceName>elec spectra</ResourceName>
       <ReleaseDate>2019-12-06T11:02:13Z</ReleaseDate>
-      <Description/>
+      <Description>ToDo</Description>
       <Contact>
         <PersonID>spase://SMWG/Person/Elena.Budnik</PersonID>
         <Role>GeneralContact</Role>
@@ -52,12 +52,10 @@
       <CadenceMax>PT192S</CadenceMax>
     </TemporalDescription>
     <ObservedRegion>Mars</ObservedRegion>
-    <Caveats/>
     <Parameter>
       <Name>e- : perp flow</Name>
       <ParameterKey>pho_el_perp</ParameterKey>
       <Description>energy-time spectrogram of electron counts : perpendicular flow</Description>
-      <UCD/>
       <Units>cnts</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
@@ -71,7 +69,6 @@
       <Name>e- : sunward flow</Name>
       <ParameterKey>pho_el_sun</ParameterKey>
       <Description>energy-time spectrogram of electron counts : sunward flow</Description>
-      <UCD/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -84,7 +81,6 @@
       <Name>e- : tailward flow</Name>
       <ParameterKey>pho_el_tail</ParameterKey>
       <Description>energy-time spectrogram of electron counts : tailward flow</Description>
-      <UCD/>
       <Units>cnts</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>

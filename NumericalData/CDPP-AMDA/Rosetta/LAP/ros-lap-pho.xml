@@ -118,7 +118,6 @@ This is a preliminary data set which will be replaced by another in a few months
       <Name>i_ph0_60m</Name>
       <ParameterKey>ros_lap_pho</ParameterKey>
       <Description>Photosaturation current derived collectively from multiple sweeps</Description>
-      <UCD/>
       <Units>A</Units>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
@@ -133,12 +132,9 @@ This is a preliminary data set which will be replaced by another in a few months
       <ParameterKey>ros_lap_pho_q</ParameterKey>
       <Description>Quality value in the range 0 (worst) to 1 (best). 
 Corresponds to goodness of fit or how well the model fits the data.</Description>
-      <UCD/>
-      <Units/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
-      <FillValue/>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
       </Support>
@@ -149,12 +145,9 @@ Corresponds to goodness of fit or how well the model fits the data.</Description
       <Description>Quality flag constructed as the sum of multiple terms, 
 depending on what quality related effects are present. Each digit is either in 
 the range 0 (best) to 7 (worst), or 9 (not used)</Description>
-      <UCD/>
-      <Units/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
-      <FillValue/>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
       </Support>

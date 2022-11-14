@@ -72,7 +72,6 @@
       <Name>C6+/C5+ ratio</Name>
       <ParameterKey>ulys_swi_crat</ParameterKey>
       <Description>ratio of carbon 6+ to 5+</Description>
-      <Units/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -85,7 +84,6 @@
       <Name>O7+/O6+ ratio</Name>
       <ParameterKey>ulys_swi_orat</ParameterKey>
       <Description>ratio of oxygen 7+ to 6+</Description>
-      <Units/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -98,7 +96,6 @@
       <Name>Fe/O ratio</Name>
       <ParameterKey>ulys_swi_ferat</ParameterKey>
       <Description>abundance ratio of iron to oxygen</Description>
-      <Units/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>

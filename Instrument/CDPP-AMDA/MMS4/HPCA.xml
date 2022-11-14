@@ -22,7 +22,7 @@
       </InformationURL>
     </ResourceHeader>
     <InstrumentType>MassSpectrometer</InstrumentType>
-    <InvestigationName/>
+    <InvestigationName>Hot Plasma Composition Analyzer on MMS4</InvestigationName>
     <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/MMS4</ObservatoryID>
   </Instrument>
 </Spase>

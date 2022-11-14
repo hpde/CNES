@@ -11,7 +11,6 @@
             They are detailed at https://www.cosmos.esa.int/web/spice/spice-for-juice. 
             Each CReMA corresponds to a specific metakernel.                     
          </Description>
-      <Acknowledgement/>
       <Contact>
         <PersonID>spase://CNES/Person/CDPP-AMDA/ESA.SPICE.Service</PersonID>
         <Role>PrincipalInvestigator</Role>
@@ -19,8 +18,7 @@
       <InformationURL>
         <Name>Landing Page at ESAC</Name>
         <URL>https://doi.org/10.5270/esa-ybmj68p</URL>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
       <Association>
         <AssociationID>juice-orb-3.0</AssociationID>
         <AssociationType>PartOf</AssociationType>
@@ -55,7 +53,6 @@
          <Format>PNG</Format>
          <Acknowledgement>Thank you for acknowledging the use of AMDA in publications with wording like "Data analysis was performed with the AMDA science analysis system provided by the Centre de Données de la Physique des Plasmas (CDPP) supported by CNRS, CNES, Observatoire de Paris and Université Paul Sabatier, Toulouse".. See the Rules of the road at http://amda.cdpp.eu/help/policy.html. Please acknowledge the Data Providers.</Acknowledgement>
       </AccessInformation>
-    <ProviderName/>
     <InstrumentID>spase://CNES/Instrument/CDPP-AMDA/Juice/Ephemeris</InstrumentID>
     <MeasurementType>Ephemeris</MeasurementType>
     <TemporalDescription>
@@ -71,36 +68,24 @@
     <Parameter>
       <Name>xyz_iau_jupiter</Name>
       <ParameterKey>juice_jucr30_xyz</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>Rj</Units>
-      <UnitsConversion/>
       <Structure>
         <Size>3</Size>
         <Element>
           <Name>x</Name>
           <Index>1</Index>
           <ParameterKey>juice_jucr30_xyz(0)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>y</Name>
           <Index>2</Index>
           <ParameterKey>juice_jucr30_xyz(1)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>z</Name>
           <Index>3</Index>
           <ParameterKey>juice_jucr30_xyz(2)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
       </Structure>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
@@ -109,10 +94,7 @@
     <Parameter>
       <Name>distance juice-jupiter</Name>
       <ParameterKey>juice_jucr30_r</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>Rj</Units>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>
@@ -120,10 +102,7 @@
     <Parameter>
       <Name>lon_iau_jupiter</Name>
       <ParameterKey>juice_jucr30_lon</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>deg</Units>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>
@@ -131,10 +110,7 @@
     <Parameter>
       <Name>lat_iau_jupiter</Name>
       <ParameterKey>juice_jucr30_lat</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>deg</Units>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>
@@ -142,36 +118,24 @@
     <Parameter>
       <Name>xyz_jsm</Name>
       <ParameterKey>juice_jucr30_jsm</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>Rj</Units>
-      <UnitsConversion/>
       <Structure>
         <Size>3</Size>
         <Element>
           <Name>x</Name>
           <Index>1</Index>
           <ParameterKey>juice_jucr30_jsm(0)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>y</Name>
           <Index>2</Index>
           <ParameterKey>juice_jucr30_jsm(1)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>z</Name>
           <Index>3</Index>
           <ParameterKey>juice_jucr30_jsm(2)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
       </Structure>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
@@ -180,36 +144,24 @@
     <Parameter>
       <Name>xyz_jso</Name>
       <ParameterKey>juice_jucr30_jso</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>Rj</Units>
-      <UnitsConversion/>
       <Structure>
         <Size>3</Size>
         <Element>
           <Name>x</Name>
           <Index>1</Index>
           <ParameterKey>juice_jucr30_js0(0)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>y</Name>
           <Index>2</Index>
           <ParameterKey>juice_jucr30_js0(1)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>z</Name>
           <Index>3</Index>
           <ParameterKey>juice_jucr30_js0(2)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
       </Structure>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>

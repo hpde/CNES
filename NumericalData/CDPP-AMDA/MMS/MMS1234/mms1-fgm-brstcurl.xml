@@ -5,9 +5,8 @@
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/MMS/MMS1234/mms1-fgm-brstcurl</ResourceID>
     <ResourceHeader>
       <ResourceName>current</ResourceName>
-      <AlternateName/>
       <ReleaseDate>2022-08-02T03:16:58Z</ReleaseDate>
-      <Description/>
+      <Description>ToDo</Description>
       <Contact>
         <PersonID>spase://CNES/Person/CDPP-AMDA/Penou</PersonID>
         <Role>DataProducer</Role>
@@ -83,10 +82,7 @@
     <Parameter>
       <Name>j_gse</Name>
       <ParameterKey>mms1234_j_gse_brst</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>A/m**2</Units>
-      <UnitsConversion/>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
         <CoordinateSystemName>GSE</CoordinateSystemName>
@@ -123,10 +119,7 @@
     <Parameter>
       <Name>j_gsm</Name>
       <ParameterKey>mms1234_j_gsm_brst</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>A/m**2</Units>
-      <UnitsConversion/>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
         <CoordinateSystemName>GSM</CoordinateSystemName>
@@ -163,10 +156,7 @@
     <Parameter>
       <Name>j</Name>
       <ParameterKey>mms1234_j_tot_brst</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>A/m**2</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -178,10 +168,7 @@
     <Parameter>
       <Name>j_para_gse</Name>
       <ParameterKey>mms1234_j_para_gse_brst</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>A/m**2</Units>
-      <UnitsConversion/>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
         <CoordinateSystemName>GSE</CoordinateSystemName>
@@ -218,10 +205,7 @@
     <Parameter>
       <Name>j_para_gsm</Name>
       <ParameterKey>mms1234_j_para_gsm_brst</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>A/m**2</Units>
-      <UnitsConversion/>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
         <CoordinateSystemName>GSE</CoordinateSystemName>
@@ -258,10 +242,7 @@
     <Parameter>
       <Name>j_para</Name>
       <ParameterKey>mms1234_j_para_tot_brst</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>A/m**2</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -273,10 +254,7 @@
     <Parameter>
       <Name>j_perp_gse</Name>
       <ParameterKey>mms1234_j_perp_gse_brst</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>A/m**2</Units>
-      <UnitsConversion/>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
         <CoordinateSystemName>GSE</CoordinateSystemName>
@@ -313,10 +291,7 @@
     <Parameter>
       <Name>j_perp_gsm</Name>
       <ParameterKey>mms1234_j_perp_gsm_brst</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>A/m**2</Units>
-      <UnitsConversion/>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
         <CoordinateSystemName>GSE</CoordinateSystemName>
@@ -353,10 +328,7 @@
     <Parameter>
       <Name>j_perp</Name>
       <ParameterKey>mms1234_j_perp_tot_brst</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>A/m**2</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -368,10 +340,7 @@
     <Parameter>
       <Name>r curv</Name>
       <ParameterKey>mms1_r_c_brst</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>Re</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -382,10 +351,7 @@
     <Parameter>
       <Name>div T</Name>
       <ParameterKey>mms1_div_t_brst</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>T/m</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>

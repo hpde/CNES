@@ -7,8 +7,7 @@
       <ResourceName>orbit</ResourceName>
       <AlternateName>Helios2 orbit</AlternateName>
       <ReleaseDate>2018-11-06T12:06:06Z</ReleaseDate>
-      <Description/>
-      <Acknowledgement/>
+      <Description>ToDo</Description>
       <Contact>
         <PersonID>spase://CNES/Person/CDPP-AMDA/NAIF</PersonID>
         <Role>PrincipalInvestigator</Role>
@@ -71,36 +70,24 @@
     <Parameter>
       <Name>xyz_iau_sun</Name>
       <ParameterKey>helios2_xyz_iausun</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>AU</Units>
-      <UnitsConversion/>
       <Structure>
         <Size>3</Size>
         <Element>
           <Name>x</Name>
           <Index>1</Index>
           <ParameterKey>helios2_xyz_iausun(0)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>y</Name>
           <Index>2</Index>
           <ParameterKey>helios2_xyz_iausun(1)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>z</Name>
           <Index>3</Index>
           <ParameterKey>helios2_xyz_iausun(2)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
       </Structure>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
@@ -109,36 +96,24 @@
     <Parameter>
       <Name>xyz_hee</Name>
       <ParameterKey>helios2_xyz_hee</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>AU</Units>
-      <UnitsConversion/>
       <Structure>
         <Size>3</Size>
         <Element>
           <Name>x</Name>
           <Index>1</Index>
           <ParameterKey>helios2_xyz_hee(0)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>y</Name>
           <Index>2</Index>
           <ParameterKey>helios2_xyz_hee(1)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>z</Name>
           <Index>3</Index>
           <ParameterKey>helios2_xyz_hee(2)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
       </Structure>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
@@ -147,36 +122,24 @@
     <Parameter>
       <Name>xyz_heeq</Name>
       <ParameterKey>helios2_xyz_heeq</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>AU</Units>
-      <UnitsConversion/>
       <Structure>
         <Size>3</Size>
         <Element>
           <Name>x</Name>
           <Index>1</Index>
           <ParameterKey>helios2_xyz_heeq(0)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>y</Name>
           <Index>2</Index>
           <ParameterKey>helios2_xyz_heeq(1)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>z</Name>
           <Index>3</Index>
           <ParameterKey>helios2_xyz_heeq(2)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
       </Structure>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
@@ -185,10 +148,7 @@
     <Parameter>
       <Name>distance helios2-sun</Name>
       <ParameterKey>helios2_sun_r</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>AU</Units>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>
@@ -196,10 +156,7 @@
     <Parameter>
       <Name>lon iau_sun</Name>
       <ParameterKey>helios2_lon_iausun</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>deg</Units>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>
@@ -207,10 +164,7 @@
     <Parameter>
       <Name>lat iau_sun</Name>
       <ParameterKey>helios2_lat_iausun</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>deg</Units>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>
@@ -218,10 +172,7 @@
     <Parameter>
       <Name>lon hee</Name>
       <ParameterKey>helios2_lon_hee</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>deg</Units>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>
@@ -229,10 +180,7 @@
     <Parameter>
       <Name>lat hee</Name>
       <ParameterKey>helios2_lat_hee</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>deg</Units>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>

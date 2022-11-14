@@ -36,20 +36,14 @@ waves in the solar wind. More precisely, RPW will:
 * Observe the radio counterpart of dust particle impacts
 * Detect on-board in-situ shock crossings and store the corresponding data
 * Detect on-board in-situ Type III events and store the corresponding data</Description>  
-      <Acknowledgement/>
       <Contact>
         <PersonID>spase://SMWG/Person/Milan.Maksimovic</PersonID>
         <Role>PrincipalInvestigator</Role>
       </Contact>   
-      <InformationURL>
-        <Name/> 
-        <URL/> 
-      </InformationURL>     
-    </ResourceHeader>
+      </ResourceHeader>
     <InstrumentType>Antenna</InstrumentType>
     <InstrumentType>SearchCoil</InstrumentType>
-    <InvestigationName/>
+    <InvestigationName>Plasma Wave Investigation</InvestigationName>
     <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/SolO</ObservatoryID>
-    <Caveats/>
-  </Instrument>
+    </Instrument>
 </Spase>

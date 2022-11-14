@@ -4,6 +4,6 @@
   <Person>
     <ResourceID>spase://CNES/Person/CDPP-AMDA/Charles.Hall</ResourceID>
     <PersonName>Dr. Charles Hall</PersonName>
-    <OrganizationName/>
+    <OrganizationName>NASA Ames Research Center</OrganizationName>
   </Person>
 </Spase>

@@ -6,7 +6,7 @@
     <ResourceHeader>
       <ResourceName>Deimos</ResourceName>
       <ReleaseDate>2022-03-10T10:35:55Z</ReleaseDate>
-      <Description/>
+      <Description>ToDo</Description>
       <Contact>
         <PersonID>spase://CNES/Person/CDPP-AMDA/NAIF</PersonID>
         <Role>PrincipalInvestigator</Role>
@@ -60,7 +60,6 @@
     <Parameter>
       <Name>deimos_xyz_mso</Name>
       <ParameterKey>xyz_deimos</ParameterKey>
-      <UCD/>
       <Units>Rm</Units>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
@@ -94,7 +93,6 @@
     <Parameter>
       <Name>distance deimos-mars</Name>
       <ParameterKey>r_deimos</ParameterKey>
-      <UCD/>
       <Units>Rm</Units>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>

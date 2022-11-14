@@ -5,7 +5,6 @@
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/FREJA/ESP/fja-sc-charg</ResourceID>
     <ResourceHeader>
       <ResourceName>charging events</ResourceName>
-      <AlternateName/>
       <ReleaseDate>2020-08-25T09:51:53Z</ReleaseDate>
       <Description>This dataset provides data of a total of 291 spacecraft surface charging events detected during the operation of the Freja satellite. 
                 The dataset provides peak charging level, light conditions and charging duration. 
@@ -62,7 +61,6 @@
       <Cadence>PT60S</Cadence>
     </TemporalDescription>
     <ObservedRegion>Earth.Magnetosphere</ObservedRegion>
-    <Caveats/>
     <Parameter>
       <Name>orbit nb</Name>
       <ParameterKey>fja_sc_orb</ParameterKey>

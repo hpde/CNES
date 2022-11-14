@@ -127,7 +127,6 @@ when RPC-MIP is not delivering cross-calibrated density products. Quality value 
       <ParameterKey>ros_lap_nel</ParameterKey>
       <Description>Plasma density which contains the highest time resolution cross-calibrated density data, 
 when RPC-MIP is not delivering cross-calibrated density products</Description>
-      <UCD/>
       <Units>cm^-3</Units>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
@@ -141,12 +140,9 @@ when RPC-MIP is not delivering cross-calibrated density products</Description>
       <Name>n_e : qual</Name>
       <ParameterKey>ros_lap_nel_q</ParameterKey>
       <Description>Quality value in the range 0 (worst) to 1 (best). Corresponds to goodness of fit or how well the model fits the data.</Description>
-      <UCD/>
-      <Units/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
-      <FillValue/>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
       </Support>
@@ -154,12 +150,9 @@ when RPC-MIP is not delivering cross-calibrated density products</Description>
     <Parameter>
       <Name>data source</Name>
       <ParameterKey>ros_lap_nel_s</ParameterKey>
-      <UCD/>
-      <Units/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
-      <FillValue/>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
       </Support>
@@ -170,12 +163,9 @@ when RPC-MIP is not delivering cross-calibrated density products</Description>
       <Description>Quality flag constructed as the sum of multiple terms, 
 depending on what quality related effects are present. Each digit is either in 
 the range 0 (best) to 7 (worst), or 9 (not used)</Description>
-      <UCD/>
-      <Units/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
-      <FillValue/>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
       </Support>

@@ -41,7 +41,7 @@
       </InformationURL> 
     </ResourceHeader>
     <InstrumentType>Magnetometer</InstrumentType>
-    <InvestigationName/>
+    <InvestigationName>Magnetic Field Experiment</InvestigationName>
     <OperatingSpan>
       <StartDate>1992-10-24T00:00:00</StartDate>
       <StopDate>1995-02-15T23:59:59</StopDate>   

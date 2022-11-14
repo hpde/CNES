@@ -7,15 +7,15 @@
       <ResourceName>Ephemeris</ResourceName>
       <AlternateName>Phobos2 Position in MSO</AlternateName>
       <ReleaseDate>2009-05-20T21:10:13Z</ReleaseDate>
-      <Description/>      
-      <Acknowledgement/>
+      <Description>Phobos2 Spacecraft Ephemeris Virtual Instrument</Description>      
+      <Acknowledgement>Please acknowledge the Institute of Cosmophysical Research (Institut Kosmicheskich, Issledovaniy), Moscow, USSR</Acknowledgement>
       <Contact>
         <PersonID>spase://CNES/Person/CDPP-AMDA/NAIF</PersonID>
         <Role>PrincipalInvestigator</Role>
       </Contact>
     </ResourceHeader>
     <InstrumentType>Platform</InstrumentType>
-    <InvestigationName/>
+    <InvestigationName>Phobos2 Spacecraft Ephemeris</InvestigationName>
     <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/Phobos2</ObservatoryID>
   </Instrument>
 </Spase>

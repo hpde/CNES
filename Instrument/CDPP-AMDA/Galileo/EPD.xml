@@ -13,13 +13,12 @@ The EPD was developed by The Johns Hopkins University Applied Physics Laboratory
 
 
 The EPD measures the detailed energy and angular distribution of the following:
-* ions (Z >= 1) from 0.020 to 55 MeV, 
+* ions (Z &gt;= 1) from 0.020 to 55 MeV, 
 * electrons from 0.015 MeV to more than 11 MeV, 
 * ion composition from 0.010 MeV/nuc to over 10 MeV/nuc, 
 * the elemental species helium through iron from approximately 10 keV/nuc to 15 Mev/nuc.
     </Description>
-      <Acknowledgement/>
-            <Contact>
+      <Contact>
                 <PersonID>spase://SMWG/Person/Donald.J.Williams</PersonID>
                 <Role>PrincipalInvestigator</Role>
             </Contact>
@@ -29,8 +28,7 @@ The EPD measures the detailed energy and angular distribution of the following:
       </InformationURL>
     </ResourceHeader>
     <InstrumentType>EnergeticParticleInstrument</InstrumentType>
-    <InvestigationName/>
+    <InvestigationName>Energetic Particles Detector</InvestigationName>
     <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/Galileo</ObservatoryID>
-    <Caveats/>
-  </Instrument>
+    </Instrument>
 </Spase>

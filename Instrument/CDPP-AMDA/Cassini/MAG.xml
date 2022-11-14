@@ -18,7 +18,6 @@
         during launch and deployed about two years after launch. 
         The magnetometer electronics are located in a bay in the Cassini 
         orbiter's spacecraft body.</Description>
-      <Acknowledgement/>
       <Contact>
         <PersonID>spase://CNES/Person/CDPP-AMDA/Michele.Dougherty</PersonID>
         <Role>PrincipalInvestigator</Role>
@@ -32,6 +31,5 @@
     <InstrumentType>Magnetometer</InstrumentType>
     <InvestigationName>Dual Technique Magnetometer</InvestigationName>
     <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/Cassini</ObservatoryID>
-    <Caveats/>
   </Instrument>
 </Spase>

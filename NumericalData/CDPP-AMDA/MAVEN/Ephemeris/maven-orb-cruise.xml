@@ -70,10 +70,7 @@
     <Parameter>
       <Name>xyz_iau_sun</Name>
       <ParameterKey>mav_xyz_iausun</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>AU</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -95,9 +92,6 @@
           <ParameterKey>mav_xyz_iausun(2)</ParameterKey>
         </Element>
       </Structure>
-      <ValidMin/>
-      <ValidMax/>
-      <FillValue/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>
@@ -105,10 +99,7 @@
     <Parameter>
       <Name>xyz_hee</Name>
       <ParameterKey>mav_xyz_hee</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>AU</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -130,9 +121,6 @@
           <ParameterKey>mav_xyz_hee(2)</ParameterKey>
         </Element>
       </Structure>
-      <ValidMin/>
-      <ValidMax/>
-      <FillValue/>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
       </Support>
@@ -140,10 +128,7 @@
     <Parameter>
       <Name>xyz_heeq</Name>
       <ParameterKey>mav_xyz_heeq</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>AU</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -165,9 +150,6 @@
           <ParameterKey>mav_xyz_heeq(2)</ParameterKey>
         </Element>
       </Structure>
-      <ValidMin/>
-      <ValidMax/>
-      <FillValue/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>
@@ -175,10 +157,7 @@
     <Parameter>
       <Name>distance maven-sun</Name>
       <ParameterKey>mav_sun_r</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>AU</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -189,10 +168,7 @@
     <Parameter>
       <Name>lon_iau_sun</Name>
       <ParameterKey>mav_lon_iausun</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>degrees</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -203,10 +179,7 @@
     <Parameter>
       <Name>lat_iau_sun</Name>
       <ParameterKey>mav_lat_iausun</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>degrees</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>

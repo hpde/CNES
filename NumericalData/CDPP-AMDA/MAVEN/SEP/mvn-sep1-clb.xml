@@ -73,10 +73,7 @@
     <Parameter>
       <Name>electrons : forward</Name>
       <ParameterKey>mav_sep1_fe</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>1/cm^2/sec/ster/keV</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -91,10 +88,7 @@
     <Parameter>
       <Name>electrons : rear</Name>
       <ParameterKey>mav_sep1_re</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>1/cm^2/sec/ster/keV</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -109,10 +103,7 @@
     <Parameter>
       <Name>ions : forward</Name>
       <ParameterKey>mav_sep1_fi</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>1/cm^2/sec/ster/keV</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -127,10 +118,7 @@
     <Parameter>
       <Name>ions : rear</Name>
       <ParameterKey>mav_sep1_ri</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>1/cm^2/sec/ster/keV</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -145,10 +133,6 @@
     <Parameter>
       <Name>attenuator state</Name>
       <ParameterKey>mav_sep1_att</ParameterKey>
-      <Description/>
-      <UCD/>
-      <Units/>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>

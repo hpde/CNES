@@ -8,14 +8,13 @@
       <AlternateName>SWARM-C Orbital Information</AlternateName>
       <ReleaseDate>2019-05-20T21:10:13Z</ReleaseDate>
       <Description>SWARM-C orbital information is obtained from MAG, EFI / LP and EFI / TII datasets</Description>      
-      <Acknowledgement/>
       <Contact>
         <PersonID>spase://CNES/Person/CDPP-AMDA/R.Haagmans</PersonID>
         <Role>ProjectScientist</Role>
       </Contact>
     </ResourceHeader>
     <InstrumentType>Platform</InstrumentType>
-    <InvestigationName/>
+    <InvestigationName>SWARM-C Orbital Information</InvestigationName>
     <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/SWARM-C</ObservatoryID>
   </Instrument>
 </Spase>

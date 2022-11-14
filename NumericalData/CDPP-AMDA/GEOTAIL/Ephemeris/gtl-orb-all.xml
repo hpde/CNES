@@ -139,14 +139,10 @@
     <Parameter>
       <Name>distance gtl-earth</Name>
       <ParameterKey>gtl_r</ParameterKey>
-      <Description/>
       <UCD>pos.distance;instr.obsty</UCD>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
-      <ValidMin/>
-      <ValidMax/>
-      <FillValue/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>

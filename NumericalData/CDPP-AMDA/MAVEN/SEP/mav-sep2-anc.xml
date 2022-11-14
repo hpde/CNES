@@ -76,9 +76,6 @@
       <Name>forward : FOV center in MSO</Name>
       <ParameterKey>mav_sep2_fmso</ParameterKey>
       <Description>Geometric center of telecope 2 forward field of view in MSO coordinates</Description>
-      <UCD/>
-      <Units/>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -108,9 +105,6 @@
       <Name>rear : FOV center in MSO</Name>
       <ParameterKey>mav_sep2_rmso</ParameterKey>
       <Description>Geometric center of telecope 2 rear field of view in MSO coordinates</Description>
-      <UCD/>
-      <Units/>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -204,9 +198,6 @@
       <Name>forward : FOV center in IAU</Name>
       <ParameterKey>mav_sep2_fare</ParameterKey>
       <Description>Geometric center of telecope 2 forward field of view in IAU Mars coordinates</Description>
-      <UCD/>
-      <Units/>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -236,9 +227,6 @@
       <Name>rear : FOV center in IAU</Name>
       <ParameterKey>mav_sep2_rare</ParameterKey>
       <Description>Geometric center of telecope 2 rear field of view in IAU MARS coordinates</Description>
-      <UCD/>
-      <Units/>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -268,9 +256,7 @@
       <Name>forward : sun angle</Name>
       <ParameterKey>mav_sep2_fsun</ParameterKey>
       <Description>Angle between the geometric center of telescope 2 forward field of view and the direction of the sun</Description>
-      <UCD/>
       <Units>degrees</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -282,9 +268,7 @@
       <Name>rear : sun angle</Name>
       <ParameterKey>mav_sep2_rsun</ParameterKey>
       <Description>Angle between the geometric center of telescope 2 rear field of view and the direction of the sun</Description>
-      <UCD/>
       <Units>degrees</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -296,9 +280,7 @@
       <Name>forward : pitch angle</Name>
       <ParameterKey>mav_sep2_fpitch</ParameterKey>
       <Description>Angle between the geometric center of telescope 2 forward field of view and the magnetic field direction averaged over the 32 second interval</Description>
-      <UCD/>
       <Units>degrees</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -310,9 +292,7 @@
       <Name>rear : pitch angle</Name>
       <ParameterKey>mav_sep2_rpitch</ParameterKey>
       <Description>Angle between the geometric center of telescope 2 rear field of view and the magnetic field direction averaged over the 32 second interval</Description>
-      <UCD/>
       <Units>degrees</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -324,9 +304,7 @@
       <Name>forward : nadir angle</Name>
       <ParameterKey>mav_sep2_fnadir</ParameterKey>
       <Description>Angle between the geometric center of telescope 2 forward field of view and the nadir direction, i.e. towards the center of Mars</Description>
-      <UCD/>
       <Units>degrees</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -338,9 +316,7 @@
       <Name>rear : nadir angle</Name>
       <ParameterKey>mav_sep2_rnadir</ParameterKey>
       <Description>Angle between the geometric center of telescope 2 rear field of view and the nadir direction, i.e. towards the center of Mars</Description>
-      <UCD/>
       <Units>degrees</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -352,9 +328,6 @@
       <Name>forward : fraction mars</Name>
       <ParameterKey>mav_sep2_fmars</ParameterKey>
       <Description>Fraction of telescope 2 forward field of view taken up by Mars</Description>
-      <UCD/>
-      <Units/>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -366,9 +339,6 @@
       <Name>rear : fraction mars</Name>
       <ParameterKey>mav_sep2_rmars</ParameterKey>
       <Description>Fraction of telescope 2 rear field of view taken up by Mars</Description>
-      <UCD/>
-      <Units/>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -380,9 +350,6 @@
       <Name>mars :fraction sky</Name>
       <ParameterKey>mav_sep2_mars</ParameterKey>
       <Description>Fraction of the sky filled by the disk of Mars</Description>
-      <UCD/>
-      <Units/>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>

@@ -22,7 +22,6 @@
        Each head contains a solid state detector divided in several pixels to achieve angular resolution. For each channel there are 
        15 pixels distributed in 3 rows and 5 columns, plus a separate pixel for measuring background.
       </Description>
-      <Acknowledgement></Acknowledgement>
       <Contact>
         <PersonID>spase://CNES/Person/CDPP-AMDA/J.Rodrigues-Pacheco</PersonID>
         <Role>PrincipalInvestigator</Role>

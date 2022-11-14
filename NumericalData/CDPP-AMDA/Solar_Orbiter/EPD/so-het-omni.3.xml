@@ -23,8 +23,7 @@ Anti-Sun, North and South)
       <InformationURL>
         <Name>SolO Archive Support Data</Name>
         <URL>https://issues.cosmos.esa.int/solarorbiterwiki/display/SOSP/Archive+Support+Data</URL>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
       <Association>
         <AssociationID>solo-epd-het.3</AssociationID>
         <AssociationType>PartOf</AssociationType>
@@ -81,9 +80,7 @@ Anti-Sun, North and South)
       <Name>fe flux: omni</Name>
       <ParameterKey>solo_het_omni_feflux</ParameterKey>
       <Description>Ferrum flux</Description>
-      <UCD/>
       <Units>1/(s cm^2 sr MeV/n)</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>

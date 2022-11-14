@@ -6,7 +6,7 @@
     <ResourceHeader>
       <ResourceName>flyby mercury 1</ResourceName>
       <ReleaseDate>2015-12-22T16:50:09Z</ReleaseDate>
-      <Description/>
+      <Description>ToDo</Description>
       <Contact>
         <PersonID>spase://SMWG/Person/Elena.Budnik</PersonID>
         <Role>TechnicalContact</Role>
@@ -116,7 +116,6 @@
     <Parameter>
       <Name>distance mess-mercury</Name>
       <ParameterKey>mes_mercury1_r</ParameterKey>
-      <Description/>
       <UCD>pos.bodyrc;instr.obsty</UCD>
       <Units>Rm</Units>
       <Support>

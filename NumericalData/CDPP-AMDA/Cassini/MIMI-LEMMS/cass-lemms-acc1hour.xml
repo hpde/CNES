@@ -73,14 +73,13 @@
     <Parameter>
       <Name>LET ions A</Name>
       <ParameterKey>cass_lemms_acc1houra</ParameterKey>
-      <Description/>
       <UCD>phot.count;phys.atmol.ionStage</UCD>
       <Units>cm-2.sr-1.s-1.keV-1</Units>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
       <Structure>
-        <Size/>
+	<Size>9</Size>
         <Element>
           <Name>A0 : 27-35 keV</Name>
           <Index>1</Index>
@@ -135,14 +134,13 @@
     <Parameter>
       <Name>LET electrons C</Name>
       <ParameterKey>cass_lemms_acc1hourc</ParameterKey>
-      <Description/>
       <UCD>phot.count;phys.electron</UCD>
       <Units>cm-2.sr-1.s-1.keV-1</Units>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
       <Structure>
-        <Size/>
+	<Size>8</Size>
         <Element>
           <Name>C0 : 18-40 keV</Name>
           <Index>1</Index>
@@ -192,14 +190,13 @@
     <Parameter>
       <Name>HET electrons E</Name>
       <ParameterKey>cass_lemms_acc1houre</ParameterKey>
-      <Description/>
       <UCD>phot.count;phys.electron</UCD>
       <Units>cm-2.sr-1.s-1.keV-1</Units>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
       <Structure>
-        <Size/>
+	<Size>5</Size>
         <Element>
           <Name>E0 : 110-365 keV</Name>
           <Index>1</Index>
@@ -234,14 +231,13 @@
     <Parameter>
       <Name>HET ions P</Name>
       <ParameterKey>cass_lemms_acc1hourp</ParameterKey>
-      <Description/>
       <UCD>phot.count;phys.atmol.ionStage</UCD>
       <Units>cm-2.sr-1.s-1.keV-1</Units>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
       <Structure>
-        <Size/>
+	<Size>9</Size>
         <Element>
           <Name>P1 : 1424-2278 keV</Name>
           <Index>1</Index>

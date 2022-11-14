@@ -14,7 +14,6 @@ ions and electrons in the energy range 0.03 to 18 MeV for ions and 0.015 to
 method of detection uses magnets to bend low-energy electrons into detectors  
 and the second uses a stack of detectors capable of separating electrons by   
 energy discrimination</Description>
-      <Acknowledgement/>
       <Contact>
         <PersonID>spase://SMWG/Person/Stamatios.M.Krimigis</PersonID>
         <Role>PrincipalInvestigator</Role>
@@ -23,11 +22,9 @@ energy discrimination</Description>
         <Name>MIMI page at Max Plank Institute</Name>
         <URL>http://www.mps.mpg.de/planetary-science/cassini-huygens-mimi</URL>
       </InformationURL>
-      <PriorID></PriorID>
     </ResourceHeader>
     <InstrumentType>Spectrometer</InstrumentType>
-    <InvestigationName/>
+    <InvestigationName>Magnetosperic IMaging Instrument on MIMI-LEMMS</InvestigationName>
     <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/Cassini</ObservatoryID>
-    <Caveats/>
   </Instrument>
 </Spase>

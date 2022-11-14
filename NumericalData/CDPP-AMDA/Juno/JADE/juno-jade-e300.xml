@@ -5,9 +5,8 @@
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/Juno/JADE/juno-jade-e300</ResourceID>
     <ResourceHeader>
       <ResourceName>instrument-300</ResourceName>
-      <AlternateName/>
       <ReleaseDate>2021-04-05T14:29:02Z</ReleaseDate>
-      <Description/>
+      <Description>ToDo</Description>
       <Contact>
         <PersonID>spase://SMWG/Person/David.J.McComas</PersonID>
         <Role>PrincipalInvestigator</Role>
@@ -59,20 +58,13 @@
       <CadenceMax>PT4S</CadenceMax>
     </TemporalDescription>
     <ObservedRegion>Jupiter</ObservedRegion>
-    <Caveats/>
     <Parameter>
       <Name>counts/sec</Name>
       <ParameterKey>jade_e300_cps</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>counts per sec</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
-      <Structure>
-        <Size/>
-      </Structure>
       <Particle>
         <ParticleType>Electron</ParticleType>
         <ParticleQuantity>CountRate</ParticleQuantity>
@@ -81,16 +73,10 @@
     <Parameter>
       <Name>counts/sec - Sum</Name>
       <ParameterKey>jade_e300_cps_sum</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>counts per sec</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
-      <Structure>
-        <Size/>
-      </Structure>
       <Particle>
         <ParticleType>Electron</ParticleType>
         <ParticleQuantity>CountRate</ParticleQuantity>
@@ -99,16 +85,9 @@
     <Parameter>
       <Name>mode</Name>
       <ParameterKey>jade_e300_mode</ParameterKey>
-      <Description/>
-      <UCD/>
-      <Units/>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
-      <Structure>
-        <Size/>
-      </Structure>
       <Support>
         <SupportQuantity>InstrumentMode</SupportQuantity>
       </Support>

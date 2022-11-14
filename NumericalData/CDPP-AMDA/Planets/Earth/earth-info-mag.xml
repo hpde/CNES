@@ -31,8 +31,7 @@
       <InformationURL>
         <Name>Description</Name>
         <URL>http://amda-test.irap.omp.eu/help/parameters/tilt_dipole.pdf</URL>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
       <InformationURL>
         <Name>Code source</Name>
         <URL>http://geo.phys.spbu.ru/~tsyganenko/Geopack-2008.html</URL>
@@ -78,15 +77,12 @@
       <Cadence>PT1M</Cadence>
     </TemporalDescription>
     <ObservedRegion>Earth</ObservedRegion>
-    <Caveats/>
     <Parameter>
       <Name>tilt angle</Name>
       <ParameterKey>tilt_angle_60</ParameterKey>
       <Description>The angle between the ZSM (the opposite of the Earth magnetic moment) and ZGSM
             directions</Description>
-      <UCD/>
       <Units>deg</Units>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>
@@ -96,9 +92,7 @@
       <ParameterKey>roll_angle_60</ParameterKey>
       <Description>The angle between the projection of the Earth magnetic moment on the
             YZGSE plane and the ZGSE direction</Description>
-      <UCD/>
       <Units>deg</Units>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>

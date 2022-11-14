@@ -8,7 +8,6 @@
       <ReleaseDate>2012-07-24T09:05:50Z</ReleaseDate>
       <Description>The Khurana magnetic field model is an empirical model based on data from the Galileo spacecraft. The code was originally written in Fortran 77/90 but has since been converted into IDL. 
             Calculated with IDL code for Galileo mission.</Description>
-      <Acknowledgement/>
       <Contact>
         <PersonID>spase://CNES/Person/CDPP-AMDA/Krishan.Khurana</PersonID>
         <Role>PrincipalInvestigator</Role>
@@ -16,8 +15,7 @@
       <InformationURL>
         <Name>Access to Khurana model</Name>
         <URL>http://lasp.colorado.edu/home/mop/resources/graphics/code/</URL>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
     </ResourceHeader>
     <AccessInformation>
          <RepositoryID>spase://SMWG/Repository/CDPP/AMDA</RepositoryID>
@@ -47,7 +45,6 @@
          <Format>PNG</Format>
          <Acknowledgement>Thank you for acknowledging the use of AMDA in publications with wording like "Data analysis was performed with the AMDA science analysis system provided by the Centre de Données de la Physique des Plasmas (CDPP) supported by CNRS, CNES, Observatoire de Paris and Université Paul Sabatier, Toulouse".. See the Rules of the road at http://amda.cdpp.eu/help/policy.html. Please acknowledge the Data Providers.</Acknowledgement>
       </AccessInformation>
-    <ProviderName/>
     <InstrumentID>spase://CNES/Instrument/CDPP-AMDA/Galileo/Models</InstrumentID>
     <MeasurementType>MagneticField</MeasurementType>
     <TemporalDescription>
@@ -63,36 +60,24 @@
     <Parameter>
       <Name>b_sys3</Name>
       <ParameterKey>gll_khurana_bsys3</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>nT</Units>
-      <UnitsConversion/>
       <Structure>
         <Size>3</Size>
         <Element>
           <Name>br_sys3</Name>
           <Index>1</Index>
           <ParameterKey>gll_khurana_bsys3(0)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>bt_sys3</Name>
           <Index>2</Index>
           <ParameterKey>gll_khurana_bsys3(1)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>bp_sys3</Name>
           <Index>3</Index>
           <ParameterKey>gll_khurana_bsys3(2)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
       </Structure>
       <Field>
         <Qualifier>Vector</Qualifier>
@@ -102,10 +87,7 @@
     <Parameter>
       <Name>b_mag</Name>
       <ParameterKey>gll_khurana_bmag</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>nT</Units>
-      <UnitsConversion/>
       <Field>
         <Qualifier>Vector</Qualifier>
         <FieldQuantity>Magnetic</FieldQuantity>

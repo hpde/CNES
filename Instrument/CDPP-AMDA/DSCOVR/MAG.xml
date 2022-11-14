@@ -17,13 +17,13 @@
         <Role>PrincipalInvestigator</Role>
       </Contact>     
       <InformationURL>
-        <Name></Name>
-        <URL></URL>
-        <Description></Description>
+        <Name>NOAA Satellite and Information Service DSCOVR PLASMA-MAGNETOMETER</Name>
+        <URL>https://en.wikipedia.org/wiki/Deep_Space_Climate_Observatory</URL>
+        <Description>A general description of the DSCOVR magnetometer.</Description>
       </InformationURL>
     </ResourceHeader>
     <InstrumentType>Magnetometer</InstrumentType>
-    <InvestigationName/>
+    <InvestigationName>Fluxgate Magnetometer on DSCOVR</InvestigationName>
     <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/DSCOVR</ObservatoryID>
   </Instrument>
 </Spase>

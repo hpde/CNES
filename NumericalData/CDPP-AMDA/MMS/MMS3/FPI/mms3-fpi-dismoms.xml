@@ -78,10 +78,7 @@ dicated time.</Description>
     <Parameter>
       <Name>density</Name>
       <ParameterKey>mms3_dis_ni</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>cm^-3</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -94,10 +91,7 @@ dicated time.</Description>
     <Parameter>
       <Name>density : err</Name>
       <ParameterKey>mms3_dis_ni_err</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>cm^-3</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -110,10 +104,7 @@ dicated time.</Description>
     <Parameter>
       <Name>v_gse</Name>
       <ParameterKey>mms3_dis_vgse</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>km/s</Units>
-      <UnitsConversion/>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
         <CoordinateSystemName>GSE</CoordinateSystemName>
@@ -151,10 +142,7 @@ dicated time.</Description>
     <Parameter>
       <Name>v_gse : err</Name>
       <ParameterKey>mms3_dis_v_err</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>km/s</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -188,10 +176,7 @@ dicated time.</Description>
     <Parameter>
       <Name>t_para</Name>
       <ParameterKey>mms3_dis_tpara</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>eV</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -204,10 +189,7 @@ dicated time.</Description>
     <Parameter>
       <Name>t_perp</Name>
       <ParameterKey>mms3_dis_tperp</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>eV</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -220,7 +202,6 @@ dicated time.</Description>
     <Parameter>
       <Name>heatq_gse</Name>
       <ParameterKey>mms3_dis_heatq</ParameterKey>
-      <Description/>
       <UCD>phys.pressure</UCD>
       <Units>mW/m^2</Units>
       <CoordinateSystem>
@@ -257,7 +238,6 @@ dicated time.</Description>
     <Parameter>
       <Name>pressure_gse</Name>
       <ParameterKey>mms3_dis_press</ParameterKey>
-      <Description/>
       <UCD>phys.pressure</UCD>
       <Units>nPa</Units>
       <CoordinateSystem>
@@ -324,8 +304,6 @@ dicated time.</Description>
     <Parameter>
       <Name>ion eflux : omni</Name>
       <ParameterKey>mms3_dis_omni</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>keV/(cm^2-s-sr-keV)</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>

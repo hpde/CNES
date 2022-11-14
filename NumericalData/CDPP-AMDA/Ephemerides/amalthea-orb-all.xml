@@ -67,7 +67,6 @@
     <Parameter>
       <Name>xyz_jsm</Name>
       <ParameterKey>amal_jup_jsm</ParameterKey>
-      <UCD/>
       <Units>Rj</Units>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
@@ -101,7 +100,6 @@
     <Parameter>
       <Name>xyz_jso</Name>
       <ParameterKey>amal_jup_jso</ParameterKey>
-      <UCD/>
       <Units>Rj</Units>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
@@ -135,7 +133,6 @@
     <Parameter>
       <Name>xyz_IAU_jupiter</Name>
       <ParameterKey>amal_jup_xyz</ParameterKey>
-      <UCD/>
       <Units>Rj</Units>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
@@ -165,7 +162,6 @@
     <Parameter>
       <Name>distance amalthea-jupiter</Name>
       <ParameterKey>amal_jup_r</ParameterKey>
-      <UCD/>
       <Units>Rj</Units>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
@@ -177,7 +173,6 @@
     <Parameter>
       <Name>latitude IAU_jupiter</Name>
       <ParameterKey>amal_jup_lat</ParameterKey>
-      <UCD/>
       <Units>deg</Units>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
@@ -186,7 +181,6 @@
     <Parameter>
       <Name>longitude IAU_jupiter</Name>
       <ParameterKey>amal_jup_lon</ParameterKey>
-      <UCD/>
       <Units>deg</Units>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>

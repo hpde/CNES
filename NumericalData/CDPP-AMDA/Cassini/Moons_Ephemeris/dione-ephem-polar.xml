@@ -10,7 +10,6 @@
                 *  Western Longitude (IAU_Saturn) based on the Voyager determination of the period of Saturn kilometric radiation (SKR).
                 *  L-shell (assuming dipolar magnetic field)
                 *  Local Time</Description>
-      <Acknowledgement/>
       <Contact>
         <PersonID>spase://CNES/Person/CDPP-AMDA/Joseph.Groene</PersonID>
         <Role>DataProducer</Role>
@@ -69,10 +68,7 @@
     <Parameter>
       <Name>wl iau_saturn</Name>
       <ParameterKey>dione_wl_iau</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>deg</Units>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>
@@ -80,10 +76,7 @@
     <Parameter>
       <Name>lat iau_saturn</Name>
       <ParameterKey>dione_lat</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>deg</Units>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>
@@ -91,10 +84,6 @@
     <Parameter>
       <Name>L-shell</Name>
       <ParameterKey>dione_l</ParameterKey>
-      <Description/>
-      <UCD/>
-      <Units/>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
       </Support>
@@ -102,10 +91,7 @@
     <Parameter>
       <Name>local time</Name>
       <ParameterKey>dione_lt</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>hours</Units>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Temporal</SupportQuantity>
       </Support>
@@ -113,10 +99,7 @@
     <Parameter>
       <Name>distance dione-saturn</Name>
       <ParameterKey>dione_r_polar</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>Rs</Units>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>

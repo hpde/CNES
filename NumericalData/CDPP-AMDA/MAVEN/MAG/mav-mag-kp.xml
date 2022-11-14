@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <Spase xmlns="http://www.spase-group.org/data/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.spase-group.org/data/schema http://www.spase-group.org/data/schema/spase-2.4.1.xsd">
   <Version>2.4.1</Version>
   <NumericalData>
@@ -21,8 +21,7 @@
       <InformationURL>
         <Name>MAG web page, Summary sheet </Name>
         <URL>http://lasp.colorado.edu/home/maven/science/instrument-package/mag/</URL>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
     </ResourceHeader>
     <AccessInformation>
          <RepositoryID>spase://SMWG/Repository/CDPP/AMDA</RepositoryID>
@@ -35,7 +34,7 @@
             <Description>Web Service to this product using the HAPI interface.</Description>
          </AccessURL>
          <Format>CSV</Format>
-         <Acknowledgement>Thank you for acknowledging the use of AMDA in publications with wording like "Data analysis was performed with the AMDA science analysis system provided by the Centre de Donn&#xE9;es de la Physique des Plasmas (CDPP) supported by CNRS, CNES, Observatoire de Paris and Universit&#xE9; Paul Sabatier, Toulouse".. See the Rules of the road at http://amda.cdpp.eu/help/policy.html. Please acknowledge the Data Providers.</Acknowledgement>
+         <Acknowledgement>Thank you for acknowledging the use of AMDA in publications with wording like "Data analysis was performed with the AMDA science analysis system provided by the Centre de Données de la Physique des Plasmas (CDPP) supported by CNRS, CNES, Observatoire de Paris and Université Paul Sabatier, Toulouse".. See the Rules of the road at http://amda.cdpp.eu/help/policy.html. Please acknowledge the Data Providers.</Acknowledgement>
       </AccessInformation>
     <AccessInformation>
          <RepositoryID>spase://SMWG/Repository/CDPP/AMDA</RepositoryID>
@@ -50,7 +49,7 @@
          <Format>VOTable</Format>
          <Format>CDF</Format>
          <Format>PNG</Format>
-         <Acknowledgement>Thank you for acknowledging the use of AMDA in publications with wording like "Data analysis was performed with the AMDA science analysis system provided by the Centre de Donn&#xE9;es de la Physique des Plasmas (CDPP) supported by CNRS, CNES, Observatoire de Paris and Universit&#xE9; Paul Sabatier, Toulouse".. See the Rules of the road at http://amda.cdpp.eu/help/policy.html. Please acknowledge the Data Providers.</Acknowledgement>
+         <Acknowledgement>Thank you for acknowledging the use of AMDA in publications with wording like "Data analysis was performed with the AMDA science analysis system provided by the Centre de Données de la Physique des Plasmas (CDPP) supported by CNRS, CNES, Observatoire de Paris and Université Paul Sabatier, Toulouse".. See the Rules of the road at http://amda.cdpp.eu/help/policy.html. Please acknowledge the Data Providers.</Acknowledgement>
       </AccessInformation>
     <ProviderName>PDS</ProviderName>
     <ProviderResourceName>/maven-insitu-calibrated</ProviderResourceName>
@@ -65,39 +64,28 @@
       <CadenceMax>PT8S</CadenceMax>
     </TemporalDescription>
     <ObservedRegion>Mars</ObservedRegion>
-    <Caveats/>
     <Parameter>
       <Name>b_mso</Name>
       <ParameterKey>mav_bkp_mso</ParameterKey>
       <UCD>phys.magField</UCD>
       <Units>nT</Units>
-      <UnitsConversion/>
       <Structure>
         <Size>3</Size>
         <Element>
           <Name>bx</Name>
           <Index>1</Index>
           <ParameterKey>mav_bkp_mso(0)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>by</Name>
           <Index>2</Index>
           <ParameterKey>mav_bkp_mso(1)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>bz</Name>
           <Index>3</Index>
           <ParameterKey>mav_bkp_mso(2)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
       </Structure>
       <Field>
         <FieldQuantity>Magnetic</FieldQuantity>
@@ -108,33 +96,23 @@
       <ParameterKey>mav_bkp_iau</ParameterKey>
       <UCD>phys.magField</UCD>
       <Units>nT</Units>
-      <UnitsConversion/>
       <Structure>
         <Size>3</Size>
         <Element>
           <Name>bx</Name>
           <Index>1</Index>
           <ParameterKey>mav_bkp_iau(0)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>by</Name>
           <Index>2</Index>
           <ParameterKey>mav_bkp_iau(1)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>bz</Name>
           <Index>3</Index>
           <ParameterKey>mav_bkp_iau(2)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
       </Structure>
       <Field>
         <FieldQuantity>Magnetic</FieldQuantity>
@@ -145,7 +123,6 @@
       <ParameterKey>mav_bkp_tot</ParameterKey>
       <UCD>phys.magField</UCD>
       <Units>nT</Units>
-      <UnitsConversion/>
       <Field>
         <FieldQuantity>Magnetic</FieldQuantity>
       </Field>
@@ -156,7 +133,6 @@
       <Description>Deviations from the mean magnitude of the magnetic field</Description>
       <UCD>phys.magField</UCD>
       <Units>nT</Units>
-      <UnitsConversion/>
       <Field>
         <FieldQuantity>Magnetic</FieldQuantity>
       </Field>

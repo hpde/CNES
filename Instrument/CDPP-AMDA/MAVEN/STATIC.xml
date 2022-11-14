@@ -21,8 +21,8 @@
         <URL>http://lasp.colorado.edu/home/maven/science/instrument-package/static/</URL>
       </InformationURL>      
     </ResourceHeader>
-   <InstrumentType>MassSpectrometer</InstrumentType>
-   <InvestigationName/>
+   <InstrumentType>ElectrostaticAnalyser</InstrumentType>
+   <InvestigationName>MAVEN SupraThermal And Thermal Ion Composition Investigation</InvestigationName>
     <OperatingSpan>
       <StartDate>2013-11-18T13:28:00</StartDate>
       <!--StopDate>2014-12-16T00:00:00</StopDate-->

@@ -9,7 +9,6 @@
       <DOI>10.5270/esa-kt1577e</DOI>
       <ReleaseDate>2022-09-28T00:51:02Z</ReleaseDate>
       <Description>Calculated at IRAP using SPICE kernels</Description>
-      <Acknowledgement/>
       <Contact>
         <PersonID>spase://SMWG/Person/Elena.Budnik</PersonID>
         <Role>DataProducer</Role>
@@ -17,8 +16,7 @@
       <InformationURL>
         <Name>Landing Page at ESAC</Name>
         <URL>https://doi.org/10.5270/esa-kt1577e</URL>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
     </ResourceHeader>
     <AccessInformation>
          <RepositoryID>spase://SMWG/Repository/CDPP/AMDA</RepositoryID>
@@ -65,10 +63,7 @@
     <Parameter>
       <Name>xyz_hee</Name>
       <ParameterKey>so_xyz_hee</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>AU</Units>
-      <UnitsConversion/>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
         <CoordinateSystemName>HEE</CoordinateSystemName>
@@ -79,26 +74,17 @@
           <Name>x</Name>
           <Index>1</Index>
           <ParameterKey>so_xyz_hee(0)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>y</Name>
           <Index>2</Index>
           <ParameterKey>so_xyz_hee(1)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>z</Name>
           <Index>3</Index>
           <ParameterKey>so_xyz_hee(2)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
       </Structure>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
@@ -107,10 +93,7 @@
     <Parameter>
       <Name>xyz_heeq</Name>
       <ParameterKey>so_xyz_heeq</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>AU</Units>
-      <UnitsConversion/>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
         <CoordinateSystemName>HEEQ</CoordinateSystemName>
@@ -121,26 +104,17 @@
           <Name>x</Name>
           <Index>1</Index>
           <ParameterKey>so_xyz_heeq(0)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>y</Name>
           <Index>2</Index>
           <ParameterKey>so_xyz_heeq(1)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>z</Name>
           <Index>3</Index>
           <ParameterKey>so_xyz_heeq(2)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
       </Structure>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
@@ -149,10 +123,7 @@
     <Parameter>
       <Name>xyz_hci</Name>
       <ParameterKey>so_xyz_hci</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>AU</Units>
-      <UnitsConversion/>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
         <CoordinateSystemName>HCI</CoordinateSystemName>
@@ -163,26 +134,17 @@
           <Name>x</Name>
           <Index>1</Index>
           <ParameterKey>so_xyz_hci(0)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>y</Name>
           <Index>2</Index>
           <ParameterKey>so_xyz_hci(1)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>z</Name>
           <Index>3</Index>
           <ParameterKey>so_xyz_hci(2)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
       </Structure>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
@@ -191,36 +153,24 @@
     <Parameter>
       <Name>xyz_iau_sun</Name>
       <ParameterKey>so_xyz_iausun</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>AU</Units>
-      <UnitsConversion/>
       <Structure>
         <Size>3</Size>
         <Element>
           <Name>x</Name>
           <Index>1</Index>
           <ParameterKey>so_xyz_iausun(0)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>y</Name>
           <Index>2</Index>
           <ParameterKey>so_xyz_iausun(1)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>z</Name>
           <Index>3</Index>
           <ParameterKey>so_xyz_iausun(2)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
       </Structure>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
@@ -229,10 +179,7 @@
     <Parameter>
       <Name>distance solo-sun</Name>
       <ParameterKey>so_r_sun</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>AU</Units>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>
@@ -240,10 +187,7 @@
     <Parameter>
       <Name>lon iau_sun</Name>
       <ParameterKey>so_lon_sun</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>deg</Units>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>
@@ -251,10 +195,7 @@
     <Parameter>
       <Name>lat iau_sun</Name>
       <ParameterKey>so_lat_sun</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>deg</Units>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>
@@ -262,10 +203,7 @@
     <Parameter>
       <Name>lon hci</Name>
       <ParameterKey>so_lon_hci</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>deg</Units>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>
@@ -273,10 +211,7 @@
     <Parameter>
       <Name>lat hci</Name>
       <ParameterKey>so_lat_hci</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>deg</Units>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>
@@ -284,10 +219,7 @@
     <Parameter>
       <Name>lon hee</Name>
       <ParameterKey>so_lon_hee</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>deg</Units>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>
@@ -295,10 +227,7 @@
     <Parameter>
       <Name>lat hee</Name>
       <ParameterKey>so_lat_hee</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>deg</Units>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>
@@ -306,7 +235,6 @@
     <Parameter>
       <Name>so_orbit_num</Name>
       <ParameterKey>so_orb_num</ParameterKey>
-      <Units/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>

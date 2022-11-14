@@ -53,7 +53,6 @@
       </AccessInformation>
     <ProviderName>IRAP</ProviderName>
     <!--- CDPP team to fill -->
-    <ProviderResourceName/>
     <!--- CDPP team to fill -->
     <ProviderProcessingLevel>Final</ProviderProcessingLevel>
     <!--- CDPP team to fill -->
@@ -72,7 +71,6 @@
     <!--- First item - principal target (used in AMDA filtering) -->
     <ObservedRegion>Venus.Magnetosphere</ObservedRegion>
     <ObservedRegion>Heliosphere.Inner</ObservedRegion>
-    <Caveats/>
     <!--- AMDA Help, if exists -->
     <Parameter>
       <Name>protons: moments quality</Name>
@@ -116,9 +114,6 @@
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
-      <ValidMin/>
-      <ValidMax/>
-      <FillValue/>
       <Particle>
         <ParticleType>Proton</ParticleType>
         <ParticleQuantity>NumberDensity</ParticleQuantity>
@@ -130,7 +125,6 @@
       <Description>Heavy ion density</Description>
       <UCD>phys.density;phys.atmol.ionStage</UCD>
       <Units>cm-3</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -159,7 +153,6 @@
       <Description>Heavy ion temperature</Description>
       <UCD>phys.temperature;phys.atmol.ionStage</UCD>
       <Units>eV</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -174,7 +167,6 @@
       <Description>Proton bulk velocity components in VSO coordinates</Description>
       <UCD>phys.veloc;phys.atmol.ionStage</UCD>
       <Units>km/s</Units>
-      <UnitsConversion/>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
         <CoordinateSystemName>VSO</CoordinateSystemName>
@@ -190,23 +182,17 @@
           <Index>1</Index>
           <ParameterKey>vex_h_vel(0)</ParameterKey>
           <!--- don't modify -->
-          <ValidMin/>
-          <ValidMax/>
-        </Element>
+          </Element>
         <Element>
           <Name>vy</Name>
           <Index>2</Index>
           <ParameterKey>vex_h_vel(1)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-        </Element>
+          </Element>
         <Element>
           <Name>vz</Name>
           <Index>3</Index>
           <ParameterKey>vex_h_vel(2)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-        </Element>
+          </Element>
       </Structure>
       <Particle>
         <ParticleType>Proton</ParticleType>
@@ -219,7 +205,6 @@
       <Description>Heavy ion bulk velocity components in VSO coordinates</Description>
       <UCD>phys.veloc;phys.atmol.ionStage</UCD>
       <Units>km/s</Units>
-      <UnitsConversion/>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
         <CoordinateSystemName>VSO</CoordinateSystemName>

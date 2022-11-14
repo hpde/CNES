@@ -166,28 +166,19 @@
           <Qualifier>Component.I</Qualifier>
           <Index>1</Index>
           <ParameterKey>ace_xyz_hci(0)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>y</Name>
           <Qualifier>Component.J</Qualifier>
           <Index>2</Index>
           <ParameterKey>ace_xyz_hci(1)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>z</Name>
           <Qualifier>Component.K</Qualifier>
           <Index>3</Index>
           <ParameterKey>ace_xyz_hci(2)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
       </Structure>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>

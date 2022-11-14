@@ -19,7 +19,6 @@
             * eqt - equatorial : averaged over 2,3 heads 
             * eqt - 'directionward' : averaged over 2,3 heads and 3 corresponding azimuthal sectors
             </Description>
-      <Acknowledgement/>
       <Contact>
         <PersonID>spase://CNES/Person/CDPP-AMDA/Stuart.Nyland</PersonID>
         <Role>DataProducer</Role>
@@ -35,8 +34,7 @@
       <InformationURL>
         <Name>Sectors in GSE plane</Name>
         <URL>help/stics.html</URL>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
     </ResourceHeader>
     <AccessInformation>
          <RepositoryID>spase://SMWG/Repository/CDPP/AMDA</RepositoryID>
@@ -82,8 +80,6 @@
     <Parameter>
       <Name>h+ flux : omni</Name>
       <ParameterKey>gtl_hr0_omni</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>1/(cm**2-s-sr-keV)</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
@@ -96,8 +92,6 @@
     <Parameter>
       <Name>h+ flux : eqt-omni</Name>
       <ParameterKey>gtl_hr0_eqtomni</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>1/(cm**2-s-sr-keV)</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
@@ -110,8 +104,6 @@
     <Parameter>
       <Name>h+ flux : eqt-tail</Name>
       <ParameterKey>gtl_hr0_eqttail</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>1/(cm**2-s-sr-keV)</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
@@ -124,8 +116,6 @@
     <Parameter>
       <Name>h+ flux : eqt-dusk</Name>
       <ParameterKey>gtl_hr0_eqtdusk</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>1/(cm**2-s-sr-keV)</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
@@ -138,8 +128,6 @@
     <Parameter>
       <Name>h+ flux : eqt-dawn</Name>
       <ParameterKey>gtl_hr0_eqtdawn</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>1/(cm**2-s-sr-keV)</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
@@ -152,8 +140,6 @@
     <Parameter>
       <Name>h+ flux : eqt-sun</Name>
       <ParameterKey>gtl_hr0_eqtsun</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>1/(cm**2-s-sr-keV)</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
@@ -166,8 +152,6 @@
     <Parameter>
       <Name>h+ flux : eqt : 2D</Name>
       <ParameterKey>gtl_hr0_eqt</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>1/(cm**2-s-sr-keV)</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>

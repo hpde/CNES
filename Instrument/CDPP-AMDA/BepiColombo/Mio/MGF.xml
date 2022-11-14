@@ -11,7 +11,6 @@
                    a digital sensor of the same type used in MPO-MAG, mounted on the end of the 4.4 m boom; 
                    and MGF-I (inboard), an analogue sensor designed and made by ISAS/JAXA, mounted 1.6 m 
                    from the end of the boom typically done in the Earth's magnetosphere.</Description>
-      <Acknowledgement/>
        <Contact>       
          <PersonID>spase://SMWG/Person/Wolfgang.Baumjohann</PersonID> 
          <Role>PrincipalInvestigator</Role>
@@ -20,11 +19,9 @@
         <PersonID>spase://SMWG/Person/Ayako.Matsuoka</PersonID> 
         <Role>CoInvestigator</Role>
       </Contact>
-      <PriorID/>
     </ResourceHeader>
     <InstrumentType>Magnetometer</InstrumentType>
-    <InvestigationName/>
+    <InvestigationName>Mercury Magnetometer on Mio</InvestigationName>
     <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/BepiColombo/Mio</ObservatoryID>
-    <Caveats/>
-  </Instrument>
+    </Instrument>
 </Spase>

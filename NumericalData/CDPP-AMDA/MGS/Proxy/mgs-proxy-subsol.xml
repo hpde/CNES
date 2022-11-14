@@ -73,10 +73,7 @@
     <Parameter>
       <Name>|b|</Name>
       <ParameterKey>mgs_subsol_bmag</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>nT</Units>
-      <UnitsConversion/>
       <Field>
         <FieldQuantity>Magnetic</FieldQuantity>
       </Field>

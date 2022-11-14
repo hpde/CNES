@@ -14,7 +14,7 @@
       </Contact>
     </ResourceHeader>
     <InstrumentType>MassSpectrometer</InstrumentType>
-    <InvestigationName></InvestigationName>
+    <InvestigationName>Ion Mass Spectrometer</InvestigationName>
     <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/Giotto</ObservatoryID>
   </Instrument>
 </Spase>

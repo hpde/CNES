@@ -5,16 +5,15 @@
     <ResourceID>spase://CNES/Instrument/CDPP-AMDA/Giotto/MAG</ResourceID>
     <ResourceHeader>
       <ResourceName>MAG</ResourceName>
-      <AlternateName></AlternateName>
       <ReleaseDate>2009-05-20T21:10:13Z</ReleaseDate>
-      <Description></Description>
+      <Description>ToDo</Description>
       <Contact>       
         <PersonID>spase://SMWG/Person/Fritz.M.Neubauer</PersonID>
         <Role>PrincipalInvestigator</Role>
       </Contact>
     </ResourceHeader>
     <InstrumentType>Magnetometer</InstrumentType>
-    <InvestigationName></InvestigationName>
+    <InvestigationName/>
     <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/Giotto</ObservatoryID>
   </Instrument>
 </Spase>

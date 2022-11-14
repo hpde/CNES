@@ -137,7 +137,6 @@
     <Parameter>
       <Name>distance c1-earth</Name>
       <ParameterKey>c1_r</ParameterKey>
-      <Description/>
       <UCD>pos.distance;instr.obsty</UCD>
       <Units>Re</Units>
       <RenderingHints>

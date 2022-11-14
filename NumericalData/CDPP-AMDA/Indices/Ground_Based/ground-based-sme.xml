@@ -27,33 +27,27 @@ Newell, P. T., and J. W. Gjerloev (2011), Evaluation of SuperMAG auroral electro
       <InformationURL>
         <Name>SuperMAG description</Name>
         <URL>https://supermag.jhuapl.edu/info/?page=about</URL>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
       <InformationURL>
         <Name>SuperMAG acknowledgement</Name>
         <URL>https://supermag.jhuapl.edu/info/?page=acknowledgement</URL>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
       <InformationURL>
         <Name>SuperMAG Rules of the Road</Name>
         <URL>https://supermag.jhuapl.edu/info/?page=rulesoftheroad</URL>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
       <InformationURL>
         <Name>Gjerloev, J. W. (2012), The SuperMAG data processing technique, J. Geophys. Res., 117, A09213, doi:10.1029/2012JA017683</Name>
         <URL>https://doi.org/10.1029/2012JA017683</URL>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
       <InformationURL>
         <Name>Newell, P. T., and J. W. Gjerloev (2011), Evaluation of SuperMAG auroral electrojet indices as indicators of substorms and auroral power, J. Geophys. Res., 116, A12211, doi:10.1029/2011JA016779</Name>
         <URL>https://doi.org/10.1029/2011JA016779</URL>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
       <InformationURL>
         <Name>Gjerloev, J. W. (2009), A Global Ground-Based Magnetometer Initiative, Eos Trans. AGU, 90( 27), 230– 231, doi:10.1029/2009EO270002</Name>
         <URL>https://doi.org/10.1029/2009EO270002</URL>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
     </ResourceHeader>
     <AccessInformation>
          <RepositoryID>spase://SMWG/Repository/CDPP/AMDA</RepositoryID>
@@ -99,9 +93,7 @@ Newell, P. T., and J. W. Gjerloev (2011), Evaluation of SuperMAG auroral electro
     <Parameter>
       <Name>SME</Name>
       <ParameterKey>sme</ParameterKey>
-      <Description/>
       <Units>nT</Units>
-      <UnitsConversion/>
       <Field>
         <FieldQuantity>Magnetic</FieldQuantity>
       </Field>
@@ -109,9 +101,7 @@ Newell, P. T., and J. W. Gjerloev (2011), Evaluation of SuperMAG auroral electro
     <Parameter>
       <Name>SMU</Name>
       <ParameterKey>smu</ParameterKey>
-      <Description/>
       <Units>nT</Units>
-      <UnitsConversion/>
       <Field>
         <FieldQuantity>Magnetic</FieldQuantity>
       </Field>
@@ -119,9 +109,7 @@ Newell, P. T., and J. W. Gjerloev (2011), Evaluation of SuperMAG auroral electro
     <Parameter>
       <Name>SML</Name>
       <ParameterKey>sml</ParameterKey>
-      <Description/>
       <Units>nT</Units>
-      <UnitsConversion/>
       <Field>
         <FieldQuantity>Magnetic</FieldQuantity>
       </Field>

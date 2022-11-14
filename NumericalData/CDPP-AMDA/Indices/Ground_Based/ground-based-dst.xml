@@ -25,13 +25,11 @@
       <InformationURL>
         <Name>WDC for Geomagnetism - Kyoto, Japan</Name>
         <URL>http://wdc.kugi.kyoto-u.ac.jp/</URL>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
       <InformationURL>
         <Name>IAGA geomagnetic indices</Name>
         <URL>http://isgi.unistra.fr/indices_aa.php</URL>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
     </ResourceHeader>
     <AccessInformation>
          <RepositoryID>spase://SMWG/Repository/CDPP/AMDA</RepositoryID>
@@ -77,10 +75,7 @@
     <Parameter>
       <Name>dst</Name>
       <ParameterKey>dst</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>nT</Units>
-      <UnitsConversion/>
       <Field>
         <FieldQuantity>Magnetic</FieldQuantity>
       </Field>

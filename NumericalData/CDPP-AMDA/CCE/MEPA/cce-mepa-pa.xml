@@ -253,7 +253,6 @@
     <Parameter>
       <Name>energy bounds</Name>
       <ParameterKey>cce_mepa_pa_energy</ParameterKey>
-      <Description/>
       <Units>keV</Units>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>

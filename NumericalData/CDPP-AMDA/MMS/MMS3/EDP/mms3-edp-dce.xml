@@ -7,7 +7,7 @@
       <ResourceName>dc e-field</ResourceName>
       <AlternateName>dc electric field / fast / l2</AlternateName>
       <ReleaseDate>2022-09-29T03:03:47Z</ReleaseDate>
-      <Description/>
+      <Description>ToDo</Description>
       <Contact>
         <PersonID>spase://SMWG/Person/James.L.Burch</PersonID>
         <Role>PrincipalInvestigator</Role>
@@ -81,10 +81,7 @@
     <Parameter>
       <Name>e_gse</Name>
       <ParameterKey>mms3_dce_gse</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>mV/m</Units>
-      <UnitsConversion/>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
         <CoordinateSystemName>GSE</CoordinateSystemName>
@@ -121,10 +118,7 @@
     <Parameter>
       <Name>e_gsm</Name>
       <ParameterKey>mms3_dce_gsm</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>mV/m</Units>
-      <UnitsConversion/>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
         <CoordinateSystemName>GSM</CoordinateSystemName>
@@ -161,10 +155,7 @@
     <Parameter>
       <Name>e : error</Name>
       <ParameterKey>mms3_dce_err</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>mV/m</Units>
-      <UnitsConversion/>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
         <CoordinateSystemName>GSE</CoordinateSystemName>
@@ -201,10 +192,7 @@
     <Parameter>
       <Name>e_para</Name>
       <ParameterKey>mms3_dce_para</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>mV/m</Units>
-      <UnitsConversion/>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
         <CoordinateSystemName>GSE</CoordinateSystemName>
@@ -236,9 +224,6 @@
       <Name>dce : qual</Name>
       <ParameterKey>mms3_edp_dce_qual</ParameterKey>
       <Description>Quality indicator (3 good), (2 ok data, use with some caution), (1 bad data, use with caution), (0 Really bad data or no data at all)</Description>
-      <UCD/>
-      <Units/>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>

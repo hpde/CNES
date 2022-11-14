@@ -20,7 +20,6 @@
         of view (the same as EPT). Each telescope contains 2 solid state detectors (A and B) for each direction and a shared BGO 
         scintillator (C). Measuring the characteristics of the energy deposition in the different detectors, HET is able to 
         identify particle species in a wide energy range.</Description>        
-      <Acknowledgement></Acknowledgement>
       <Contact>
         <PersonID>spase://CNES/Person/CDPP-AMDA/J.Rodrigues-Pacheco</PersonID>
         <Role>PrincipalInvestigator</Role>

@@ -5,9 +5,8 @@
     <ResourceID>spase://CNES/Observatory/CDPP-AMDA/MMS4</ResourceID>
     <ResourceHeader>
       <ResourceName>MMS4</ResourceName>
-      <AlternateName></AlternateName>
       <ReleaseDate>2019-03-01T20:05:54Z</ReleaseDate>
-      <Description></Description>
+      <Description>ToDo</Description>
       <Contact>
         <PersonID>spase://SMWG/Person/Thomas.E.Moore</PersonID>
         <Role>ProjectScientist</Role>

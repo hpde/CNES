@@ -7,7 +7,7 @@
       <ResourceName>Ephemeris</ResourceName>
       <AlternateName>Spacecraft position</AlternateName>
       <ReleaseDate>2009-05-20T21:10:11Z</ReleaseDate>
-      <Description></Description>
+      <Description>Interball Tail orbital and attitude modeling</Description>
       <Contact>
         <PersonID>spase://SMWG/Person/Victoria.I.Prokhorenko</PersonID>
         <Role>PrincipalInvestigator</Role>

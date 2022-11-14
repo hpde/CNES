@@ -15,7 +15,6 @@
             * open -  73.7-89.3 keV
             * closed - 106.8-123.5 keV
          </Description>
-      <Acknowledgement/>
       <Contact>
         <PersonID>spase://CNES/Person/CDPP-AMDA/Stuart.Nyland</PersonID>
         <Role>DataProducer</Role>
@@ -29,10 +28,8 @@
         <Role>TechnicalContact</Role>
       </Contact>
       <InformationURL>
-        <Name/>
         <URL/>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
       <Association>
         <AssociationID>gtl-ics-high</AssociationID>
         <AssociationType>PartOf</AssociationType>
@@ -83,9 +80,6 @@
     <Parameter>
       <Name>apperture flag head1</Name>
       <ParameterKey>gtl_ehigh_app1</ParameterKey>
-      <Description/>
-      <UCD/>
-      <Units/>
       <Support>
         <SupportQuantity>InstrumentMode</SupportQuantity>
       </Support>
@@ -93,9 +87,6 @@
     <Parameter>
       <Name>apperture flag head2</Name>
       <ParameterKey>gtl_ehigh_app2</ParameterKey>
-      <Description/>
-      <UCD/>
-      <Units/>
       <Support>
         <SupportQuantity>InstrumentMode</SupportQuantity>
       </Support>
@@ -103,8 +94,6 @@
     <Parameter>
       <Name>e3 ave</Name>
       <ParameterKey>gtl_e3high_av</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>1/(cm**2-s-sr-kev)</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
@@ -117,8 +106,6 @@
     <Parameter>
       <Name>e4 ave</Name>
       <ParameterKey>gtl_e4high_av</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>1/(cm**2-s-sr-kev)</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
@@ -131,8 +118,6 @@
     <Parameter>
       <Name>e3 ave : omni</Name>
       <ParameterKey>gtl_e3high_omni</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>1/(cm**2-s-sr-kev)</Units>
       <Particle>
         <ParticleType>Ion</ParticleType>
@@ -142,8 +127,6 @@
     <Parameter>
       <Name>e4 ave : omni</Name>
       <ParameterKey>gtl_e4high_omni</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>1/(cm**2-s-sr-kev)</Units>
       <Particle>
         <ParticleType>Ion</ParticleType>
@@ -153,8 +136,6 @@
     <Parameter>
       <Name>e3 ave : tail</Name>
       <ParameterKey>gtl_e3high_tail</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>1/(cm**2-s-sr-kev)</Units>
       <Particle>
         <ParticleType>Ion</ParticleType>
@@ -164,8 +145,6 @@
     <Parameter>
       <Name>e4 ave : tail</Name>
       <ParameterKey>gtl_e4high_tail</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>1/(cm**2-s-sr-kev)</Units>
       <Particle>
         <ParticleType>Ion</ParticleType>
@@ -175,8 +154,6 @@
     <Parameter>
       <Name>e3 ave : dawn</Name>
       <ParameterKey>gtl_e3high_dawn</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>1/(cm**2-s-sr-kev)</Units>
       <Particle>
         <ParticleType>Ion</ParticleType>
@@ -186,8 +163,6 @@
     <Parameter>
       <Name>e4 ave : dawn</Name>
       <ParameterKey>gtl_e4high_dawn</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>1/(cm**2-s-sr-kev)</Units>
       <Particle>
         <ParticleType>Ion</ParticleType>
@@ -197,8 +172,6 @@
     <Parameter>
       <Name>e3 ave : sun</Name>
       <ParameterKey>gtl_e3high_sun</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>1/(cm**2-s-sr-kev)</Units>
       <Particle>
         <ParticleType>Ion</ParticleType>
@@ -208,8 +181,6 @@
     <Parameter>
       <Name>e4 ave : sun</Name>
       <ParameterKey>gtl_e4high_sun</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>1/(cm**2-s-sr-kev)</Units>
       <Particle>
         <ParticleType>Ion</ParticleType>
@@ -219,8 +190,6 @@
     <Parameter>
       <Name>e3 ave : dusk</Name>
       <ParameterKey>gtl_e3high_dusk</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>1/(cm**2-s-sr-kev)</Units>
       <Particle>
         <ParticleType>Ion</ParticleType>
@@ -230,8 +199,6 @@
     <Parameter>
       <Name>e4 ave : dusk</Name>
       <ParameterKey>gtl_e4high_dusk</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>1/(cm**2-s-sr-kev)</Units>
       <Particle>
         <ParticleType>Ion</ParticleType>
@@ -241,8 +208,6 @@
     <Parameter>
       <Name>e3 : head 1</Name>
       <ParameterKey>gtl_e3high_head1</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>1/(cm**2-s-sr-kev)</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
@@ -255,8 +220,6 @@
     <Parameter>
       <Name>e4 : head 1</Name>
       <ParameterKey>gtl_e4high_head1</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>1/(cm**2-s-sr-kev)</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
@@ -269,8 +232,6 @@
     <Parameter>
       <Name>e3 : head 2</Name>
       <ParameterKey>gtl_e3high_head2</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>1/(cm**2-s-sr-kev)</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
@@ -283,8 +244,6 @@
     <Parameter>
       <Name>e4 : head 2</Name>
       <ParameterKey>gtl_e4high_head2</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>1/(cm**2-s-sr-kev)</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>

@@ -64,7 +64,6 @@ Tethys has two co-orbital moons, Telesto and Calypso orbiting near Tethys's troj
     <Parameter>
       <Name>distance tethys-saturn</Name>
       <ParameterKey>tet_sat_r</ParameterKey>
-      <UCD/>
       <Units>Rs</Units>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
@@ -76,7 +75,6 @@ Tethys has two co-orbital moons, Telesto and Calypso orbiting near Tethys's troj
     <Parameter>
       <Name>xyz_ksm</Name>
       <ParameterKey>tet_sat_ksm</ParameterKey>
-      <UCD/>
       <Units>Rs</Units>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
@@ -110,7 +108,6 @@ Tethys has two co-orbital moons, Telesto and Calypso orbiting near Tethys's troj
     <Parameter>
       <Name>xyz_kso</Name>
       <ParameterKey>tet_sat_kso</ParameterKey>
-      <UCD/>
       <Units>Rs</Units>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
@@ -144,7 +141,6 @@ Tethys has two co-orbital moons, Telesto and Calypso orbiting near Tethys's troj
     <Parameter>
       <Name>xyz_IAU_saturn</Name>
       <ParameterKey>tet_sat_xyz</ParameterKey>
-      <UCD/>
       <Units>Rs</Units>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
@@ -174,7 +170,6 @@ Tethys has two co-orbital moons, Telesto and Calypso orbiting near Tethys's troj
     <Parameter>
       <Name>latitude IAU_saturn</Name>
       <ParameterKey>tet_sat_lat</ParameterKey>
-      <UCD/>
       <Units>deg</Units>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
@@ -183,7 +178,6 @@ Tethys has two co-orbital moons, Telesto and Calypso orbiting near Tethys's troj
     <Parameter>
       <Name>longitude IAU_saturn</Name>
       <ParameterKey>tet_sat_lon</ParameterKey>
-      <UCD/>
       <Units>deg</Units>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>

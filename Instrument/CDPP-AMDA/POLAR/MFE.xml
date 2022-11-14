@@ -26,7 +26,7 @@
       <PriorID>spase://SMWG/instrument/1996-013A-08</PriorID>
     </ResourceHeader>
     <InstrumentType>Magnetometer</InstrumentType>
-    <InvestigationName></InvestigationName>
+    <InvestigationName>Magnetic Fields Experiment (MFE) on Polar</InvestigationName>
     <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/POLAR</ObservatoryID>
   </Instrument>
 </Spase>

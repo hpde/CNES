@@ -7,7 +7,7 @@
       <ResourceName>time profiles : sunward</ResourceName>
       <AlternateName>Ion Time Profiles : Sunward Flow</AlternateName>
       <ReleaseDate>2004-12-02T19:48:02Z</ReleaseDate>
-      <Description/>
+      <Description>ToDo</Description>
       <Contact>
         <PersonID>spase://CNES/Person/CDPP-AMDA/Volt.Lutsenko</PersonID>
         <Role>PrincipalInvestigator</Role>
@@ -66,10 +66,7 @@
     <Parameter>
       <Name>ions flux sunward</Name>
       <ParameterKey>it_dok_1ti</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>cm**-2.sr**-1.s**-1.keV**-1</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -103,9 +100,7 @@
       <Name>dT</Name>
       <ParameterKey>it_dok_1ti_dt</ParameterKey>
       <Description>Time Exposition</Description>
-      <UCD/>
       <Units>sec</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -117,9 +112,7 @@
       <Name>pitch sunward</Name>
       <ParameterKey>it_dok_1ti_pitch</ParameterKey>
       <Description>Pitch angle with incoming flux direction</Description>
-      <UCD/>
       <Units>deg</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>

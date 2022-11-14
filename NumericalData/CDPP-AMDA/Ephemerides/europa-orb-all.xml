@@ -85,7 +85,6 @@ orbital resonance.</Description>
     <Parameter>
       <Name>xyz_jsm</Name>
       <ParameterKey>eur_jup_jsm</ParameterKey>
-      <UCD/>
       <Units>Rj</Units>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
@@ -119,7 +118,6 @@ orbital resonance.</Description>
     <Parameter>
       <Name>xyz_jso</Name>
       <ParameterKey>eur_jup_jso</ParameterKey>
-      <UCD/>
       <Units>Rj</Units>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
@@ -153,7 +151,6 @@ orbital resonance.</Description>
     <Parameter>
       <Name>xyz_IAU_jupiter</Name>
       <ParameterKey>eur_jup_xyz</ParameterKey>
-      <UCD/>
       <Units>Rj</Units>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
@@ -183,7 +180,6 @@ orbital resonance.</Description>
     <Parameter>
       <Name>distance europa-jupiter</Name>
       <ParameterKey>eur_jup_r</ParameterKey>
-      <UCD/>
       <Units>Rj</Units>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
@@ -195,7 +191,6 @@ orbital resonance.</Description>
     <Parameter>
       <Name>latitude IAU_jupiter</Name>
       <ParameterKey>eur_jup_lat</ParameterKey>
-      <UCD/>
       <Units>deg</Units>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
@@ -204,7 +199,6 @@ orbital resonance.</Description>
     <Parameter>
       <Name>longitude IAU_jupiter</Name>
       <ParameterKey>eur_jup_lon</ParameterKey>
-      <UCD/>
       <Units>deg</Units>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>

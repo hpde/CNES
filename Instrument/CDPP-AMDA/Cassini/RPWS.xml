@@ -13,7 +13,6 @@
     frequency range from 1 Hz to 16 MHz with varying degrees of spectral
     and temporal resolution.
     </Description>
-      <Acknowledgement/>
       <Contact>
         <PersonID>spase://SMWG/Person/William.S.Kurth</PersonID>
         <Role>PrincipalInvestigator</Role>
@@ -36,6 +35,5 @@
     <InstrumentType>LangmuirProbe</InstrumentType>        
     <InvestigationName>Radio And Plasma Wave Science</InvestigationName>
     <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/Cassini</ObservatoryID>
-    <Caveats/>
   </Instrument>
 </Spase>

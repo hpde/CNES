@@ -5,10 +5,8 @@
     <ResourceID>spase://CNES/Instrument/CDPP-AMDA/Galileo/Moons_Ephemeris</ResourceID>
     <ResourceHeader>
       <ResourceName>Ephemeris : Jupiter Moons : special</ResourceName>
-      <AlternateName/>
       <ReleaseDate>2009-05-20T21:10:13Z</ReleaseDate>
       <Description>Special Jupiter moons ephemeris are calculated by Joseph Groene tool (University of Iowa).</Description>
-      <Acknowledgement/>
       <Contact>       
         <PersonID>spase://SMWG/Person/William.S.Kurth</PersonID> 
         <Role>PrincipalInvestigator</Role>
@@ -17,11 +15,9 @@
         <Name>Joseph Groene Page</Name>
         <URL>http://www-pw.physics.uiowa.edu/~jbg/cas.html</URL>
       </InformationURL>
-      <PriorID/>
-    </ResourceHeader>
+      </ResourceHeader>
     <InstrumentType>Platform</InstrumentType>
     <InvestigationName/>
     <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/Galileo</ObservatoryID>
-    <Caveats/>
-  </Instrument>
+    </Instrument>
 </Spase>

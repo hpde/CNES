@@ -32,8 +32,7 @@
       <InformationURL>
         <Name>PDS/PPI</Name>
         <URL>http://ppi.pds.nasa.gov/</URL>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
     </ResourceHeader>
     <AccessInformation>
          <RepositoryID>spase://SMWG/Repository/CDPP/AMDA</RepositoryID>

@@ -6,7 +6,7 @@
     <ResourceHeader>
       <ResourceName>Earth Moon</ResourceName>
       <ReleaseDate>2019-08-23T15:34:00Z</ReleaseDate>
-      <Description/>
+      <Description>ToDo</Description>
       <Contact>
         <PersonID>spase://CNES/Person/CDPP-AMDA/NAIF</PersonID>
         <Role>PrincipalInvestigator</Role>
@@ -55,7 +55,6 @@
     <Parameter>
       <Name>xyz_hci</Name>
       <ParameterKey>xyz_moon_hci</ParameterKey>
-      <UCD/>
       <Units>AU</Units>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
@@ -89,7 +88,6 @@
     <Parameter>
       <Name>xyz_hee</Name>
       <ParameterKey>xyz_moon_hee</ParameterKey>
-      <UCD/>
       <Units>AU</Units>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
@@ -123,7 +121,6 @@
     <Parameter>
       <Name>xyz_heeq</Name>
       <ParameterKey>xyz_moon_heeq</ParameterKey>
-      <UCD/>
       <Units>AU</Units>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
@@ -157,7 +154,6 @@
     <Parameter>
       <Name>distance moon-sun</Name>
       <ParameterKey>r_moon_sun</ParameterKey>
-      <UCD/>
       <Units>AU</Units>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
@@ -166,7 +162,6 @@
     <Parameter>
       <Name>longitude IAU_sun</Name>
       <ParameterKey>moon_sol_lon</ParameterKey>
-      <UCD/>
       <Units>rad</Units>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
@@ -175,7 +170,6 @@
     <Parameter>
       <Name>latitude IAU_sun</Name>
       <ParameterKey>moon_sol_lat</ParameterKey>
-      <UCD/>
       <Units>rad</Units>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
@@ -184,7 +178,6 @@
     <Parameter>
       <Name>xyz_gse</Name>
       <ParameterKey>xyz_moon_gse</ParameterKey>
-      <UCD/>
       <Units>Re</Units>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
@@ -218,7 +211,6 @@
     <Parameter>
       <Name>xyz_gsm</Name>
       <ParameterKey>xyz_moon_gsm</ParameterKey>
-      <UCD/>
       <Units>Re</Units>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
@@ -252,7 +244,6 @@
     <Parameter>
       <Name>distance moon-earth</Name>
       <ParameterKey>r_moon</ParameterKey>
-      <UCD/>
       <Units>Re</Units>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
@@ -261,7 +252,6 @@
     <Parameter>
       <Name>longitude HEE</Name>
       <ParameterKey>moon_lon_hee</ParameterKey>
-      <UCD/>
       <Units>deg</Units>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
@@ -270,7 +260,6 @@
     <Parameter>
       <Name>latitude HEE</Name>
       <ParameterKey>moon_lat_hee</ParameterKey>
-      <UCD/>
       <Units>deg</Units>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>

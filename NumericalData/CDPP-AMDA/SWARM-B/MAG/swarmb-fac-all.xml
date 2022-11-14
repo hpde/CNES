@@ -7,8 +7,7 @@
       <ResourceName>field-aligned current</ResourceName>
       <AlternateName>Level2daily/Entire_mission_data/FAC dataset</AlternateName>
       <ReleaseDate>2022-09-29T02:21:53Z</ReleaseDate>
-      <Description/>
-      <Acknowledgement/>
+      <Description>ToDo</Description>
       <Contact>
         <PersonID>spase://CNES/Person/CDPP-AMDA/P.Ritter</PersonID>
         <Role>Scientist</Role>
@@ -16,8 +15,7 @@
       <InformationURL>
         <Name>Swarm Home Page</Name>
         <URL>https://earth.esa.int/web/guest/missions/esa-eo-missions/swarm/data-handbook</URL>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
     </ResourceHeader>
     <AccessInformation>
          <RepositoryID>spase://SMWG/Repository/CDPP/AMDA</RepositoryID>
@@ -65,9 +63,7 @@
       <Name>fac</Name>
       <ParameterKey>swb_fac</ParameterKey>
       <Description>Field-aligned current</Description>
-      <UCD/>
       <Units>μA/m**2</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -79,9 +75,7 @@
       <Name>fac error</Name>
       <ParameterKey>swb_fac_error</ParameterKey>
       <Description>uncertainty of FAC</Description>
-      <UCD/>
       <Units>μA/m**2</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>

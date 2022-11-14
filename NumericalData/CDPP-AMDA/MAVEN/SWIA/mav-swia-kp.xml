@@ -79,7 +79,6 @@ Those wishing to look quantitatively at solar wind temperature should use the SW
       <Description>Total ion density from SWIA onboard moment calculation, assuming 100% protons</Description>
       <UCD>phys.density;phys.atmol.ionStage</UCD>
       <Units>cm-3</Units>
-      <UnitsConversion/>
       <Particle>
         <ParticleType>Ion</ParticleType>
         <ParticleQuantity>NumberDensity</ParticleQuantity>
@@ -89,9 +88,6 @@ Those wishing to look quantitatively at solar wind temperature should use the SW
       <Name>moments quality</Name>
       <ParameterKey>mav_swiakp_qual</ParameterKey>
       <Description>Quality flag (0 = bad, 1 = good) indicating whether the distribution is well-measured and decommutation parameters are definite</Description>
-      <UCD/>
-      <Units/>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
       </Support>
@@ -102,33 +98,23 @@ Those wishing to look quantitatively at solar wind temperature should use the SW
       <Description>Bulk ion flow velocity from SWIA onboard moment calculation, assuming 100% protons</Description>
       <UCD>phys.veloc;phys.atmol.ionStage</UCD>
       <Units>km/s</Units>
-      <UnitsConversion/>
       <Structure>
         <Size>3</Size>
         <Element>
           <Name>vx</Name>
           <Index>1</Index>
           <ParameterKey>mav_swiakp_vmso(0)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>vy</Name>
           <Index>2</Index>
           <ParameterKey>mav_swiakp_vmso(1)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>vz</Name>
           <Index>3</Index>
           <ParameterKey>mav_swiakp_vmso(2)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
       </Structure>
       <Particle>
         <ParticleType>Ion</ParticleType>
@@ -141,7 +127,6 @@ Those wishing to look quantitatively at solar wind temperature should use the SW
       <Description>Bulk ion flow velocity magnitude from SWIA onboard moment calculation, assuming 100% protons</Description>
       <UCD>phys.veloc;phys.atmol.ionStage</UCD>
       <Units>km/s</Units>
-      <UnitsConversion/>
       <Particle>
         <ParticleType>Ion</ParticleType>
         <ParticleQuantity>Velocity</ParticleQuantity>
@@ -153,7 +138,6 @@ Those wishing to look quantitatively at solar wind temperature should use the SW
       <Description> Scalar ion temperature from SWIA onboard moment calculation, assuming 100% protons</Description>
       <UCD>phys.temperature;phys.atmol.Ionstage</UCD>
       <Units>eV</Units>
-      <UnitsConversion/>
       <Particle>
         <ParticleType>Ion</ParticleType>
         <ParticleQuantity>Temperature</ParticleQuantity>
@@ -165,7 +149,6 @@ Those wishing to look quantitatively at solar wind temperature should use the SW
       <Description>Ion dynamic pressure computed on the SWIA ground from density and velocity moments, assuming 100% protons</Description>
       <UCD>phys.temperature;phys.atmol.Ionstage</UCD>
       <Units>nPa</Units>
-      <UnitsConversion/>
       <Particle>
         <ParticleType>Ion</ParticleType>
         <ParticleQuantity>Pressure</ParticleQuantity>

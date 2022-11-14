@@ -77,10 +77,7 @@
     <Parameter>
       <Name>energy flux</Name>
       <ParameterKey>mav_euv_fluxc</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>Watts/m^2</Units>
-      <UnitsConversion/>
       <Structure>
         <Size>3</Size>
         <Element>
@@ -107,10 +104,7 @@
     <Parameter>
       <Name>measurement uncertainty</Name>
       <ParameterKey>mav_euv_deltac</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>%</Units>
-      <UnitsConversion/>
       <Structure>
         <Size>3</Size>
         <Element>
@@ -136,10 +130,7 @@
     <Parameter>
       <Name>total uncertainty</Name>
       <ParameterKey>mav_euv_deltatot</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>%</Units>
-      <UnitsConversion/>
       <Structure>
         <Size>3</Size>
         <Element>
@@ -165,9 +156,6 @@
     <Parameter>
       <Name>quality flag</Name>
       <ParameterKey>mav_euv_flagc</ParameterKey>
-      <Description/>
-      <UCD/>
-      <Units/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>

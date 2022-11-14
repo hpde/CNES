@@ -17,7 +17,6 @@ The research objectives of the Swarm mission is to provide the best-ever survey 
 field and its temporal evolution as well as the electric field in the atmosphere using a constellation of 
 3 identical satellites - Swarm-A (Alpha), Swarm-B (Bravo), Swarm-C (Charlie) carrying sophisticated magnetometers and electric field instruments.
        </Description>
-      <Acknowledgement/> 
       <Contact>
         <PersonID>spase://CNES/Person/CDPP-AMDA/R.Floberghagen</PersonID>
         <Role>MissionManager</Role>
@@ -29,8 +28,7 @@ field and its temporal evolution as well as the electric field in the atmosphere
       <InformationURL>
         <Name>Swarm Home Page</Name>
         <URL>https://earth.esa.int/web/guest/missions/esa-eo-missions/swarm/data-handbook</URL>
-        <Description/> 
-      </InformationURL>
+        </InformationURL>
     </ResourceHeader>
     <Location>      
       <ObservatoryRegion>Earth.Magnetosphere</ObservatoryRegion>

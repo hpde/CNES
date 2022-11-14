@@ -67,10 +67,7 @@
     <Parameter>
       <Name>elec counts</Name>
       <ParameterKey>mav_swea_svyspec</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>cnts</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -85,10 +82,7 @@
     <Parameter>
       <Name>elec diff eflux</Name>
       <ParameterKey>mav_swea_svyspecf</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>eV/cm^2 sr eV</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>

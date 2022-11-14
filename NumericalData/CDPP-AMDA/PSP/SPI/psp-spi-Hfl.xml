@@ -80,7 +80,6 @@
     <Parameter>
       <Name>h+ quality flag</Name>
       <ParameterKey>psp_spi_Hqf</ParameterKey>
-      <Description/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>

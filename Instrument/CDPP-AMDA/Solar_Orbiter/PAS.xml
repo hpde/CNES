@@ -31,7 +31,6 @@ functions are measured every 4 s with, every 300 s, a short burst mode of 9 s
 (SnapShot). ‘Long’ burst mode is also acquired every day, consisting in 300 s of 
 continuous sampling at high cadence. The sampling frequency during burst or 
 snapshots is generally of 4 distributions / s (4 Hz analysis).</Description>
-      <Acknowledgement></Acknowledgement>
       <Contact>
         <PersonID>spase://SMWG/Person/Philippe.Louarn</PersonID>
         <Role>PrincipalInvestigator</Role>
@@ -40,11 +39,7 @@ snapshots is generally of 4 distributions / s (4 Hz analysis).</Description>
         <PersonID>spase://CNES/Person/CDPP-AMDA/Andrei.Fedorov</PersonID>
         <Role>TechnicalContact</Role>
       </Contact>       
-      <InformationURL>
-        <Name></Name>
-        <URL></URL>
-      </InformationURL>   
-    </ResourceHeader>
+      </ResourceHeader>
     <InstrumentType>ParticleDetector</InstrumentType>
     <InvestigationName>SWA</InvestigationName>
     <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/SolO</ObservatoryID>

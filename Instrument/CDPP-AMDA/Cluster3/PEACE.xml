@@ -39,7 +39,7 @@
       <PriorID>spase://SMWG/Instrument/Cluster2-Samba/PEACE</PriorID>
     </ResourceHeader>
     <InstrumentType>ElectrostaticAnalyser</InstrumentType>
-    <InvestigationName></InvestigationName>
+    <InvestigationName>Plasma Electron and Current Experiment (PEACE) on Cluster 2/FM7 (Samba)</InvestigationName>
     <OperatingSpan>
       <StartDate>2000-12-01T00:00:00</StartDate>
       <Note>Start of full orbit coverage: 2002-06-01T00:00:00</Note>

@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <Spase xmlns="http://www.spase-group.org/data/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.spase-group.org/data/schema http://www.spase-group.org/data/schema/spase-2.4.1.xsd">
   <Version>2.4.1</Version>
   <NumericalData>
@@ -39,7 +39,7 @@
             <Description>Web Service to this product using the HAPI interface.</Description>
          </AccessURL>
          <Format>CSV</Format>
-         <Acknowledgement>Thank you for acknowledging the use of AMDA in publications with wording like "Data analysis was performed with the AMDA science analysis system provided by the Centre de Donn&#xE9;es de la Physique des Plasmas (CDPP) supported by CNRS, CNES, Observatoire de Paris and Universit&#xE9; Paul Sabatier, Toulouse".. See the Rules of the road at http://amda.cdpp.eu/help/policy.html. Please acknowledge the Data Providers.</Acknowledgement>
+         <Acknowledgement>Thank you for acknowledging the use of AMDA in publications with wording like "Data analysis was performed with the AMDA science analysis system provided by the Centre de Données de la Physique des Plasmas (CDPP) supported by CNRS, CNES, Observatoire de Paris and Université Paul Sabatier, Toulouse".. See the Rules of the road at http://amda.cdpp.eu/help/policy.html. Please acknowledge the Data Providers.</Acknowledgement>
       </AccessInformation>
     <AccessInformation>
          <RepositoryID>spase://SMWG/Repository/CDPP/AMDA</RepositoryID>
@@ -54,7 +54,7 @@
          <Format>VOTable</Format>
          <Format>CDF</Format>
          <Format>PNG</Format>
-         <Acknowledgement>Thank you for acknowledging the use of AMDA in publications with wording like "Data analysis was performed with the AMDA science analysis system provided by the Centre de Donn&#xE9;es de la Physique des Plasmas (CDPP) supported by CNRS, CNES, Observatoire de Paris and Universit&#xE9; Paul Sabatier, Toulouse".. See the Rules of the road at http://amda.cdpp.eu/help/policy.html. Please acknowledge the Data Providers.</Acknowledgement>
+         <Acknowledgement>Thank you for acknowledging the use of AMDA in publications with wording like "Data analysis was performed with the AMDA science analysis system provided by the Centre de Données de la Physique des Plasmas (CDPP) supported by CNRS, CNES, Observatoire de Paris and Université Paul Sabatier, Toulouse".. See the Rules of the road at http://amda.cdpp.eu/help/policy.html. Please acknowledge the Data Providers.</Acknowledgement>
       </AccessInformation>
     <ProviderName>Helios Data Archive</ProviderName>
     <ProviderResourceName>Magnetic Field 6-sec Averages</ProviderResourceName>
@@ -68,14 +68,11 @@
       <Cadence>PT6S</Cadence>
     </TemporalDescription>
     <ObservedRegion>Heliosphere</ObservedRegion>
-    <Caveats/>
     <Parameter>
       <Name>|b|</Name>
       <ParameterKey>helios2_e3_bmag</ParameterKey>
       <Description>Magnetic field magnitude</Description>
-      <UCD/>
       <Units>nT</Units>
-      <UnitsConversion/>
       <Field>
         <Qualifier>Average</Qualifier>
         <FieldQuantity>Magnetic</FieldQuantity>
@@ -85,35 +82,24 @@
       <Name>b_se</Name>
       <ParameterKey>helios2_e3_bse</ParameterKey>
       <Description>Magnetic field in solar ecliptic spacecraft centered coordinates</Description>
-      <UCD/>
       <Units>nT</Units>
-      <UnitsConversion/>
       <Structure>
         <Size>3</Size>
         <Element>
           <Name>bx</Name>
           <Index>1</Index>
           <ParameterKey>helios2_e3_bse(0)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>by</Name>
           <Index>2</Index>
           <ParameterKey>helios2_e3_bse(1)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>bz</Name>
           <Index>3</Index>
           <ParameterKey>helios2_e3_bse(2)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
       </Structure>
       <Field>
         <Qualifier>Vector</Qualifier>
@@ -124,35 +110,24 @@
       <Name>b_rtn</Name>
       <ParameterKey>helios2_e3_brtn</ParameterKey>
       <Description>Magnetic field in RTN coordinates</Description>
-      <UCD/>
       <Units>nT</Units>
-      <UnitsConversion/>
       <Structure>
         <Size>3</Size>
         <Element>
           <Name>br</Name>
           <Index>1</Index>
           <ParameterKey>helios2_e3_brtn(0)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>bt</Name>
           <Index>2</Index>
           <ParameterKey>helios2_e3_brtn(1)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>bn</Name>
           <Index>3</Index>
           <ParameterKey>helios2_e3_brtn(2)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
       </Structure>
       <Field>
         <Qualifier>Vector</Qualifier>
@@ -163,35 +138,24 @@
       <Name>std_b</Name>
       <ParameterKey>helios2_e3_std</ParameterKey>
       <Description>Magnetic field standard deviation</Description>
-      <UCD/>
       <Units>nT</Units>
-      <UnitsConversion/>
       <Structure>
         <Size>3</Size>
         <Element>
           <Name>x</Name>
           <Index>1</Index>
           <ParameterKey>helios2_e3_std(0)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>y</Name>
           <Index>2</Index>
           <ParameterKey>helios2_e3_std(1)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>z</Name>
           <Index>3</Index>
           <ParameterKey>helios2_e3_std(2)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
       </Structure>
       <Field>
         <Qualifier>Vector</Qualifier>

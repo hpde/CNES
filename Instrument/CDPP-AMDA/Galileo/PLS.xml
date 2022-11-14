@@ -34,8 +34,7 @@
         distribution of plasmas throughout most of the magnetosphere and including the magnetotail, and ion and electron flows to and 
         from the Jovian ionosphere.
     </Description>
-      <Acknowledgement/>
-            <Contact>
+      <Contact>
               <PersonID>spase://SMWG/Person/Louis.A.Frank</PersonID>
                 <Role>PrincipalInvestigator</Role>
             </Contact>
@@ -48,6 +47,5 @@
     <InstrumentType>ElectrostaticAnalyser</InstrumentType>
     <InvestigationName>Particle Plasma Investigation</InvestigationName>
     <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/Galileo</ObservatoryID>
-    <Caveats/>
-  </Instrument>
+    </Instrument>
 </Spase>

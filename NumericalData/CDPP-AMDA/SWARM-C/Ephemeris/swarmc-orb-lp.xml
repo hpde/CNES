@@ -7,8 +7,7 @@
       <ResourceName>lp extended dataset</ResourceName>
       <AlternateName>Swarm-C orbital information from EFI / LP extended dataset</AlternateName>
       <ReleaseDate>2022-09-25T20:31:48Z</ReleaseDate>
-      <Description/>
-      <Acknowledgement/>
+      <Description>ToDo</Description>
       <Contact>
         <PersonID>spase://CNES/Person/CDPP-AMDA/S.Buchert</PersonID>
         <Role>Scientist</Role>
@@ -16,8 +15,7 @@
       <InformationURL>
         <Name>Dataset Description</Name>
         <URL>ftp://swarm-diss.eo.esa.int/Advanced/Plasma_Data/2_Hz_Langmuir_Probe_Extended_Dataset/SW-RN-IRF-GS-005_Extended_LP_Data_Probes.ZIP</URL>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
       <Association>
         <AssociationID>swarmc-orb-05</AssociationID>
         <AssociationType>PartOf</AssociationType>
@@ -78,13 +76,10 @@
       <Name>h_wgs84</Name>
       <ParameterKey>swc_h_wgs84</ParameterKey>
       <Description>Height above reference ellipsoid, WGS84</Description>
-      <UCD/>
       <Units>km</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
-      <FillValue/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>
@@ -93,13 +88,10 @@
       <Name>lon_wgs84</Name>
       <ParameterKey>swc_lon_wgs84</ParameterKey>
       <Description>Geodetic longitude, WGS84</Description>
-      <UCD/>
       <Units>deg</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
-      <FillValue/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>
@@ -108,13 +100,10 @@
       <Name>lat_wgs84</Name>
       <ParameterKey>swc_lat_wgs84</ParameterKey>
       <Description>Geodetic latitude, WGS84</Description>
-      <UCD/>
       <Units>deg</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
-      <FillValue/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>
@@ -123,13 +112,10 @@
       <Name>sza</Name>
       <ParameterKey>swc_sza</ParameterKey>
       <Description>Solar Zenith Angle</Description>
-      <UCD/>
       <Units>deg</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
-      <FillValue/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>
@@ -138,13 +124,10 @@
       <Name>solar azimuth</Name>
       <ParameterKey>swc_saz</ParameterKey>
       <Description>Solar Azimuth in Earth frame, north is 0 deg</Description>
-      <UCD/>
       <Units>deg</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
-      <FillValue/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>
@@ -153,13 +136,10 @@
       <Name>solar time</Name>
       <ParameterKey>swc_st</ParameterKey>
       <Description>Apparent Solar Time</Description>
-      <UCD/>
       <Units>hours</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
-      <FillValue/>
       <Support>
         <SupportQuantity>Temporal</SupportQuantity>
       </Support>
@@ -168,13 +148,10 @@
       <Name>dip lat</Name>
       <ParameterKey>swc_diplat</ParameterKey>
       <Description>Quasi-dipole latitude</Description>
-      <UCD/>
       <Units>deg</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
-      <FillValue/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>
@@ -183,13 +160,10 @@
       <Name>dip lon</Name>
       <ParameterKey>swc_diplon</ParameterKey>
       <Description>Quasi-dipole longitude</Description>
-      <UCD/>
       <Units>deg</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
-      <FillValue/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>
@@ -198,13 +172,10 @@
       <Name>mlat</Name>
       <ParameterKey>swc_mlat</ParameterKey>
       <Description>Magnetic latitude</Description>
-      <UCD/>
       <Units>deg</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
-      <FillValue/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>
@@ -213,13 +184,10 @@
       <Name>mlt</Name>
       <ParameterKey>swc_mlt</ParameterKey>
       <Description>Magnetic local time based on quasi-dipole</Description>
-      <UCD/>
       <Units>hours</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
-      <FillValue/>
       <Support>
         <SupportQuantity>Temporal</SupportQuantity>
       </Support>

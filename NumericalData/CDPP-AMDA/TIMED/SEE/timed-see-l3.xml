@@ -29,8 +29,7 @@ personnel, and funding agencies should be given.
       <InformationURL>
         <Name>Dataset description</Name>
         <URL>http://lasp.colorado.edu/data/timed_see/level3/README_SEE_L3_012.TXT</URL>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
       <Association>
         <AssociationID>timed-see-flux</AssociationID>
         <AssociationType>PartOf</AssociationType>
@@ -90,9 +89,7 @@ absorption, degradation, flare removal, and to 1 AU.
       <Name>flux : spectra</Name>
       <ParameterKey>timed_sp_daily</ParameterKey>
       <Description>Merged median solar irradiance for XPS and EGS flux at 1nm bins</Description>
-      <UCD/>
       <Units>W/m**2/nm</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -106,9 +103,7 @@ absorption, degradation, flare removal, and to 1 AU.
       <Name>flux : lines</Name>
       <ParameterKey>timed_ln_daily</ParameterKey>
       <Description>Integrated median spectral line irradiance</Description>
-      <UCD/>
       <Units>W/m**2/nm</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>

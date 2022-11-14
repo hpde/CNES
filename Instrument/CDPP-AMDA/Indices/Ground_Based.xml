@@ -18,7 +18,7 @@ Geomagnetic indices aim at describing the geomagnetic activity or some of its co
       </Contact>
     </ResourceHeader>
     <InstrumentType>Magnetometer</InstrumentType>
-    <InvestigationName/>
+    <InvestigationName>IAGA endorsed geomagnetic indices</InvestigationName>
     <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/Indices</ObservatoryID>
   </Instrument>
 </Spase>

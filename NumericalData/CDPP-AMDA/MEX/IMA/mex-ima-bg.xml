@@ -57,7 +57,6 @@
     <Parameter>
       <Name>bkgrd counts</Name>
       <ParameterKey>mex_ima_bg</ParameterKey>
-      <Description/>
       <UCD>meta.code.qual;phys.atmol.ionStage</UCD>
       <Units>cnts</Units>
       <RenderingHints>
@@ -71,7 +70,6 @@
     <Parameter>
       <Name>total counts</Name>
       <ParameterKey>mex_ima_totct</ParameterKey>
-      <Description/>
       <UCD>phys.density;phys.atmol.ionStage</UCD>
       <Units>cnts</Units>
       <RenderingHints>

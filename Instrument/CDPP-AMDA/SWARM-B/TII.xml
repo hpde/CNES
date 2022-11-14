@@ -19,11 +19,10 @@
       <InformationURL>
         <Name>EFI description</Name>
         <URL>https://earth.esa.int/web/guest/missions/esa-eo-missions/swarm/instruments/efi</URL>
-        <Description/>
-      </InformationURL>     
+        </InformationURL>     
     </ResourceHeader>
     <InstrumentType>Imager</InstrumentType>
-    <InvestigationName/>
+    <InvestigationName>Electric Field Instrument : Thermal Ion Imager</InvestigationName>
     <OperatingSpan>
       <StartDate>2013-12-02T00:00:00</StartDate> 
     </OperatingSpan>

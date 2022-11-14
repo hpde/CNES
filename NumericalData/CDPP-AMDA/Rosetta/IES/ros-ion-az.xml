@@ -39,10 +39,8 @@
         <Role>DataProducer</Role>
       </Contact>
       <InformationURL>
-        <Name/>
         <URL/>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
       <Association>
         <AssociationID>ros-ion-all</AssociationID>
         <AssociationType>PartOf</AssociationType>
@@ -103,10 +101,7 @@ are combined.</Caveats>
     <Parameter>
       <Name>ion countrate</Name>
       <ParameterKey>ros_ion_az</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>s**-1</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>

@@ -15,7 +15,7 @@
       </Contact>
     </ResourceHeader>
     <InstrumentType>Platform</InstrumentType>
-    <InvestigationName/>
+    <InvestigationName> Helios corefit data product : auxilliary orbital data</InvestigationName>
     <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/Helios1</ObservatoryID>
   </Instrument>
 </Spase>

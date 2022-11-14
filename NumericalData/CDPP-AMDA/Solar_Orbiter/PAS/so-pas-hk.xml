@@ -5,10 +5,8 @@
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/Solar_Orbiter/PAS/so-pas-hk</ResourceID>
     <ResourceHeader>
       <ResourceName>housekeeping</ResourceName>
-      <AlternateName/>
       <ReleaseDate>2022-09-23T03:18:14Z</ReleaseDate>
-      <Description/>
-      <Acknowledgement/>
+      <Description>ToDo</Description>
       <Contact>
         <PersonID>spase://SMWG/Person/Philippe.Louarn</PersonID>
         <Role>PrincipalInvestigator</Role>
@@ -18,10 +16,8 @@
         <Role>PrincipalInvestigator</Role>
       </Contact>
       <InformationURL>
-        <Name/>
         <URL/>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
       <Association>
         <AssociationID>solo-pas-l1</AssociationID>
         <AssociationType>PartOf</AssociationType>
@@ -57,7 +53,6 @@
          <Acknowledgement>Thank you for acknowledging the use of AMDA in publications with wording like "Data analysis was performed with the AMDA science analysis system provided by the Centre de Données de la Physique des Plasmas (CDPP) supported by CNRS, CNES, Observatoire de Paris and Université Paul Sabatier, Toulouse".. See the Rules of the road at http://amda.cdpp.eu/help/policy.html. Please acknowledge the Data Providers.</Acknowledgement>
       </AccessInformation>
     <ProviderName>IRAP</ProviderName>
-    <ProviderResourceName/>
     <InstrumentID>spase://CNES/Instrument/CDPP-AMDA/Solar_Orbiter/PAS</InstrumentID>
     <MeasurementType>ThermalPlasma</MeasurementType>
     <TemporalDescription>
@@ -71,8 +66,6 @@
     <Parameter>
       <Name>centr. CEM HV</Name>
       <ParameterKey>pashk_cem_hv_centr</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>V</Units>
       <Support>
         <SupportQuantity>Housekeeping</SupportQuantity>
@@ -81,8 +74,6 @@
     <Parameter>
       <Name>periph. CEM HV</Name>
       <ParameterKey>pashk_cem_hv_perif</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>V</Units>
       <Support>
         <SupportQuantity>Housekeeping</SupportQuantity>
@@ -91,8 +82,6 @@
     <Parameter>
       <Name>centr. CEM curr.</Name>
       <ParameterKey>pashk_cem_curr_centr</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>uA</Units>
       <Support>
         <SupportQuantity>Housekeeping</SupportQuantity>
@@ -101,8 +90,6 @@
     <Parameter>
       <Name>periph. CEM curr.</Name>
       <ParameterKey>pashk_cem_curr_perif</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>uA</Units>
       <Support>
         <SupportQuantity>Housekeeping</SupportQuantity>
@@ -111,8 +98,6 @@
     <Parameter>
       <Name>centr. CEM temp.</Name>
       <ParameterKey>pashk_cem_temp_centr</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>C</Units>
       <Support>
         <SupportQuantity>Housekeeping</SupportQuantity>
@@ -121,8 +106,6 @@
     <Parameter>
       <Name>periph. CEM temp.</Name>
       <ParameterKey>pashk_cem_temp_perif</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>C</Units>
       <Support>
         <SupportQuantity>Housekeeping</SupportQuantity>
@@ -131,8 +114,6 @@
     <Parameter>
       <Name>temp. heater1</Name>
       <ParameterKey>pashk_heat1_temp</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>C</Units>
       <Support>
         <SupportQuantity>Housekeeping</SupportQuantity>
@@ -141,8 +122,6 @@
     <Parameter>
       <Name>temp. heater2</Name>
       <ParameterKey>pashk_heat2_temp</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>C</Units>
       <Support>
         <SupportQuantity>Housekeeping</SupportQuantity>
@@ -151,8 +130,6 @@
     <Parameter>
       <Name>temp. heater3</Name>
       <ParameterKey>pashk_heat3_temp</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>C</Units>
       <Support>
         <SupportQuantity>Housekeeping</SupportQuantity>
@@ -161,8 +138,6 @@
     <Parameter>
       <Name>temp. HVPS</Name>
       <ParameterKey>pashk_hvps_temp</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>C</Units>
       <Support>
         <SupportQuantity>Housekeeping</SupportQuantity>
@@ -171,8 +146,6 @@
     <Parameter>
       <Name>temp. analyzer</Name>
       <ParameterKey>pashk_anl_temp</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>C</Units>
       <Support>
         <SupportQuantity>Housekeeping</SupportQuantity>
@@ -181,8 +154,6 @@
     <Parameter>
       <Name>+24V for CEM</Name>
       <ParameterKey>pashk_cem_24v</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>V</Units>
       <Support>
         <SupportQuantity>Housekeeping</SupportQuantity>
@@ -191,8 +162,6 @@
     <Parameter>
       <Name>+5V for CEM</Name>
       <ParameterKey>pashk_cem_5v</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>V</Units>
       <Support>
         <SupportQuantity>Housekeeping</SupportQuantity>
@@ -201,8 +170,6 @@
     <Parameter>
       <Name>+12V for HVPS</Name>
       <ParameterKey>pashk_hvps_p12v</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>V</Units>
       <Support>
         <SupportQuantity>Housekeeping</SupportQuantity>
@@ -211,8 +178,6 @@
     <Parameter>
       <Name>-12V for HVPS</Name>
       <ParameterKey>pashk_hvps_m12v</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>V</Units>
       <Support>
         <SupportQuantity>Housekeeping</SupportQuantity>
@@ -221,8 +186,6 @@
     <Parameter>
       <Name>+3.5V for FPGA</Name>
       <ParameterKey>pashk_fpga_3v5</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>V</Units>
       <Support>
         <SupportQuantity>Housekeeping</SupportQuantity>
@@ -231,8 +194,6 @@
     <Parameter>
       <Name>+1.5V for FPGA</Name>
       <ParameterKey>pashk_fpga_1v5</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>V</Units>
       <Support>
         <SupportQuantity>Housekeeping</SupportQuantity>
@@ -241,8 +202,6 @@
     <Parameter>
       <Name>temp. DC-DC</Name>
       <ParameterKey>pashk_dcdc_temp</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>C</Units>
       <Support>
         <SupportQuantity>Housekeeping</SupportQuantity>
@@ -251,8 +210,6 @@
     <Parameter>
       <Name>temp. FPGA</Name>
       <ParameterKey>pashk_fpga_temp</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>C</Units>
       <Support>
         <SupportQuantity>Housekeeping</SupportQuantity>
@@ -261,8 +218,6 @@
     <Parameter>
       <Name>+24V for CEM curr.</Name>
       <ParameterKey>pashk_cem_24v_curr</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>mA</Units>
       <Support>
         <SupportQuantity>Housekeeping</SupportQuantity>
@@ -271,8 +226,6 @@
     <Parameter>
       <Name>+5V for CEM curr.</Name>
       <ParameterKey>pashk_cem_5v_curr</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>mA</Units>
       <Support>
         <SupportQuantity>Housekeeping</SupportQuantity>
@@ -281,8 +234,6 @@
     <Parameter>
       <Name>+12V for HVPS curr.</Name>
       <ParameterKey>pashk_hvps_p12v_curr</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>mA</Units>
       <Support>
         <SupportQuantity>Housekeeping</SupportQuantity>
@@ -291,8 +242,6 @@
     <Parameter>
       <Name>-12V for HVPS curr.</Name>
       <ParameterKey>pashk_hvps_m12v_curr</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>mA</Units>
       <Support>
         <SupportQuantity>Housekeeping</SupportQuantity>
@@ -301,8 +250,6 @@
     <Parameter>
       <Name>+3.5V for FPGA curr.</Name>
       <ParameterKey>pashk_fpga_3v5_curr</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>mA</Units>
       <Support>
         <SupportQuantity>Housekeeping</SupportQuantity>
@@ -311,8 +258,6 @@
     <Parameter>
       <Name>+1.5V for FPGA curr.</Name>
       <ParameterKey>pashk_fpga_1v5_curr</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>mA</Units>
       <Support>
         <SupportQuantity>Housekeeping</SupportQuantity>
@@ -321,8 +266,6 @@
     <Parameter>
       <Name>+28V primary curr.</Name>
       <ParameterKey>pashk_28v_prime_curr</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>mA</Units>
       <Support>
         <SupportQuantity>Housekeeping</SupportQuantity>
@@ -331,8 +274,6 @@
     <Parameter>
       <Name>main + HV</Name>
       <ParameterKey>pashk_main_phv</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>V</Units>
       <Support>
         <SupportQuantity>Housekeeping</SupportQuantity>
@@ -341,8 +282,6 @@
     <Parameter>
       <Name>main - HV</Name>
       <ParameterKey>pashk_main_mhv</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>V</Units>
       <Support>
         <SupportQuantity>Housekeeping</SupportQuantity>
@@ -351,8 +290,6 @@
     <Parameter>
       <Name>analyzer HV</Name>
       <ParameterKey>pashk_anl_hv</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>V</Units>
       <Support>
         <SupportQuantity>Housekeeping</SupportQuantity>
@@ -361,8 +298,6 @@
     <Parameter>
       <Name>defl. top HV</Name>
       <ParameterKey>pashk_top_hv</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>V</Units>
       <Support>
         <SupportQuantity>Housekeeping</SupportQuantity>
@@ -371,8 +306,6 @@
     <Parameter>
       <Name>defl. bot HV</Name>
       <ParameterKey>pashk_bot_hv</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>V</Units>
       <Support>
         <SupportQuantity>Housekeeping</SupportQuantity>
@@ -381,8 +314,6 @@
     <Parameter>
       <Name>top cap HV</Name>
       <ParameterKey>pashk_topcap_hv</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>V</Units>
       <Support>
         <SupportQuantity>Housekeeping</SupportQuantity>

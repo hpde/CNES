@@ -31,6 +31,5 @@
     <InstrumentType>ElectrostaticAnalyser</InstrumentType>
     <InvestigationName/>
     <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/THEMIS/ThemisB</ObservatoryID>
-    <Caveats/>
-  </Instrument>
+    </Instrument>
 </Spase>

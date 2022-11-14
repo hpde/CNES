@@ -22,8 +22,7 @@
       <InformationURL>
         <Name>IRM magneotmeter information at University of New Hampshire</Name>
         <URL>http://www-ssg.sr.unh.edu/index.html?tof/Missions/Ampte-irm/magnetic/magneticmain.html</URL>
-        <Description></Description>
-      </InformationURL>
+        </InformationURL>
       <InformationURL>
         <Name>NSSDC Master Catalog</Name>
         <URL>https://nssdc.gsfc.nasa.gov/nmc/experiment/display.action?id=1984-088B-02</URL>

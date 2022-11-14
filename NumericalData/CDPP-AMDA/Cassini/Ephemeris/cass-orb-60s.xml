@@ -228,7 +228,6 @@
     <Parameter>
       <Name>cass_orbit_num</Name>
       <ParameterKey>cass_orb_num</ParameterKey>
-      <Units/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>

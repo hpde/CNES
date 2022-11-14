@@ -71,7 +71,6 @@
       <Name>scan_mode</Name>
       <ParameterKey>mes_fips_scanmode</ParameterKey>
       <UCD>meta.code</UCD>
-      <Units/>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
       </Support>

@@ -25,8 +25,7 @@ Parameter ID uses Detector looking directon.
       <InformationURL>
         <Name>SolO Archive Support Data</Name>
         <URL>https://issues.cosmos.esa.int/solarorbiterwiki/display/SOSP/Archive+Support+Data</URL>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
       <Association>
         <AssociationID>solo-epd-het.2</AssociationID>
         <AssociationType>PartOf</AssociationType>
@@ -79,9 +78,7 @@ Parameter ID uses Detector looking directon.
       <Name>c flux: southward</Name>
       <ParameterKey>solo_het_north_cflux</ParameterKey>
       <Description>Carbon flux</Description>
-      <UCD/>
       <Units>1/(s cm^2 sr MeV/n)</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -96,9 +93,7 @@ Parameter ID uses Detector looking directon.
       <Name>c flux unc: southward</Name>
       <ParameterKey>solo_het_north_cunc</ParameterKey>
       <Description>Uncertainty in Carbon flux</Description>
-      <UCD/>
       <Units>1/(s cm^2 sr MeV)</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -113,9 +108,7 @@ Parameter ID uses Detector looking directon.
       <Name>n flux: southward</Name>
       <ParameterKey>solo_het_north_nflux</ParameterKey>
       <Description>Nytrogen flux</Description>
-      <UCD/>
       <Units>1/(s cm^2 sr MeV/n)</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -130,9 +123,7 @@ Parameter ID uses Detector looking directon.
       <Name>n flux unc: southward</Name>
       <ParameterKey>solo_het_north_nunc</ParameterKey>
       <Description>Uncertainty in Nytrogen flux</Description>
-      <UCD/>
       <Units>1/(s cm^2 sr MeV)</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -147,9 +138,7 @@ Parameter ID uses Detector looking directon.
       <Name>o flux: southward</Name>
       <ParameterKey>solo_het_north_oflux</ParameterKey>
       <Description>Oxygen Flux</Description>
-      <UCD/>
       <Units>1/(s cm^2 sr MeV/n)</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -164,9 +153,7 @@ Parameter ID uses Detector looking directon.
       <Name>o flux unc: southward</Name>
       <ParameterKey>solo_het_north_ounc</ParameterKey>
       <Description>Uncertainty in Oxygen flux</Description>
-      <UCD/>
       <Units>1/(s cm^2 sr MeV)</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -181,9 +168,6 @@ Parameter ID uses Detector looking directon.
       <Name>quality flag: southward</Name>
       <ParameterKey>solo_het_north_2_qf</ParameterKey>
       <Description>0: Bad, 1: Known problems, 2: Survey data, 3: Good, 4: Excellent</Description>
-      <UCD/>
-      <Units/>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>

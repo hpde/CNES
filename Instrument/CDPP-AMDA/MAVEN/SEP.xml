@@ -13,7 +13,7 @@
 Goals:
     * Determine SEP input into the atmosphere as a function of altitude
     * Determine SEP heating, ionization, and sputtering of upper atmosphere
-    * Detect the highest energy pickup ions (>30 to 100s of keV)
+    * Detect the highest energy pickup ions (&gt;30 to 100s of keV)
 
 Observations:
     * Characterize solar particles in an energy range that affects upper atmosphere and ionospheric processes (~120 – 200 km)
@@ -37,8 +37,8 @@ Observations:
         <URL>http://lasp.colorado.edu/home/maven/science/instrument-package/sep/</URL>
       </InformationURL>      
     </ResourceHeader>
-   <InstrumentType>ParticleDetector</InstrumentType>
-    <InvestigationName/>
+   <InstrumentType>SolidStateDetector</InstrumentType>
+    <InvestigationName>MAVEN Solar Energetic Particle Investigation</InvestigationName>
     <OperatingSpan>
       <StartDate>2013-11-18T13:28:00</StartDate>
       <!--StopDate>2014-12-16T00:00:00</StopDate-->

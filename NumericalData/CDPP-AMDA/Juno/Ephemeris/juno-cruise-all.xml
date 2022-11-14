@@ -6,17 +6,14 @@
     <ResourceHeader>
       <ResourceName>cruise</ResourceName>
       <ReleaseDate>2020-01-20T16:20:31Z</ReleaseDate>
-      <Description/>
-      <Acknowledgement/>
+      <Description>ToDo</Description>
       <Contact>
         <PersonID>spase://CNES/Person/CDPP-AMDA/NAIF</PersonID>
         <Role>PrincipalInvestigator</Role>
       </Contact>
       <InformationURL>
-        <Name/>
         <URL/>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
     </ResourceHeader>
     <AccessInformation>
          <RepositoryID>spase://SMWG/Repository/CDPP/AMDA</RepositoryID>
@@ -46,7 +43,6 @@
          <Format>PNG</Format>
          <Acknowledgement>Thank you for acknowledging the use of AMDA in publications with wording like "Data analysis was performed with the AMDA science analysis system provided by the Centre de Données de la Physique des Plasmas (CDPP) supported by CNRS, CNES, Observatoire de Paris and Université Paul Sabatier, Toulouse".. See the Rules of the road at http://amda.cdpp.eu/help/policy.html. Please acknowledge the Data Providers.</Acknowledgement>
       </AccessInformation>
-    <ProviderName/>
     <InstrumentID>spase://CNES/Instrument/CDPP-AMDA/Juno/Ephemeris</InstrumentID>
     <MeasurementType>Ephemeris</MeasurementType>
     <TemporalDescription>
@@ -62,10 +58,7 @@
     <Parameter>
       <Name>xyz_iau_sun</Name>
       <ParameterKey>juno_cruise_xyz</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>AU</Units>
-      <UnitsConversion/>
       <Structure>
         <Size>3</Size>
         <Element>
@@ -73,28 +66,19 @@
           <Qualifier>Component.I</Qualifier>
           <Index>1</Index>
           <ParameterKey>juno_cruise_xyz(0)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>y</Name>
           <Qualifier>Component.J</Qualifier>
           <Index>2</Index>
           <ParameterKey>juno_cruise_xyz(1)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>z</Name>
           <Qualifier>Component.K</Qualifier>
           <Index>3</Index>
           <ParameterKey>juno_cruise_xyz(2)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
       </Structure>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
@@ -103,10 +87,7 @@
     <Parameter>
       <Name>distance juno-sun</Name>
       <ParameterKey>juno_cruise_r</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>AU</Units>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>
@@ -114,10 +95,7 @@
     <Parameter>
       <Name>lon_iau_sun</Name>
       <ParameterKey>juno_cruise_lon</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>deg</Units>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>
@@ -125,10 +103,7 @@
     <Parameter>
       <Name>lat_iau_sun</Name>
       <ParameterKey>juno_cruise_lat</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>deg</Units>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>

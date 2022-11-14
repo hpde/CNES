@@ -5,10 +5,8 @@
     <ResourceID>spase://CNES/Instrument/CDPP-AMDA/Galileo/Models</ResourceID>
     <ResourceHeader>
       <ResourceName>Jovian Magnetic Field Models</ResourceName>
-      <AlternateName></AlternateName>
       <ReleaseDate>2009-05-20T21:10:13Z</ReleaseDate>
       <Description>Different magnetic parameters calculated basing on Khurana's model</Description>
-      <Acknowledgement/>
       <Contact>
         <PersonID>spase://CNES/Person/CDPP-AMDA/Krishan.Khurana</PersonID>
         <Role>PrincipalInvestigator</Role>
@@ -17,11 +15,9 @@
         <Name>Access to Khurana model</Name>
         <URL>http://lasp.colorado.edu/home/mop/resources/graphics/code/</URL>
       </InformationURL>
-      <PriorID></PriorID>
-    </ResourceHeader>
+      </ResourceHeader>
     <InstrumentType>Platform</InstrumentType>
     <InvestigationName/>
     <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/Galileo</ObservatoryID>
-    <Caveats/>
-  </Instrument>
+    </Instrument>
 </Spase>

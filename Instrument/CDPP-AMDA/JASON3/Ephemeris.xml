@@ -9,7 +9,6 @@
       <ReleaseDate>2020-09-30T21:10:13Z</ReleaseDate>
       <Description>   
         </Description>
-      <Acknowledgement/>
       <Contact>
 	<PersonID>spase://CNES/Person/CDPP-AMDA/Denis.Payan</PersonID>
         <Role>PrincipalInvestigator</Role>
@@ -18,15 +17,9 @@
         <PersonID>spase://SMWG/Person/Jean-Andre.C.Sauvaud</PersonID> 
         <Role>CoInvestigator</Role>
       </Contact>
-      <InformationURL>
-        <Name></Name>
-        <URL></URL>
-      </InformationURL>
-      <PriorID/>
-    </ResourceHeader>
+      </ResourceHeader>
     <InstrumentType>Platform</InstrumentType>
-    <InvestigationName/>
+    <InvestigationName>JASON3 Orbit</InvestigationName>
     <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/JASON3</ObservatoryID>
-    <Caveats/>
-  </Instrument>
+    </Instrument>
 </Spase>

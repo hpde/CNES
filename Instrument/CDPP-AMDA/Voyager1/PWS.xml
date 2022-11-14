@@ -7,17 +7,12 @@
       <ResourceName>PWS</ResourceName>
       <AlternateName>Plasma Wave System</AlternateName>
       <ReleaseDate>2009-05-20T21:10:14Z</ReleaseDate>
-      <Description></Description>
+      <Description>ToDo</Description>
       <Contact>
         <PersonID>spase://SMWG/Person/Donald.A.Gurnett</PersonID>
         <Role>PrincipalInvestigator</Role>
       </Contact>
-      <InformationURL>
-        <Name>NSSDC's Master Catalog</Name>
-        <URL></URL>
-        <Description>Information about the Plasma Wave System (PWS) experiment on the Voyager 1 mission.</Description>
-      </InformationURL>
-    </ResourceHeader>
+      </ResourceHeader>
     <InstrumentType>WaveformReceiver</InstrumentType>
     <InvestigationName>Plasma Wave System (PWS) on Voyager 1</InvestigationName>
     <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/Voyager1</ObservatoryID>

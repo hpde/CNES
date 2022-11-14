@@ -5,10 +5,8 @@
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/Phobos2/MAG/pho-mag-data</ResourceID>
     <ResourceHeader>
       <ResourceName>b field</ResourceName>
-      <AlternateName/>
       <ReleaseDate>2012-11-15T12:38:35Z</ReleaseDate>
-      <Description/>
-      <Acknowledgement/>
+      <Description>ToDo</Description>
       <Contact>
         <PersonID>spase://SMWG/Person/Konrad.Schwingenschuh</PersonID>
         <Role>PrincipalInvestigator</Role>
@@ -54,7 +52,6 @@
       <CadenceMax>PT45S</CadenceMax>
     </TemporalDescription>
     <ObservedRegion>Mars</ObservedRegion>
-    <Caveats/>
     <Parameter>
       <Name>|b|</Name>
       <ParameterKey>pho_b_tot</ParameterKey>
@@ -65,7 +62,6 @@
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
-      <FillValue/>
       <Field>
         <Qualifier>Magnitude</Qualifier>
         <FieldQuantity>Magnetic</FieldQuantity>
@@ -92,22 +88,19 @@
           <Qualifier>Component.I</Qualifier>
           <Index>1</Index>
           <ParameterKey>pho_b_mso(0)</ParameterKey>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>by</Name>
           <Qualifier>Component.J</Qualifier>
           <Index>2</Index>
           <ParameterKey>pho_b_mso(1)</ParameterKey>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>bz</Name>
           <Qualifier>Component.K</Qualifier>
           <Index>3</Index>
           <ParameterKey>pho_b_mso(2)</ParameterKey>
-          <FillValue/>
-        </Element>
+          </Element>
       </Structure>
       <Field>
         <Qualifier>Vector</Qualifier>

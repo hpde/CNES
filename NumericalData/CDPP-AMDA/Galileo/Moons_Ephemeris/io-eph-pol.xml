@@ -7,7 +7,6 @@
       <ResourceName>Io</ResourceName>
       <ReleaseDate>2012-03-06T18:42:23Z</ReleaseDate>
       <Description>Some special Jovian moons ephemeris calculated by Joseph Groene tool (University of Iowa)</Description>
-      <Acknowledgement/>
       <Contact>
         <PersonID>spase://CNES/Person/CDPP-AMDA/Joseph.Groene</PersonID>
         <Role>DataProducer</Role>
@@ -57,14 +56,10 @@
     </TemporalDescription>
     <ObservedRegion>Jupiter</ObservedRegion>
     <ObservedRegion>Jupiter.Io</ObservedRegion>
-    <Caveats/>
     <Parameter>
       <Name>lon</Name>
       <ParameterKey>io_pol_lon</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>deg</Units>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>
@@ -72,10 +67,7 @@
     <Parameter>
       <Name>lat</Name>
       <ParameterKey>io_pol_lat</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>deg</Units>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>
@@ -83,10 +75,7 @@
     <Parameter>
       <Name>mlat</Name>
       <ParameterKey>io_pol_mlat</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>deg</Units>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>
@@ -94,10 +83,7 @@
     <Parameter>
       <Name>local time</Name>
       <ParameterKey>io_pol_lt</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>hours</Units>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Temporal</SupportQuantity>
       </Support>
@@ -105,10 +91,7 @@
     <Parameter>
       <Name>distance io-jupiter</Name>
       <ParameterKey>io_pol_r</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>Rj</Units>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>
@@ -116,10 +99,7 @@
     <Parameter>
       <Name>IoPhase</Name>
       <ParameterKey>io_pol_iophase</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>deg</Units>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>

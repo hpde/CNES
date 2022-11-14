@@ -51,7 +51,7 @@ June 1, 2016.
       </InformationURL>
     </ResourceHeader>
    <InstrumentType>Photometer</InstrumentType>
-    <InvestigationName/>
+    <InvestigationName>Solar EUV Experiment</InvestigationName>
     <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/TIMED</ObservatoryID>
   </Instrument>
 </Spase>

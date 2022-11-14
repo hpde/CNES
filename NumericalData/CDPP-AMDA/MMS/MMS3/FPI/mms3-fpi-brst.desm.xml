@@ -94,10 +94,6 @@ dicated time.
     <Parameter>
       <Name>error flags</Name>
       <ParameterKey>mms3_brst_desm_err</ParameterKey>
-      <Description/>
-      <UCD/>
-      <Units/>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -108,10 +104,7 @@ dicated time.
     <Parameter>
       <Name>density</Name>
       <ParameterKey>mms3_brst_desm_n</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>cm^-3</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -124,10 +117,7 @@ dicated time.
     <Parameter>
       <Name>density : err</Name>
       <ParameterKey>mms3_brst_desm_nerr</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>cm^-3</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -140,10 +130,7 @@ dicated time.
     <Parameter>
       <Name>v_gse</Name>
       <ParameterKey>mms3_brst_desm_v</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>km/s</Units>
-      <UnitsConversion/>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
         <CoordinateSystemName>GSE</CoordinateSystemName>
@@ -182,10 +169,7 @@ dicated time.
     <Parameter>
       <Name>v_gse : err</Name>
       <ParameterKey>mms3_brst_desm_verr</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>km/s</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -220,10 +204,7 @@ dicated time.
     <Parameter>
       <Name>t_para</Name>
       <ParameterKey>mms3_brst_desm_tpar</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>eV</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -236,10 +217,7 @@ dicated time.
     <Parameter>
       <Name>t_perp</Name>
       <ParameterKey>mms3_brst_desm_tperp</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>eV</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -252,7 +230,6 @@ dicated time.
     <Parameter>
       <Name>heatq_gse</Name>
       <ParameterKey>mms3_brst_desm_hq</ParameterKey>
-      <Description/>
       <UCD>phys.pressure</UCD>
       <Units>mW/m^2</Units>
       <CoordinateSystem>
@@ -289,7 +266,6 @@ dicated time.
     <Parameter>
       <Name>heatq_gse : err</Name>
       <ParameterKey>mms3_brst_desm_hqerr</ParameterKey>
-      <Description/>
       <UCD>phys.pressure</UCD>
       <Units>mW/m^2</Units>
       <CoordinateSystem>
@@ -326,7 +302,6 @@ dicated time.
     <Parameter>
       <Name>press_tensor_gse</Name>
       <ParameterKey>mms3_brst_desmpres</ParameterKey>
-      <Description/>
       <UCD>phys.pressure</UCD>
       <Units>nPa</Units>
       <CoordinateSystem>
@@ -393,7 +368,6 @@ dicated time.
     <Parameter>
       <Name>press_tensor_gse : err</Name>
       <ParameterKey>mms3_brst_desmpreserr</ParameterKey>
-      <Description/>
       <UCD>phys.pressure</UCD>
       <Units>nPa</Units>
       <CoordinateSystem>
@@ -460,7 +434,6 @@ dicated time.
     <Parameter>
       <Name>temp_tensor_gse</Name>
       <ParameterKey>mms3_brst_desm_t</ParameterKey>
-      <Description/>
       <Units>eV</Units>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
@@ -526,8 +499,6 @@ dicated time.
     <Parameter>
       <Name>elec eflux : omni</Name>
       <ParameterKey>mms3_brst_desm_spom</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>keV/(cm^2-s-sr-keV)</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
@@ -540,8 +511,6 @@ dicated time.
     <Parameter>
       <Name>elec eflux : para</Name>
       <ParameterKey>mms3_brst_des_para</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>keV/(cm^2-s-sr-keV)</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
@@ -554,8 +523,6 @@ dicated time.
     <Parameter>
       <Name>elec eflux : anti</Name>
       <ParameterKey>mms3_brst_des_anti</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>keV/(cm^2-s-sr-keV)</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
@@ -568,8 +535,6 @@ dicated time.
     <Parameter>
       <Name>elec eflux : perp</Name>
       <ParameterKey>mms3_brst_des_perp</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>keV/(cm^2-s-sr-keV)</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
@@ -585,7 +550,6 @@ dicated time.
       <Description>Low energy bin: 0 eV - 200 eV. 
                 Pitch-angle bin size: 6 deg. Note that pitch angles are calculated in the spacecraft frame; 
                 i.e., not shifted by the bulk velocity</Description>
-      <UCD/>
       <Units>keV/(cm^2-s-sr-keV)</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
@@ -601,7 +565,6 @@ dicated time.
       <Description>Mid energy bin: 200 eV - 2 keV. 
                 Pitch-angle bin size: 6 deg. Note that pitch angles are calculated in the spacecraft frame; 
                 i.e., not shifted by the bulk velocity</Description>
-      <UCD/>
       <Units>keV/(cm^2-s-sr-keV)</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
@@ -617,7 +580,6 @@ dicated time.
       <Description>High energy bin: 2 keV - 30 keV. 
                 Pitch-angle bin size: 6 deg. Note that pitch angles are calculated in the spacecraft frame; 
                 i.e., not shifted by the bulk velocity</Description>
-      <UCD/>
       <Units>keV/(cm^2-s-sr-keV)</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>

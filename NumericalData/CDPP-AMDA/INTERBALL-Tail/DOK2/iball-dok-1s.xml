@@ -7,7 +7,7 @@
       <ResourceName>spectra : sunward</ResourceName>
       <AlternateName>Electron Spectra : Sunward Flow</AlternateName>
       <ReleaseDate>2004-12-16T17:44:55Z</ReleaseDate>
-      <Description/>
+      <Description>ToDo</Description>
       <Contact>
         <PersonID>spase://CNES/Person/CDPP-AMDA/Volt.Lutsenko</PersonID>
         <Role>PrincipalInvestigator</Role>
@@ -66,10 +66,7 @@
     <Parameter>
       <Name>e- flux sunward</Name>
       <ParameterKey>it_dok_1se</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>cm**-2.sr**-1.s**-1.keV**-1</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -85,9 +82,7 @@
       <Name>dT</Name>
       <ParameterKey>it_dok_1se_dt</ParameterKey>
       <Description>Time Exposition</Description>
-      <UCD/>
       <Units>sec</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -99,9 +94,7 @@
       <Name>pitch sunward</Name>
       <ParameterKey>it_dok_1se_pitch</ParameterKey>
       <Description>Pitch angle with incoming flux direction</Description>
-      <UCD/>
       <Units>deg</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>

@@ -7,7 +7,7 @@
       <ResourceName>1 s</ResourceName>
       <AlternateName>interplanetary magnetic field</AlternateName>
       <ReleaseDate>2022-09-29T02:11:23Z</ReleaseDate>
-      <Description/>
+      <Description>ToDo</Description>
       <Acknowledgement>NOAA Space Weather Prediction Center (2016): Deep Space Climate Observatory (DSCOVR). NOAA National Centers for Environmental Information.</Acknowledgement>
       <Contact>
         <PersonID>spase://SMWG/Person/Adam.Szabo</PersonID>
@@ -20,8 +20,7 @@
       <InformationURL>
         <Name>Data description</Name>
         <URL>http://doi.org/10.7289/V51Z42F7</URL>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
     </ResourceHeader>
     <AccessInformation>
          <RepositoryID>spase://SMWG/Repository/CDPP/AMDA</RepositoryID>
@@ -63,7 +62,6 @@
       <Cadence>PT60S</Cadence>
     </TemporalDescription>
     <ObservedRegion>Heliosphere.NearEarth</ObservedRegion>
-    <Caveats/>
     <Parameter>
       <Name>|b|</Name>
       <ParameterKey>dsc_b_1s_mag</ParameterKey>

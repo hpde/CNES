@@ -6,7 +6,7 @@
     <ResourceHeader>
       <ResourceName>cruise</ResourceName>
       <ReleaseDate>2022-05-09T12:18:54Z</ReleaseDate>
-      <Description/>
+      <Description>ToDo</Description>
       <Contact>
         <PersonID>spase://CNES/Person/CDPP-AMDA/N.Papitashvili</PersonID>
         <Role>DataProducer</Role>
@@ -56,7 +56,6 @@
       <Name>proton flux</Name>
       <ParameterKey>vo1_crs_flux</ParameterKey>
       <Description>Proton flux</Description>
-      <UCD/>
       <Units>cnts/cm^2*s*st*MeV</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>

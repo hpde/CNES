@@ -15,7 +15,6 @@
         <Role>PrincipalInvestigator</Role>
       </Contact>
       <InformationURL>
-        <Name/>
         <URL>              
            </URL>
         <Description>             
@@ -50,7 +49,6 @@
          <Format>PNG</Format>
          <Acknowledgement>Thank you for acknowledging the use of AMDA in publications with wording like "Data analysis was performed with the AMDA science analysis system provided by the Centre de Données de la Physique des Plasmas (CDPP) supported by CNRS, CNES, Observatoire de Paris and Université Paul Sabatier, Toulouse".. See the Rules of the road at http://amda.cdpp.eu/help/policy.html. Please acknowledge the Data Providers.</Acknowledgement>
       </AccessInformation>
-    <ProviderName/>
     <InstrumentID>spase://CNES/Instrument/CDPP-AMDA/Comets</InstrumentID>
     <MeasurementType>Ephemeris</MeasurementType>
     <TemporalDescription>
@@ -66,10 +64,7 @@
     <Parameter>
       <Name>xyz_hee</Name>
       <ParameterKey>xyz_p67_hee</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>AU</Units>
-      <UnitsConversion/>
       <Structure>
         <Size>3</Size>
         <Element>
@@ -77,28 +72,19 @@
           <Qualifier>Component.I</Qualifier>
           <Index>1</Index>
           <ParameterKey>xyz_p67_hee(0)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>y</Name>
           <Qualifier>Component.J</Qualifier>
           <Index>2</Index>
           <ParameterKey>xyz_p67_hee(1)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>z</Name>
           <Qualifier>Component.K</Qualifier>
           <Index>3</Index>
           <ParameterKey>xyz_p67_hee(2)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
       </Structure>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
@@ -107,10 +93,7 @@
     <Parameter>
       <Name>xyz_hci</Name>
       <ParameterKey>xyz_p67_hci</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>AU</Units>
-      <UnitsConversion/>
       <Structure>
         <Size>3</Size>
         <Element>
@@ -118,28 +101,19 @@
           <Qualifier>Component.I</Qualifier>
           <Index>1</Index>
           <ParameterKey>xyz_p67_hci(0)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>y</Name>
           <Qualifier>Component.J</Qualifier>
           <Index>2</Index>
           <ParameterKey>xyz_p67_hci(1)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>z</Name>
           <Qualifier>Component.K</Qualifier>
           <Index>3</Index>
           <ParameterKey>xyz_p67_hci(2)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
       </Structure>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
@@ -148,10 +122,7 @@
     <Parameter>
       <Name>distance C-G-sun</Name>
       <ParameterKey>r_p67</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>AU</Units>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>
@@ -159,10 +130,7 @@
     <Parameter>
       <Name>longitude IAU_sun</Name>
       <ParameterKey>p67_sol_lon</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>radian</Units>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>
@@ -170,10 +138,7 @@
     <Parameter>
       <Name>latitude IAU_sun</Name>
       <ParameterKey>p67_sol_lat</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>radian</Units>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>

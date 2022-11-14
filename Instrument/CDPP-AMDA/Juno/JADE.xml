@@ -27,7 +27,7 @@
       </Contact>     
     </ResourceHeader>
     <InstrumentType>EnergeticParticleInstrument</InstrumentType>
-    <InvestigationName/>
+    <InvestigationName>Jovian Auroral Distributions Experiment on Juno JADE</InvestigationName>
     <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/Juno</ObservatoryID>
   </Instrument>
 </Spase>

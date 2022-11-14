@@ -5,7 +5,6 @@
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/BepiColombo/Ephemeris/bepi-orb-earth</ResourceID>
     <ResourceHeader>
       <ResourceName>Earth flyby</ResourceName>
-      <AlternateName/>
       <ReleaseDate>2021-07-20T06:08:31Z</ReleaseDate>
       <Description>Calculated in IRAP by using Bepi SPICE kernels</Description>
       <Contact>

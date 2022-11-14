@@ -28,7 +28,7 @@
       </Contact>
     </ResourceHeader>
     <InstrumentType>ElectrostaticAnalyser</InstrumentType>
-    <InvestigationName/>
+    <InvestigationName>E1 Plasma Experiment</InvestigationName>
     <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/Helios2</ObservatoryID>
   </Instrument>
 </Spase>

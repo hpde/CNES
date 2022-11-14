@@ -6,7 +6,7 @@
     <ResourceHeader>
       <ResourceName>Venus flyby #1</ResourceName>
       <ReleaseDate>2021-07-30T14:57:21Z</ReleaseDate>
-      <Description/>
+      <Description>ToDo</Description>
       <Contact>
         <PersonID>spase://SMWG/Person/Yoshifumi.Saito</PersonID>
         <Role>PrincipalInvestigator</Role>
@@ -41,7 +41,6 @@
          <Acknowledgement>Thank you for acknowledging the use of AMDA in publications with wording like "Data analysis was performed with the AMDA science analysis system provided by the Centre de Données de la Physique des Plasmas (CDPP) supported by CNRS, CNES, Observatoire de Paris and Université Paul Sabatier, Toulouse".. See the Rules of the road at http://amda.cdpp.eu/help/policy.html. Please acknowledge the Data Providers.</Acknowledgement>
       </AccessInformation>
     <ProviderName>IRAP</ProviderName>
-    <ProviderResourceName/>
     <InstrumentID>spase://CNES/Instrument/CDPP-AMDA/BepiColombo/Mio/MIA</InstrumentID>
     <MeasurementType>ThermalPlasma</MeasurementType>
     <TemporalDescription>
@@ -55,8 +54,6 @@
     <Parameter>
       <Name>cnts</Name>
       <ParameterKey>mia_venus1_let4m23</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>cnts</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>

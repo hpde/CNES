@@ -17,8 +17,7 @@
       <InformationURL>
         <Name>MAG web page, Summary sheet </Name>
         <URL>http://lasp.colorado.edu/home/maven/science/instrument-package/mag/</URL>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
     </ResourceHeader>
     <AccessInformation>
          <RepositoryID>spase://SMWG/Repository/CDPP/AMDA</RepositoryID>
@@ -74,10 +73,8 @@ data. These include:
     <Parameter>
       <Name>b_mso</Name>
       <ParameterKey>mavb_mso</ParameterKey>
-      <Description/>
       <UCD>phys.magField</UCD>
       <Units>nT</Units>
-      <UnitsConversion/>
       <Structure>
         <Size>3</Size>
         <Element>
@@ -85,28 +82,19 @@ data. These include:
           <!--Qualifier/-->
           <Index>1</Index>
           <ParameterKey>mavb_mso(0)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>by</Name>
           <!--Qualifier/-->
           <Index>2</Index>
           <ParameterKey>mavb_mso(1)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>bz</Name>
           <!--Qualifier/-->
           <Index>3</Index>
           <ParameterKey>mavb_mso(2)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
       </Structure>
       <Field>
         <FieldQuantity>Magnetic</FieldQuantity>
@@ -115,10 +103,8 @@ data. These include:
     <Parameter>
       <Name>b_iau_mars</Name>
       <ParameterKey>mavb_iau</ParameterKey>
-      <Description/>
       <UCD>phys.magField</UCD>
       <Units>nT</Units>
-      <UnitsConversion/>
       <Structure>
         <Size>3</Size>
         <Element>
@@ -126,28 +112,19 @@ data. These include:
           <Qualifier>Component</Qualifier>
           <Index>1</Index>
           <ParameterKey>mavb_iau(0)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>by</Name>
           <Qualifier>Component</Qualifier>
           <Index>2</Index>
           <ParameterKey>mavb_iau(1)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>bz</Name>
           <Qualifier>Component</Qualifier>
           <Index>3</Index>
           <ParameterKey>mavb_iau(2)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
       </Structure>
       <Field>
         <FieldQuantity>Magnetic</FieldQuantity>
@@ -156,13 +133,8 @@ data. These include:
     <Parameter>
       <Name>|b|</Name>
       <ParameterKey>mavb_tot</ParameterKey>
-      <Description/>
       <UCD>phys.magField</UCD>
       <Units>nT</Units>
-      <UnitsConversion/>
-      <ValidMin/>
-      <ValidMax/>
-      <FillValue/>
       <Field>
         <FieldQuantity>Magnetic</FieldQuantity>
       </Field>

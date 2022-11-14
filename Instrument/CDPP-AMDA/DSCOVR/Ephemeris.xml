@@ -7,7 +7,7 @@
       <ResourceName>Ephemeris</ResourceName>
       <AlternateName>DSCOVR Position</AlternateName>
       <ReleaseDate>2017-10-16T15:10:29Z</ReleaseDate>
-      <Description/>     
+      <Description>Deep Space Climate Observatory, DSCOVR, Ephemeris Virtual Instrument</Description>     
       <Acknowledgement>NOAA Space Weather Prediction Center (2016): Deep Space Climate Observatory (DSCOVR). NOAA National Centers for Environmental Information.</Acknowledgement>
         <Contact>
                 <PersonID>spase://CNES/Person/CDPP-AMDA/Doug.Biesecker</PersonID>
@@ -15,7 +15,7 @@
           </Contact>        
     </ResourceHeader>
     <InstrumentType>Platform</InstrumentType>
-    <InvestigationName/>
+    <InvestigationName>DSCOVR Solar Wind Monitor, Spacecraft Position</InvestigationName>
     <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/DSCOVR</ObservatoryID>
   </Instrument>
 </Spase>

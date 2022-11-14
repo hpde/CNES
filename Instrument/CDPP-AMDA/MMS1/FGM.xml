@@ -39,7 +39,7 @@ Within the ROI burst mode data (128 samples per second) are also acquired.</Desc
       </InformationURL>
     </ResourceHeader>
     <InstrumentType>Magnetometer</InstrumentType>
-    <InvestigationName/>
+    <InvestigationName>MMS 1 FIELDS Suite, Fluxgate Magnetometer</InvestigationName>
     <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/MMS1</ObservatoryID>
   </Instrument>
 </Spase>

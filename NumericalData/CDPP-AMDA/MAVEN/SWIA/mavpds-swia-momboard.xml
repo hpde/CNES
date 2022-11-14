@@ -76,10 +76,8 @@
     <Parameter>
       <Name>density</Name>
       <ParameterKey>mav_swia_n</ParameterKey>
-      <Description/>
       <UCD>phys.density;phys.atmol.ionStage</UCD>
       <Units>cm-3</Units>
-      <UnitsConversion/>
       <Particle>
         <ParticleType>Ion</ParticleType>
         <ParticleQuantity>NumberDensity</ParticleQuantity>
@@ -88,10 +86,8 @@
     <Parameter>
       <Name>v_mso</Name>
       <ParameterKey>mav_swia_vmso</ParameterKey>
-      <Description/>
       <UCD>phys.veloc;phys.atmol.ionStage</UCD>
       <Units>km/s</Units>
-      <UnitsConversion/>
       <Structure>
         <Size>3</Size>
         <Element>
@@ -99,28 +95,19 @@
           <Qualifier>Component</Qualifier>
           <Index>1</Index>
           <ParameterKey>mav_swia_vmso(0)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>vy</Name>
           <Qualifier>Component</Qualifier>
           <Index>2</Index>
           <ParameterKey>mav_swia_vmso(1)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>vz</Name>
           <Qualifier>Component</Qualifier>
           <Index>3</Index>
           <ParameterKey>mav_swia_vmso(2)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
       </Structure>
       <Particle>
         <ParticleType>Ion</ParticleType>
@@ -130,10 +117,8 @@
     <Parameter>
       <Name>|v|</Name>
       <ParameterKey>mav_swia_vtot</ParameterKey>
-      <Description/>
       <UCD>phys.veloc;phys.atmol.ionStage</UCD>
       <Units>km/s</Units>
-      <UnitsConversion/>
       <Particle>
         <ParticleType>Ion</ParticleType>
         <ParticleQuantity>Velocity</ParticleQuantity>
@@ -142,10 +127,8 @@
     <Parameter>
       <Name>t_mso</Name>
       <ParameterKey>mav_swia_tmso</ParameterKey>
-      <Description/>
       <UCD>phys.temperature;phys.atmol.Ionstage</UCD>
       <Units>eV</Units>
-      <UnitsConversion/>
       <Structure>
         <Size>3</Size>
         <Element>
@@ -153,28 +136,19 @@
           <Qualifier>Component</Qualifier>
           <Index>1</Index>
           <ParameterKey>mav_swia_tmso(0)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>tyy</Name>
           <Qualifier>Component</Qualifier>
           <Index>2</Index>
           <ParameterKey>mav_swia_tmso(1)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>tzz</Name>
           <Qualifier>Component</Qualifier>
           <Index>3</Index>
           <ParameterKey>mav_swia_tmso(2)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
       </Structure>
       <Particle>
         <ParticleType>Ion</ParticleType>

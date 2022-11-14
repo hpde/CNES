@@ -16,13 +16,11 @@
       <InformationURL>
         <Name>SolO home page at Imperial College</Name>
         <URL>https://www.imperial.ac.uk/space-and-atmospheric-physics/research/missions-and-projects/space-missions/solar-orbiter/</URL>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
       <InformationURL>
         <Name>SolO Archive Support Data</Name>
         <URL>https://issues.cosmos.esa.int/solarorbiterwiki/display/SOSP/Archive+Support+Data</URL>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
       <Association>
         <AssociationID>solo-mag-l2</AssociationID>
         <AssociationType>PartOf</AssociationType>
@@ -79,7 +77,6 @@
     <Parameter>
       <Name>b_rtn</Name>
       <ParameterKey>solo_b_rtn_hr</ParameterKey>
-      <Description/>
       <UCD>phys.magField</UCD>
       <Units>nT</Units>
       <UnitsConversion>1e-9&gt;T</UnitsConversion>
@@ -174,8 +171,6 @@
                Flag setting: 0: Bad data; 1: Known problems use at your own risk; 2: Survey data, possibly 
                not publication quality; 3: Good for publication subject to PI approval; 4: Excellent data which has received special treatment
            </Description>
-      <UCD/>
-      <Units/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>

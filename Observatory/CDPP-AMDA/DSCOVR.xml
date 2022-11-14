@@ -23,8 +23,7 @@
       <InformationURL>
         <Name>DSCOVR home page</Name>
         <URL>https://www.nesdis.noaa.gov/content/dscovr-deep-space-climate-observatory</URL>
-        <Description/>
-      </InformationURL>      
+        </InformationURL>      
     </ResourceHeader>
     <Location>
       <ObservatoryRegion>Heliosphere.NearEarth</ObservatoryRegion>
@@ -32,7 +31,6 @@
     </Location>
     <OperatingSpan>
       <StartDate>2016-07-27T00:00:00</StartDate>
-      <Note></Note>
-    </OperatingSpan>
+      </OperatingSpan>
   </Observatory>
 </Spase>

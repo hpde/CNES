@@ -55,14 +55,10 @@
       <CadenceMax>PT300S</CadenceMax>
     </TemporalDescription>
     <ObservedRegion>Heliosphere</ObservedRegion>
-    <Caveats/>
     <Parameter>
       <Name>carr rotation</Name>
       <ParameterKey>helios2_car_rot</ParameterKey>
       <Description>Carrington rotation number</Description>
-      <UCD/>
-      <Units/>
-      <UnitsConversion/>
       <FillValue>-1</FillValue>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
@@ -71,10 +67,7 @@
     <Parameter>
       <Name>angle helios2-earth</Name>
       <ParameterKey>helios2_earth_ang</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>deg</Units>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>
@@ -82,10 +75,7 @@
     <Parameter>
       <Name>carr lon</Name>
       <ParameterKey>helios2_carr_lon</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>deg</Units>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>
@@ -93,10 +83,7 @@
     <Parameter>
       <Name>carr lat</Name>
       <ParameterKey>helios2_carr_lat</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>deg</Units>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>
@@ -104,10 +91,7 @@
     <Parameter>
       <Name>carr r</Name>
       <ParameterKey>helios2_carr_r</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>AU</Units>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>

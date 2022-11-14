@@ -10,14 +10,13 @@
       <Description>The plasma analyzer comprises two spectrometer systems, namely, the electron spectrometer
         and the ion mass spectrometer, with a 360 field-of-view lying in the plane perpendicular to
         the plane of rotation</Description>
-      <Acknowledgement/>
       <Contact>
         <PersonID>spase://SMWG/Person/Rickard.Lundin</PersonID>
         <Role>PrincipalInvestigator</Role>
       </Contact>      
     </ResourceHeader>
     <InstrumentType>MassSpectrometer</InstrumentType>
-    <InvestigationName/>
+    <InvestigationName>Automatic Space Plasma Experiment with Rotating Analyzer on Phobos2</InvestigationName>
     <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/Phobos2</ObservatoryID>
   </Instrument>
 </Spase>

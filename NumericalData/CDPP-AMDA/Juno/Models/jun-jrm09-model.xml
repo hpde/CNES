@@ -62,14 +62,10 @@
       <Cadence>PT1M</Cadence>
     </TemporalDescription>
     <ObservedRegion>Jupiter</ObservedRegion>
-    <Caveats/>
     <Parameter>
       <Name>b_iau_jup</Name>
       <ParameterKey>b_jrm09_can_60_1_juno_jup_xyz</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>nT</Units>
-      <UnitsConversion/>
       <Structure>
         <Size>3</Size>
         <Element>
@@ -98,8 +94,6 @@
     <Parameter>
       <Name>|b|</Name>
       <ParameterKey>b_jrm09_can_tot_60_1_juno_jup_xyz</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>nT</Units>
       <Field>
         <FieldQuantity>Magnetic</FieldQuantity>

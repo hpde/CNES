@@ -5,7 +5,6 @@
     <ResourceID>spase://CNES/Observatory/CDPP-AMDA/JASON3</ResourceID>
     <ResourceHeader>
       <ResourceName>JASON3</ResourceName>
-      <AlternateName></AlternateName>
       <ReleaseDate>2004-08-01T20:05:54Z</ReleaseDate>
       <Description>Jason-3 is the fourth mission in U.S.-European series of satellite missions that measure the 
         height of the ocean surface. Launched on January 17, 2016, the mission will extend the time series of 

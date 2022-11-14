@@ -18,7 +18,7 @@
       </InformationURL>   
     </ResourceHeader>
     <InstrumentType>Magnetometer</InstrumentType>
-    <InvestigationName></InvestigationName>
+    <InvestigationName>MGS Proxies</InvestigationName>
     <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/MGS</ObservatoryID> 
   </Instrument>
 </Spase>

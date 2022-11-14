@@ -31,8 +31,7 @@ Additionally, EPT has 2 channels that separate electrons and ions:
       <InformationURL>
         <Name>SolO Archive Support Data</Name>
         <URL>https://issues.cosmos.esa.int/solarorbiterwiki/display/SOSP/Archive+Support+Data</URL>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
       <Association>
         <AssociationID>solo-epd-eptel</AssociationID>
         <AssociationType>PartOf</AssociationType>
@@ -87,9 +86,7 @@ Additionally, EPT has 2 channels that separate electrons and ions:
       <Name>el flux: sunward</Name>
       <ParameterKey>solo_ept_anti_eflux</ParameterKey>
       <Description>Particle flux in foil channel</Description>
-      <UCD/>
       <Units>1/(s cm^2 sr MeV)</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -105,9 +102,7 @@ Additionally, EPT has 2 channels that separate electrons and ions:
       <Name>el flux unc: sunward</Name>
       <ParameterKey>solo_ept_anti_eunc</ParameterKey>
       <Description>Uncertainty in electron flux</Description>
-      <UCD/>
       <Units>1/(s cm^2 sr MeV)</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -123,9 +118,7 @@ Additionally, EPT has 2 channels that separate electrons and ions:
       <Name>el cntrate: sunward</Name>
       <ParameterKey>solo_ept_anti_erate</ParameterKey>
       <Description>Particle count rate in foil channel</Description>
-      <UCD/>
       <Units>cnts/s</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>

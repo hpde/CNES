@@ -89,7 +89,6 @@
       <Name>ion flux : 2D pa/energy</Name>
       <ParameterKey>c1_hia_pad</ParameterKey>
       <Description>Hot ion pitch angle distribution</Description>
-      <UCD/>
       <Units>1/(cm**2-s-sr-keV)</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
@@ -103,7 +102,6 @@
       <Name>ion flux : sum over energy</Name>
       <ParameterKey>c1_hia_pad_angle</ParameterKey>
       <Description>Hot ion pitch angle distribution (sum over all energy bins)</Description>
-      <UCD/>
       <Cadence>PT4S</Cadence>
       <Units>1/(cm**2-s-sr-keV)</Units>
       <RenderingHints>
@@ -118,7 +116,6 @@
       <Name>ion flux : omni</Name>
       <ParameterKey>c1_hia_pad_omni</ParameterKey>
       <Description>Hot ion pitch angle distribution (sum over all angle bins)</Description>
-      <UCD/>
       <Cadence>PT4S</Cadence>
       <Units>1/(cm**2-s-sr-keV)</Units>
       <RenderingHints>

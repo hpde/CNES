@@ -24,7 +24,6 @@
         that varies from 0.5 to 2 s. The geometrical factor of a single anode is 1.7 · 10−3 cm2.ster.eV/eV for ions 
         and 1.5 · 10−4 cm2.ster.eV/eV for electrons. 
       </Description>
-      <Acknowledgement/>
       <Contact>
 	<PersonID>spase://CNES/Person/CDPP-AMDA/Denis.Payan</PersonID>
         <Role>PrincipalInvestigator</Role>
@@ -45,11 +44,9 @@
         <Name>Sauvaud et al., Low-Altitude Observations of Recurrent Short-Lived keV Ion Microinjections Inside the Diffuse Auroral Zone</Name>
         <URL>https://doi.org/10.1002/2017JA025075</URL>
       </InformationURL>
-      <PriorID/>
-    </ResourceHeader>
+      </ResourceHeader>
     <InstrumentType>ElectrostaticAnalyser</InstrumentType>
-    <InvestigationName/>
+    <InvestigationName>Active Monitor Box of Electrostatic Risks</InvestigationName>
     <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/JASON3</ObservatoryID>
-    <Caveats/>
-  </Instrument>
+    </Instrument>
 </Spase>

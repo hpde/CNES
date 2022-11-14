@@ -7,16 +7,13 @@
       <ResourceName>energetic particles fluxes</ResourceName>
       <ReleaseDate>2012-03-06T16:43:58Z</ReleaseDate>
       <Description>Reconstructed in IRAP from CDAWeb CDROM and IAS software.</Description>
-      <Acknowledgement/>
       <Contact>
         <PersonID>spase://CNES/Person/CDPP-AMDA/K.A.Anderson</PersonID>
         <Role>PrincipalInvestigator</Role>
       </Contact>
       <InformationURL>
-        <Name/>
         <URL/>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
     </ResourceHeader>
     <AccessInformation>
          <RepositoryID>spase://SMWG/Repository/CDPP/AMDA</RepositoryID>
@@ -47,7 +44,6 @@
          <Acknowledgement>Thank you for acknowledging the use of AMDA in publications with wording like "Data analysis was performed with the AMDA science analysis system provided by the Centre de Données de la Physique des Plasmas (CDPP) supported by CNRS, CNES, Observatoire de Paris and Université Paul Sabatier, Toulouse".. See the Rules of the road at http://amda.cdpp.eu/help/policy.html. Please acknowledge the Data Providers.</Acknowledgement>
       </AccessInformation>
     <ProcessingLevel>Uncalibrated</ProcessingLevel>
-    <ProviderName/>
     <InstrumentID>spase://CNES/Instrument/CDPP-AMDA/ISEE1/FVA</InstrumentID>
     <MeasurementType>EnergeticParticles</MeasurementType>
     <TemporalDescription>
@@ -63,16 +59,12 @@
     <Parameter>
       <Name>flux e-</Name>
       <ParameterKey>isee1_fvae</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>arbitrary</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
       <Structure>
         <Size>2</Size>
-        <Description/>
         <Element>
           <Name>2 keV</Name>
           <Index>1</Index>
@@ -92,10 +84,7 @@
     <Parameter>
       <Name>flux p+</Name>
       <ParameterKey>isee1_fvap</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>arbitrary</Units>
-      <UnitsConversion/>
       <Structure>
         <Size>2</Size>
         <Element>

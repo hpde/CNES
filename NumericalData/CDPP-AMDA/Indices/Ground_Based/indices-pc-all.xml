@@ -27,7 +27,6 @@
         <Role>DataProducer</Role>
       </Contact>
       <InformationURL>
-        <Name/>
         <URL>              
            </URL>
         <Description>             
@@ -78,10 +77,7 @@
     <Parameter>
       <Name>pcn</Name>
       <ParameterKey>pcn</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>mV/m</Units>
-      <UnitsConversion/>
       <FillValue>999</FillValue>
       <Field>
         <FieldQuantity>Magnetic</FieldQuantity>
@@ -90,10 +86,7 @@
     <Parameter>
       <Name>pcs</Name>
       <ParameterKey>pcs</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>mV/m</Units>
-      <UnitsConversion/>
       <Field>
         <FieldQuantity>Magnetic</FieldQuantity>
       </Field>

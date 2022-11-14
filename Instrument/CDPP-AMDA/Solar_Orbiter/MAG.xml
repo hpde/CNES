@@ -40,18 +40,13 @@ kinetic phenomena.
 Low latency data are generated at a very low cadence compared to normal magnetometer data 
 and are intended for rapid, broad characterisation of solar wind conditions at the spacecraft 
 location.</Description>
-      <Acknowledgement></Acknowledgement>
       <Contact>
         <PersonID>spase://CNES/Person/CDPP-AMDA/Tim.Horbury</PersonID>
         <Role>PrincipalInvestigator</Role>
       </Contact>   
-      <InformationURL>
-        <Name></Name>
-        <URL></URL>
-      </InformationURL>   
-    </ResourceHeader>
+      </ResourceHeader>
     <InstrumentType>Magnetometer</InstrumentType>
-    <InvestigationName/>
+    <InvestigationName>Magnetometer</InvestigationName>
     <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/SolO</ObservatoryID>
   </Instrument>
 </Spase>

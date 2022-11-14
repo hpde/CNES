@@ -25,8 +25,7 @@
       <InformationURL>
         <Name>SolO Archive Support Data</Name>
         <URL>https://issues.cosmos.esa.int/solarorbiterwiki/display/SOSP/Archive+Support+Data</URL>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
       <Association>
         <AssociationID>solo-epd-sisb</AssociationID>
         <AssociationType>PartOf</AssociationType>
@@ -78,9 +77,7 @@
       <Name>h flux: sunward</Name>
       <ParameterKey>solo_sisb_slow_hflux</ParameterKey>
       <Description>Hydrogen flux</Description>
-      <UCD/>
       <Units>1/(s cm^2 sr MeV/n)</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -95,9 +92,7 @@
       <Name>he3 flux: sunward</Name>
       <ParameterKey>solo_sisb_slow_he3flux</ParameterKey>
       <Description>Helium-3 flux</Description>
-      <UCD/>
       <Units>1/(s cm^2 sr MeV/n)</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -112,9 +107,7 @@
       <Name>he4 flux: sunward</Name>
       <ParameterKey>solo_sisb_slow_he4flux</ParameterKey>
       <Description>Heliun-4 flux</Description>
-      <UCD/>
       <Units>1/(s cm^2 sr MeV/n)</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -129,9 +122,7 @@
       <Name>c flux: sunward</Name>
       <ParameterKey>solo_sisb_slow_cflux</ParameterKey>
       <Description>Carbon flux</Description>
-      <UCD/>
       <Units>1/(s cm^2 sr MeV/n)</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -146,9 +137,7 @@
       <Name>n flux: sunward</Name>
       <ParameterKey>solo_sisb_slow_nflux</ParameterKey>
       <Description>Nitrogen flux</Description>
-      <UCD/>
       <Units>1/(s cm^2 sr MeV/n)</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -163,9 +152,7 @@
       <Name>o flux: sunward</Name>
       <ParameterKey>solo_sisb_slow_oflux</ParameterKey>
       <Description>Oxygen flux</Description>
-      <UCD/>
       <Units>1/(s cm^2 sr MeV/n)</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -180,9 +167,7 @@
       <Name>ne flux: sunward</Name>
       <ParameterKey>solo_sisb_slow_neflux</ParameterKey>
       <Description>Neon flux</Description>
-      <UCD/>
       <Units>1/(s cm^2 sr MeV/n)</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -197,9 +182,7 @@
       <Name>mg flux: sunward</Name>
       <ParameterKey>solo_sisb_slow_mgflux</ParameterKey>
       <Description>Magnesium flux</Description>
-      <UCD/>
       <Units>1/(s cm^2 sr MeV/n)</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -214,9 +197,7 @@
       <Name>si flux: sunward</Name>
       <ParameterKey>solo_sisb_slow_siflux</ParameterKey>
       <Description>Silicium flux</Description>
-      <UCD/>
       <Units>1/(s cm^2 sr MeV/n)</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -231,9 +212,7 @@
       <Name>s flux: sunward</Name>
       <ParameterKey>solo_sisb_slow_sflux</ParameterKey>
       <Description>Sulfur flux</Description>
-      <UCD/>
       <Units>1/(s cm^2 sr MeV/n)</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -248,9 +227,7 @@
       <Name>ca flux: sunward</Name>
       <ParameterKey>solo_sisb_slow_caflux</ParameterKey>
       <Description>Calcium flux</Description>
-      <UCD/>
       <Units>1/(s cm^2 sr MeV/n)</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -265,9 +242,7 @@
       <Name>fe flux: sunward</Name>
       <ParameterKey>solo_sisb_slow_feflux</ParameterKey>
       <Description>Ferrum flux</Description>
-      <UCD/>
       <Units>1/(s cm^2 sr MeV/n)</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -282,9 +257,6 @@
       <Name>quality flag: sunward</Name>
       <ParameterKey>solo_sisb_slow_qf</ParameterKey>
       <Description>0: Bad, 1: Known problems, 2: Survey data, 3: Good, 4: Excellent</Description>
-      <UCD/>
-      <Units/>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>

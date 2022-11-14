@@ -8,14 +8,13 @@
       <AlternateName>ACE Position</AlternateName>
       <ReleaseDate>2009-05-20T21:10:13Z</ReleaseDate>
       <Description>ACE spacecraft positions</Description>      
-      <Acknowledgement></Acknowledgement>
       <Contact>
         <PersonID>spase://SMWG/Person/Elena.Budnik</PersonID>
         <Role>TechnicalContact</Role>
       </Contact>
     </ResourceHeader>
     <InstrumentType>Platform</InstrumentType>
-    <InvestigationName></InvestigationName>
+    <InvestigationName>Spacecraft position</InvestigationName>
     <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/ACE</ObservatoryID>
   </Instrument>
 </Spase>

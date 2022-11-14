@@ -18,7 +18,7 @@
       </Contact>
     </ResourceHeader>
    <InstrumentType>ElectrostaticAnalyser</InstrumentType>
-    <InvestigationName></InvestigationName>
+    <InvestigationName>Ion and Electron Sensor</InvestigationName>
     <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/Rosetta</ObservatoryID>
   </Instrument>
 </Spase>

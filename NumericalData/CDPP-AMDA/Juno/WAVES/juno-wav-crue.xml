@@ -5,9 +5,8 @@
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/Juno/WAVES/juno-wav-crue</ResourceID>
     <ResourceHeader>
       <ResourceName>Electric Field</ResourceName>
-      <AlternateName/>
       <ReleaseDate>2022-03-24T09:32:36Z</ReleaseDate>
-      <Description/>
+      <Description>ToDo</Description>
       <Contact>
         <PersonID>spase://SMWG/Person/William.S.Kurth</PersonID>
         <Role>PrincipalInvestigator</Role>
@@ -59,20 +58,13 @@
       <CadenceMax>PT10S</CadenceMax>
     </TemporalDescription>
     <ObservedRegion>Jupiter</ObservedRegion>
-    <Caveats/>
     <Parameter>
       <Name>e_lfrlo</Name>
       <ParameterKey>juno_wav_e_cru_lfrlo</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>(V**2/m**2)/Hz</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
-      <Structure>
-        <Size/>
-      </Structure>
       <Wave>
         <WaveType>PlasmaWaves</WaveType>
         <WaveQuantity>ACElectricField</WaveQuantity>
@@ -81,16 +73,10 @@
     <Parameter>
       <Name>e_lfrhi</Name>
       <ParameterKey>juno_wav_e_cru_lfrhi</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>(V**2/m**2)/Hz</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
-      <Structure>
-        <Size/>
-      </Structure>
       <Wave>
         <WaveType>PlasmaWaves</WaveType>
         <WaveQuantity>ACElectricField</WaveQuantity>
@@ -99,16 +85,10 @@
     <Parameter>
       <Name>e_hfrlo</Name>
       <ParameterKey>juno_wav_e_cru_hfrlo</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>(V**2/m**2)/Hz</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
-      <Structure>
-        <Size/>
-      </Structure>
       <Wave>
         <WaveType>PlasmaWaves</WaveType>
         <WaveQuantity>ACElectricField</WaveQuantity>
@@ -117,16 +97,10 @@
     <Parameter>
       <Name>e_hfrhi</Name>
       <ParameterKey>juno_wav_e_cru_hfrhi</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>(V**2/m**2)/Hz</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
-      <Structure>
-        <Size/>
-      </Structure>
       <Wave>
         <WaveType>PlasmaWaves</WaveType>
         <WaveQuantity>ACElectricField</WaveQuantity>

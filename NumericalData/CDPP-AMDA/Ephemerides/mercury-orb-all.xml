@@ -64,7 +64,6 @@ Ls=90 thus corresponds to northern summer solstice, just as Ls=180 marks the nor
     <Parameter>
       <Name>xyz_hee</Name>
       <ParameterKey>xyz_mercury_hee</ParameterKey>
-      <UCD/>
       <Units>AU</Units>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
@@ -98,7 +97,6 @@ Ls=90 thus corresponds to northern summer solstice, just as Ls=180 marks the nor
     <Parameter>
       <Name>xyz_hci</Name>
       <ParameterKey>xyz_mercury_hci</ParameterKey>
-      <UCD/>
       <Units>AU</Units>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
@@ -132,7 +130,6 @@ Ls=90 thus corresponds to northern summer solstice, just as Ls=180 marks the nor
     <Parameter>
       <Name>distance mercury-sun</Name>
       <ParameterKey>r_mercury</ParameterKey>
-      <UCD/>
       <Units>AU</Units>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
@@ -141,7 +138,6 @@ Ls=90 thus corresponds to northern summer solstice, just as Ls=180 marks the nor
     <Parameter>
       <Name>longitude HCI</Name>
       <ParameterKey>mercury_hci_lon</ParameterKey>
-      <UCD/>
       <Units>deg</Units>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
@@ -150,7 +146,6 @@ Ls=90 thus corresponds to northern summer solstice, just as Ls=180 marks the nor
     <Parameter>
       <Name>latitude HCI</Name>
       <ParameterKey>mercury_hci_lat</ParameterKey>
-      <UCD/>
       <Units>deg</Units>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
@@ -159,7 +154,6 @@ Ls=90 thus corresponds to northern summer solstice, just as Ls=180 marks the nor
     <Parameter>
       <Name>longitude IAU_sun</Name>
       <ParameterKey>mercury_sol_lon</ParameterKey>
-      <UCD/>
       <Units>deg</Units>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
@@ -168,7 +162,6 @@ Ls=90 thus corresponds to northern summer solstice, just as Ls=180 marks the nor
     <Parameter>
       <Name>latitude IAU_sun</Name>
       <ParameterKey>mercury_sol_lat</ParameterKey>
-      <UCD/>
       <Units>deg</Units>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
@@ -177,7 +170,6 @@ Ls=90 thus corresponds to northern summer solstice, just as Ls=180 marks the nor
     <Parameter>
       <Name>solar longitude (Ls)</Name>
       <ParameterKey>mercury_sol_ls</ParameterKey>
-      <UCD/>
       <Units>deg</Units>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>

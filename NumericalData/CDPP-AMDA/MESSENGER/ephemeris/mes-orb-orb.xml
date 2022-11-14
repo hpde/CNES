@@ -126,7 +126,6 @@
     <Parameter>
       <Name>distance mess-mercury</Name>
       <ParameterKey>mes_mercury_r</ParameterKey>
-      <Description/>
       <UCD>pos.bodyrc;instr.obsty</UCD>
       <Units>Rm</Units>
       <Support>
@@ -136,7 +135,6 @@
     <Parameter>
       <Name>mess_orbit_num</Name>
       <ParameterKey>mes_orb_num</ParameterKey>
-      <Units/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>

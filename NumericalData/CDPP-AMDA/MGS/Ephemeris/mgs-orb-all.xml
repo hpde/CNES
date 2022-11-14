@@ -63,7 +63,6 @@
     <Parameter>
       <Name>xyz_mso</Name>
       <ParameterKey>xyz_mgs_mso</ParameterKey>
-      <Description/>
       <UCD>pos.earth</UCD>
       <Units>Rm</Units>
       <CoordinateSystem>
@@ -98,7 +97,6 @@
     <Parameter>
       <Name>distance mgs-mars</Name>
       <ParameterKey>mgs_mars_r</ParameterKey>
-      <Description/>
       <UCD>pos.earth</UCD>
       <Units>Rma</Units>
       <Support>
@@ -108,7 +106,6 @@
     <Parameter>
       <Name>lon_iau_mars</Name>
       <ParameterKey>lon_mgs_iau</ParameterKey>
-      <Description/>
       <UCD>pos.earth</UCD>
       <Units>deg</Units>
       <Support>
@@ -118,7 +115,6 @@
     <Parameter>
       <Name>lat_iau_mars</Name>
       <ParameterKey>lat_mgs_iau</ParameterKey>
-      <Description/>
       <UCD>pos.earth</UCD>
       <Units>deg</Units>
       <Support>

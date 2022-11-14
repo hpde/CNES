@@ -33,7 +33,7 @@ m baseline for the axial electric field component.</Description>
       </InformationURL>
     </ResourceHeader>
     <InstrumentType>DoubleSphere</InstrumentType>
-    <InvestigationName/>
+    <InvestigationName>Electric field Double Probe on MMS1</InvestigationName>
     <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/MMS1</ObservatoryID>
   </Instrument>
 </Spase>

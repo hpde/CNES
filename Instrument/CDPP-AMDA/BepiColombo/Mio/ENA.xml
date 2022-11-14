@@ -8,16 +8,13 @@
       <AlternateName>Energetic Neutrals Analyzer</AlternateName>
       <ReleaseDate>2020-09-22T16:02:13Z</ReleaseDate>
       <Description>ToDo</Description>
-      <Acknowledgement/>
        <Contact>       
          <PersonID>spase://SMWG/Person/Yoshifumi.Saito</PersonID> 
          <Role>PrincipalInvestigator</Role>
        </Contact>   
-      <PriorID/>
     </ResourceHeader>
     <InstrumentType>NeutralParticleDetector</InstrumentType>
-    <InvestigationName/>
+    <InvestigationName>Energetic Neutrals Analyzer on Mio</InvestigationName>
     <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/BepiColombo/Mio</ObservatoryID>
-    <Caveats/>
-  </Instrument>
+    </Instrument>
 </Spase>

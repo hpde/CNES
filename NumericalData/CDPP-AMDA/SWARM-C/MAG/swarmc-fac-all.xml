@@ -5,7 +5,6 @@
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/SWARM-C/MAG/swarmc-fac-all</ResourceID>
     <ResourceHeader>
       <ResourceName>field-aligned current</ResourceName>
-      <AlternateName/>
       <ReleaseDate>2022-09-29T02:25:32Z</ReleaseDate>
       <Description> </Description>
       <Acknowledgement> </Acknowledgement>
@@ -16,8 +15,7 @@
       <InformationURL>
         <Name>Swarm Home Page</Name>
         <URL>https://earth.esa.int/web/guest/missions/esa-eo-missions/swarm/data-handbook</URL>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
     </ResourceHeader>
     <AccessInformation>
          <RepositoryID>spase://SMWG/Repository/CDPP/AMDA</RepositoryID>
@@ -65,9 +63,7 @@
       <Name>fac</Name>
       <ParameterKey>swc_fac</ParameterKey>
       <Description>Field-aligned current</Description>
-      <UCD/>
       <Units>μA/m**2</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -79,9 +75,7 @@
       <Name>fac error</Name>
       <ParameterKey>swc_fac_error</ParameterKey>
       <Description>uncertainty of FAC</Description>
-      <UCD/>
       <Units>μA/m**2</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>

@@ -62,7 +62,6 @@ humans will venture beyond Earth's protective magnetosphere.
     </Location>
     <OperatingSpan>
       <StartDate>1997-08-25T00:00:00</StartDate>
-      <Note></Note>
-    </OperatingSpan>
+      </OperatingSpan>
   </Observatory>
 </Spase>

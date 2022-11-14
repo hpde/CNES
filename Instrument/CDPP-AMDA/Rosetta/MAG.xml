@@ -23,7 +23,7 @@ which will be done in close cooperation with the ROSETTA lander magnetometer exp
       </Contact>
     </ResourceHeader>
     <InstrumentType>Magnetometer</InstrumentType>
-    <InvestigationName/>
+    <InvestigationName>Fluxgate Magnetometer</InvestigationName>
     <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/Rosetta</ObservatoryID>
   </Instrument>
 </Spase>

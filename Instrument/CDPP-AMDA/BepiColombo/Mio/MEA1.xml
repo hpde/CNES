@@ -11,7 +11,6 @@
         BepiColombo Mio spacecraft. 
       
       The Mercury Electron Analyzers have been developed at IRAP with the support of CNES.</Description>
-      <Acknowledgement/>
        <Contact>       
          <PersonID>spase://SMWG/Person/Yoshifumi.Saito</PersonID> 
          <Role>PrincipalInvestigator</Role>
@@ -20,11 +19,9 @@
         <PersonID>spase://CNES/Person/CDPP-AMDA/Nicolas.Andre</PersonID> 
         <Role>CoInvestigator</Role>
       </Contact>
-      <PriorID/>
     </ResourceHeader>
     <InstrumentType>ElectrostaticAnalyser</InstrumentType>
-    <InvestigationName/>
+    <InvestigationName>Mercury Electron Analyzer 1 on Mio</InvestigationName>
     <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/BepiColombo/Mio</ObservatoryID>
-    <Caveats/>
-  </Instrument>
+    </Instrument>
 </Spase>

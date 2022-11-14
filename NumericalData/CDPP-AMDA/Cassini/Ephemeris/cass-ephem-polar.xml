@@ -66,8 +66,6 @@
     <Parameter>
       <Name>wl iau_saturn</Name>
       <ParameterKey>cass_wl</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>degrees</Units>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
@@ -81,7 +79,6 @@
       <ParameterKey>cass_l</ParameterKey>
       <Description>Cassini L-shell (assuming dipolar magnetic field)</Description>
       <UCD>pos.distance;phys.magField</UCD>
-      <Units/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>

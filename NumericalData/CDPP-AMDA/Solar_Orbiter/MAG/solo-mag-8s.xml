@@ -19,7 +19,6 @@
              The MAG team intends to provide a cleaned version of the MAG data in the near future which should be used in 
              preference to the Low Latency data. We also expect to release full science-quality level 2 data products to the 
              ESA archive from September 2020.</Description>
-      <Acknowledgement/>
       <Contact>
         <PersonID>spase://CNES/Person/CDPP-AMDA/Tim.Horbury</PersonID>
         <Role>PrincipalInvestigator</Role>
@@ -27,8 +26,7 @@
       <InformationURL>
         <Name>Low Latency Data</Name>
         <URL>https://www.cosmos.esa.int/web/solar-orbiter/access-to-solar-orbiter-low-latency-data</URL>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
     </ResourceHeader>
     <AccessInformation>
          <RepositoryID>spase://SMWG/Repository/CDPP/AMDA</RepositoryID>
@@ -86,7 +84,6 @@
     <Parameter>
       <Name>b_rtn</Name>
       <ParameterKey>solo_b_rtn_8s</ParameterKey>
-      <Description/>
       <UCD>phys.magField</UCD>
       <Units>nT</Units>
       <UnitsConversion>1e-9&gt;T</UnitsConversion>
@@ -129,7 +126,6 @@
     <Parameter>
       <Name>b_srf</Name>
       <ParameterKey>solo_b_srf_8s</ParameterKey>
-      <Description/>
       <UCD>phys.magField</UCD>
       <Units>nT</Units>
       <UnitsConversion>1e-9&gt;T</UnitsConversion>

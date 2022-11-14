@@ -8,7 +8,6 @@
       <DOI>10.5270/esa-ybmj68p</DOI>
       <ReleaseDate>2020-06-30T09:30:17Z</ReleaseDate>
       <Description>CReMA stands for Consolidated Reports on Mission Analysis which describe different mission profiles. They are detailed at https://www.cosmos.esa.int/web/spice/spice-for-juice . Each CReMA corresponds to a specific metakernel.</Description>
-      <Acknowledgement/>
       <Contact>
         <PersonID>spase://CNES/Person/CDPP-AMDA/ESA.SPICE.Service</PersonID>
         <Role>PrincipalInvestigator</Role>
@@ -16,8 +15,7 @@
       <InformationURL>
         <Name>Landing Page at ESAC</Name>
         <URL>https://doi.org/10.5270/esa-ybmj68p</URL>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
       <Association>
         <AssociationID>juice-orb-3.2</AssociationID>
         <AssociationType>PartOf</AssociationType>
@@ -52,7 +50,6 @@
          <Format>PNG</Format>
          <Acknowledgement>Thank you for acknowledging the use of AMDA in publications with wording like "Data analysis was performed with the AMDA science analysis system provided by the Centre de Données de la Physique des Plasmas (CDPP) supported by CNRS, CNES, Observatoire de Paris and Université Paul Sabatier, Toulouse".. See the Rules of the road at http://amda.cdpp.eu/help/policy.html. Please acknowledge the Data Providers.</Acknowledgement>
       </AccessInformation>
-    <ProviderName/>
     <InstrumentID>spase://CNES/Instrument/CDPP-AMDA/Juice/Ephemeris</InstrumentID>
     <MeasurementType>Ephemeris</MeasurementType>
     <TemporalDescription>
@@ -63,12 +60,9 @@
       <Cadence>PT1H</Cadence>
     </TemporalDescription>
     <ObservedRegion>Jupiter.Ganymede</ObservedRegion>
-    <Caveats/>
     <Parameter>
       <Name>xyz_gphio</Name>
       <ParameterKey>juice_gacr32_xyz</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>km</Units>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
@@ -99,8 +93,6 @@
     <Parameter>
       <Name>distance juice-ganymede</Name>
       <ParameterKey>juice_gacr32_r</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>km</Units>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
@@ -109,8 +101,6 @@
     <Parameter>
       <Name>lon_gphio</Name>
       <ParameterKey>juice_gacr32_lon</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>deg</Units>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
@@ -119,8 +109,6 @@
     <Parameter>
       <Name>lat_gphio</Name>
       <ParameterKey>juice_gacr32_lat</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>deg</Units>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>

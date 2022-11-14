@@ -5,9 +5,8 @@
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/MMS/MMS1234/mms1-fgm-current</ResourceID>
     <ResourceHeader>
       <ResourceName>current</ResourceName>
-      <AlternateName/>
       <ReleaseDate>2022-09-29T03:01:13Z</ReleaseDate>
-      <Description/>
+      <Description>ToDo</Description>
       <Contact>
         <PersonID>spase://CNES/Person/CDPP-AMDA/Penou</PersonID>
         <Role>DataProducer</Role>
@@ -84,10 +83,7 @@
     <Parameter>
       <Name>j_gse</Name>
       <ParameterKey>mms1234_j_gse</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>A/m**2</Units>
-      <UnitsConversion/>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
         <CoordinateSystemName>GSE</CoordinateSystemName>
@@ -124,10 +120,7 @@
     <Parameter>
       <Name>j_gsm</Name>
       <ParameterKey>mms1234_j_gsm</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>A/m**2</Units>
-      <UnitsConversion/>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
         <CoordinateSystemName>GSM</CoordinateSystemName>
@@ -164,10 +157,7 @@
     <Parameter>
       <Name>j</Name>
       <ParameterKey>mms1234_j_tot</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>A/m**2</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -179,10 +169,7 @@
     <Parameter>
       <Name>j_para_gse</Name>
       <ParameterKey>mms1234_j_para_gse</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>A/m**2</Units>
-      <UnitsConversion/>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
         <CoordinateSystemName>GSE</CoordinateSystemName>
@@ -219,10 +206,7 @@
     <Parameter>
       <Name>j_para_gsm</Name>
       <ParameterKey>mms1234_j_para_gsm</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>A/m**2</Units>
-      <UnitsConversion/>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
         <CoordinateSystemName>GSE</CoordinateSystemName>
@@ -259,10 +243,7 @@
     <Parameter>
       <Name>j_para</Name>
       <ParameterKey>mms1234_j_para_tot</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>A/m**2</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -274,10 +255,7 @@
     <Parameter>
       <Name>j_perp_gse</Name>
       <ParameterKey>mms1234_j_perp_gse</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>A/m**2</Units>
-      <UnitsConversion/>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
         <CoordinateSystemName>GSE</CoordinateSystemName>
@@ -314,10 +292,7 @@
     <Parameter>
       <Name>j_perp_gsm</Name>
       <ParameterKey>mms1234_j_perp_gsm</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>A/m**2</Units>
-      <UnitsConversion/>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
         <CoordinateSystemName>GSE</CoordinateSystemName>
@@ -354,10 +329,7 @@
     <Parameter>
       <Name>j_perp</Name>
       <ParameterKey>mms1234_j_perp_tot</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>A/m**2</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -369,10 +341,7 @@
     <Parameter>
       <Name>r curv</Name>
       <ParameterKey>mms1_r_c</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>Re</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -383,10 +352,7 @@
     <Parameter>
       <Name>div T</Name>
       <ParameterKey>mms1_div_t</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>T/m</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>

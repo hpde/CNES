@@ -59,7 +59,6 @@ b) the limited dynamical range of the instrument leads to an underestimation of 
       </AccessInformation>
     <ProcessingLevel>Calibrated</ProcessingLevel>
     <ProviderName>CSDS-CNES</ProviderName>
-    <ProviderResourceName/>
     <ProviderProcessingLevel>Calibrated</ProviderProcessingLevel>
     <InstrumentID>spase://CNES/Instrument/CDPP-AMDA/Cluster2/WHISPER</InstrumentID>
     <MeasurementType>ElectricField</MeasurementType>

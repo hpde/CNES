@@ -22,10 +22,8 @@
         <Role>DataProducer</Role>
       </Contact>
       <InformationURL>
-        <Name/>
         <URL/>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
       <Association>
         <AssociationID>ros-elc-all</AssociationID>
         <AssociationType>PartOf</AssociationType>
@@ -74,14 +72,10 @@
       <CadenceMax>PT1024S</CadenceMax>
     </TemporalDescription>
     <ObservedRegion>Comet</ObservedRegion>
-    <Caveats/>
     <Parameter>
       <Name>e- flux</Name>
       <ParameterKey>ros_elc_eflux</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>eV/(m**2*s*sr*eV)</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>

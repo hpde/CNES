@@ -16,8 +16,7 @@
       <InformationURL>
         <Name>Landing Page at ESAC</Name>
         <URL>https://doi.org/10.5270/esa-dwuc9bs</URL>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
     </ResourceHeader>
     <AccessInformation>
          <RepositoryID>spase://SMWG/Repository/CDPP/AMDA</RepositoryID>

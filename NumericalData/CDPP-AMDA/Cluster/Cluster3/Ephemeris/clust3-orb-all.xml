@@ -137,7 +137,6 @@
     <Parameter>
       <Name>distance c3-earth</Name>
       <ParameterKey>c3_r</ParameterKey>
-      <Description/>
       <UCD>pos.distance;instr.obsty</UCD>
       <Units>Re</Units>
       <RenderingHints>

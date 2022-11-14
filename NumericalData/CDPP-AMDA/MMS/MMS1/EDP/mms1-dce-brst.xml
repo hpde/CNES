@@ -7,7 +7,7 @@
       <ResourceName>dc e-field</ResourceName>
       <AlternateName>dc electric field / burst / l2</AlternateName>
       <ReleaseDate>2022-07-13T18:02:52Z</ReleaseDate>
-      <Description/>
+      <Description>ToDo</Description>
       <Contact>
         <PersonID>spase://SMWG/Person/James.L.Burch</PersonID>
         <Role>PrincipalInvestigator</Role>
@@ -81,10 +81,7 @@
     <Parameter>
       <Name>e_gse</Name>
       <ParameterKey>mms1_dce_gse_brst</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>mV/m</Units>
-      <UnitsConversion/>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
         <CoordinateSystemName>GSE</CoordinateSystemName>
@@ -121,10 +118,7 @@
     <Parameter>
       <Name>e_gsm</Name>
       <ParameterKey>mms1_dce_gsm_brst</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>mV/m</Units>
-      <UnitsConversion/>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
         <CoordinateSystemName>GSM</CoordinateSystemName>
@@ -162,9 +156,6 @@
       <Name>dce : qual</Name>
       <ParameterKey>mms1_dce_qual_brst</ParameterKey>
       <Description>Quality indicator (3 good), (2 ok data, use with some caution), (1 bad data, use with caution), (0 Really bad data or no data at all)</Description>
-      <UCD/>
-      <Units/>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>

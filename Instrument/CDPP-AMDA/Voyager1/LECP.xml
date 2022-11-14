@@ -14,7 +14,7 @@
       </Contact>
     </ResourceHeader>
     <InstrumentType>Spectrometer</InstrumentType>
-    <InvestigationName></InvestigationName>
+    <InvestigationName>Low-Energy Charged Particles</InvestigationName>
     <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/Voyager1</ObservatoryID>
   </Instrument>
 </Spase>

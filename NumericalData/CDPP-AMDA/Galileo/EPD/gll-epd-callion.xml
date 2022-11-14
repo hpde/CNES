@@ -51,8 +51,7 @@ detail in Kollmann et al. [2018, JGR].
       <InformationURL>
         <Name>Access to data at JHU/APL</Name>
         <URL>http://sd-www.jhuapl.edu/Galileo_EPD/latest_calibrated_data/</URL>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
       <Association>
         <AssociationID>gll-epd-record-ion</AssociationID>
         <AssociationType>PartOf</AssociationType>
@@ -118,8 +117,6 @@ detail in Kollmann et al. [2018, JGR].
     <Parameter>
       <Name>L-shell</Name>
       <ParameterKey>gll_epd_l_caion</ParameterKey>
-      <UCD/>
-      <Units/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -130,7 +127,6 @@ detail in Kollmann et al. [2018, JGR].
     <Parameter>
       <Name>local pitch angle</Name>
       <ParameterKey>gll_epd_paloc_caion</ParameterKey>
-      <UCD/>
       <Units>degree</Units>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
@@ -142,8 +138,6 @@ detail in Kollmann et al. [2018, JGR].
     <Parameter>
       <Name>motor position</Name>
       <ParameterKey>gll_epd_motor_caion</ParameterKey>
-      <UCD/>
-      <Units/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -154,7 +148,6 @@ detail in Kollmann et al. [2018, JGR].
     <Parameter>
       <Name>all : A[0-8] : cnts</Name>
       <ParameterKey>gll_epd_ca_acnts</ParameterKey>
-      <UCD/>
       <Units>s**-1</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
@@ -170,7 +163,6 @@ detail in Kollmann et al. [2018, JGR].
     <Parameter>
       <Name>all : A[0-8] : flux</Name>
       <ParameterKey>gll_epd_ca_aflux</ParameterKey>
-      <UCD/>
       <Units>cm**-2.s**-1.sr**-1.keV**-1</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>

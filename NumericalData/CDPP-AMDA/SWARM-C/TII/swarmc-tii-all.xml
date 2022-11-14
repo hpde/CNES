@@ -7,8 +7,7 @@
       <ResourceName>cross-track</ResourceName>
       <AlternateName>2Hz TII Cross-track Dataset</AlternateName>
       <ReleaseDate>2019-05-06T14:55:47Z</ReleaseDate>
-      <Description/>
-      <Acknowledgement/>
+      <Description>ToDo</Description>
       <Contact>
         <PersonID>spase://CNES/Person/CDPP-AMDA/Johnathan.Burchill</PersonID>
         <Role>Scientist</Role>
@@ -16,8 +15,7 @@
       <InformationURL>
         <Name>Dataset Description</Name>
         <URL>ftp://swarm-diss.eo.esa.int/Advanced/Plasma_Data/2Hz_TII_Cross-track_Dataset/SW-RN-UoC-GS-004_TIICT_ReleaseNotes.ZIP</URL>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
     </ResourceHeader>
     <AccessInformation>
          <RepositoryID>spase://SMWG/Repository/CDPP/AMDA</RepositoryID>
@@ -97,9 +95,7 @@ to large-amplitude along-track flow variations can be expected mainly at high la
     <Parameter>
       <Name>v ion</Name>
       <ParameterKey>swc_v_ion</ParameterKey>
-      <UCD/>
       <Units>km/s</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -126,10 +122,6 @@ to large-amplitude along-track flow variations can be expected mainly at high la
     <Parameter>
       <Name>vy quality</Name>
       <ParameterKey>swc_vy_qual</ParameterKey>
-      <Description/>
-      <UCD/>
-      <Units/>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -140,10 +132,6 @@ to large-amplitude along-track flow variations can be expected mainly at high la
     <Parameter>
       <Name>vz quality</Name>
       <ParameterKey>swc_vz_qual</ParameterKey>
-      <Description/>
-      <UCD/>
-      <Units/>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -155,13 +143,10 @@ to large-amplitude along-track flow variations can be expected mainly at high la
       <Name>v corot</Name>
       <ParameterKey>swc_v_corot</ParameterKey>
       <Description>Co-rotation signal. Can be added to viy to get approximate horizontal cross-track component of ion velocity in inertial frame of reference</Description>
-      <UCD/>
       <Units>m/s</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
-      <FillValue/>
       <Field>
         <FieldQuantity>Electric</FieldQuantity>
       </Field>
@@ -170,9 +155,7 @@ to large-amplitude along-track flow variations can be expected mainly at high la
       <Name>e field</Name>
       <ParameterKey>swc_e</ParameterKey>
       <Description>Electric field in co-rotating frame</Description>
-      <UCD/>
       <Units>mV/m</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -205,10 +188,7 @@ to large-amplitude along-track flow variations can be expected mainly at high la
     <Parameter>
       <Name>e quality</Name>
       <ParameterKey>swc_e_qual</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units> </Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>

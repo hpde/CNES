@@ -11,7 +11,7 @@
         'Regular' Cassini Ephemeris are calculated in IRAP by using Cassini SPICE kernels. 
          Special Cassini Ephemeris are calculated by Joseph Groene tool (University of Iowa).      
         </Description>
-      <Acknowledgement/>
+      <Acknowledgement>Please acknowledge the National Aeronautics and Space Administration, NASA</Acknowledgement>
       <Contact>       
         <PersonID>spase://CNES/Person/CDPP-AMDA/NAIF</PersonID> 
         <Role>PrincipalInvestigator</Role>
@@ -24,11 +24,9 @@
         <Name>Joseph Groene Page</Name>
         <URL>http://www-pw.physics.uiowa.edu/~jbg/cas.html</URL>
       </InformationURL>
-      <PriorID/>
     </ResourceHeader>
     <InstrumentType>Platform</InstrumentType>
-    <InvestigationName/>
+    <InvestigationName>Cassini Spacecraft Ephemeris</InvestigationName>
     <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/Cassini</ObservatoryID>
-    <Caveats/>
   </Instrument>
 </Spase>

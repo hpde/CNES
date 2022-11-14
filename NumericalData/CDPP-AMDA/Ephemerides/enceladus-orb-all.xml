@@ -62,7 +62,6 @@ Like most of Saturn's larger satellites, Enceladus rotates synchronously with it
     <Parameter>
       <Name>distance enceladus-saturn</Name>
       <ParameterKey>enc_sat_r</ParameterKey>
-      <UCD/>
       <Units>Rs</Units>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
@@ -74,7 +73,6 @@ Like most of Saturn's larger satellites, Enceladus rotates synchronously with it
     <Parameter>
       <Name>xyz_ksm</Name>
       <ParameterKey>enc_sat_ksm</ParameterKey>
-      <UCD/>
       <Units>Rs</Units>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
@@ -108,7 +106,6 @@ Like most of Saturn's larger satellites, Enceladus rotates synchronously with it
     <Parameter>
       <Name>xyz_kso</Name>
       <ParameterKey>enc_sat_kso</ParameterKey>
-      <UCD/>
       <Units>Rs</Units>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
@@ -142,7 +139,6 @@ Like most of Saturn's larger satellites, Enceladus rotates synchronously with it
     <Parameter>
       <Name>xyz_IAU_saturn</Name>
       <ParameterKey>enc_sat_xyz</ParameterKey>
-      <UCD/>
       <Units>Rs</Units>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
@@ -172,7 +168,6 @@ Like most of Saturn's larger satellites, Enceladus rotates synchronously with it
     <Parameter>
       <Name>latitude IAU_saturn</Name>
       <ParameterKey>enc_sat_lat</ParameterKey>
-      <UCD/>
       <Units>deg</Units>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
@@ -181,7 +176,6 @@ Like most of Saturn's larger satellites, Enceladus rotates synchronously with it
     <Parameter>
       <Name>longitude IAU_saturn</Name>
       <ParameterKey>enc_sat_lon</ParameterKey>
-      <UCD/>
       <Units>deg</Units>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>

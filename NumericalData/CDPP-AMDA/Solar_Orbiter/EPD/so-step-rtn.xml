@@ -5,7 +5,6 @@
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/Solar_Orbiter/EPD/so-step-rtn</ResourceID>
     <ResourceHeader>
       <ResourceName>flux direction RTN</ResourceName>
-      <AlternateName/>
       <ReleaseDate>2022-01-17T06:10:45Z</ReleaseDate>
       <Description>Solar Orbiter, Level 2 Data, Energetic Particle Detector, SupraThermal Electrons and Protons, Rates.</Description>
       <Acknowledgement>See http://espada.uah.es/epd/EPD_data.php</Acknowledgement>
@@ -16,8 +15,7 @@
       <InformationURL>
         <Name>SolO Archive Support Data</Name>
         <URL>https://issues.cosmos.esa.int/solarorbiterwiki/display/SOSP/Archive+Support+Data</URL>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
       <Association>
         <AssociationID>solo-epd-step</AssociationID>
         <AssociationType>PartOf</AssociationType>
@@ -69,9 +67,6 @@
       <Name>flux direction</Name>
       <ParameterKey>solo_step_dir_rtn</ParameterKey>
       <Description>Particle flow direction (unit vector) in RTN coordinates</Description>
-      <UCD/>
-      <Units/>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>

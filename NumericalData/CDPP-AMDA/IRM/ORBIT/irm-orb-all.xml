@@ -7,7 +7,7 @@
       <ResourceName>orbit</ResourceName>
       <AlternateName>ephemeris</AlternateName>
       <ReleaseDate>2020-02-07T15:35:31Z</ReleaseDate>
-      <Description/>
+      <Description>ToDo</Description>
       <Acknowledgement>User will acknowledge the AMPTE/IRM team in any publication resulting from the use of these data.
          </Acknowledgement>
       <Contact>
@@ -47,8 +47,6 @@
          <Format>PNG</Format>
          <Acknowledgement>Thank you for acknowledging the use of AMDA in publications with wording like "Data analysis was performed with the AMDA science analysis system provided by the Centre de Données de la Physique des Plasmas (CDPP) supported by CNRS, CNES, Observatoire de Paris and Université Paul Sabatier, Toulouse".. See the Rules of the road at http://amda.cdpp.eu/help/policy.html. Please acknowledge the Data Providers.</Acknowledgement>
       </AccessInformation>
-    <ProviderName/>
-    <ProviderResourceName/>
     <InstrumentID>spase://CNES/Instrument/CDPP-AMDA/IRM/Ephemeris</InstrumentID>
     <MeasurementType>Ephemeris</MeasurementType>
     <TemporalDescription>
@@ -145,7 +143,6 @@
       <ParameterKey>irm_orb_mag</ParameterKey>
       <Description>Spacecraft distance to earth center</Description>
       <Units>Re</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>

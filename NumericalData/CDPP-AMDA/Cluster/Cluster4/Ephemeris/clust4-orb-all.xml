@@ -131,7 +131,6 @@
     <Parameter>
       <Name>distance c4-earth</Name>
       <ParameterKey>c4_r</ParameterKey>
-      <Description/>
       <UCD>pos.earth;instr.obsty</UCD>
       <Units>Re</Units>
       <RenderingHints>

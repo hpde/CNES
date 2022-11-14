@@ -9,7 +9,6 @@
       <ReleaseDate>2020-06-26T14:19:19Z</ReleaseDate>
       <Description>                        
          CReMA stands for Consolidated Reports on Mission Analysis which describe different mission profiles. They are detailed at https://www.cosmos.esa.int/web/spice/spice-for-juice . Each CReMA corresponds to a specific metakernel.</Description>
-      <Acknowledgement/>
       <Contact>
         <PersonID>spase://CNES/Person/CDPP-AMDA/ESA.SPICE.Service</PersonID>
         <Role>PrincipalInvestigator</Role>
@@ -17,8 +16,7 @@
       <InformationURL>
         <Name>Landing Page at ESAC</Name>
         <URL>https://doi.org/10.5270/esa-ybmj68p</URL>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
       <Association>
         <AssociationID>juice-orb-4.1</AssociationID>
         <AssociationType>PartOf</AssociationType>
@@ -70,36 +68,24 @@
     <Parameter>
       <Name>xyz_hee</Name>
       <ParameterKey>juice_cr41_xyz_hee</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>AU</Units>
-      <UnitsConversion/>
       <Structure>
         <Size>3</Size>
         <Element>
           <Name>x</Name>
           <Index>1</Index>
           <ParameterKey>juice_cr41_xyz_hee(0)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>y</Name>
           <Index>2</Index>
           <ParameterKey>juice_cr41_xyz_hee(1)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>z</Name>
           <Index>3</Index>
           <ParameterKey>juice_cr41_xyz_hee(2)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
       </Structure>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
@@ -108,36 +94,24 @@
     <Parameter>
       <Name>xyz_hci</Name>
       <ParameterKey>juice_cr41_xyz_hci</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>AU</Units>
-      <UnitsConversion/>
       <Structure>
         <Size>3</Size>
         <Element>
           <Name>x</Name>
           <Index>1</Index>
           <ParameterKey>juice_cr41_xyz_hci(0)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>y</Name>
           <Index>2</Index>
           <ParameterKey>juice_cr41_xyz_hci(1)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>z</Name>
           <Index>3</Index>
           <ParameterKey>juice_cr41_xyz_hci(2)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
       </Structure>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
@@ -146,36 +120,24 @@
     <Parameter>
       <Name>xyz_iau_sun</Name>
       <ParameterKey>juice_cr41_xyz_iausun</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>AU</Units>
-      <UnitsConversion/>
       <Structure>
         <Size>3</Size>
         <Element>
           <Name>x</Name>
           <Index>1</Index>
           <ParameterKey>juice_cr41_xyz_iausun(0)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>y</Name>
           <Index>2</Index>
           <ParameterKey>juice_cr41_xyz_iausun(1)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>z</Name>
           <Index>3</Index>
           <ParameterKey>juice_cr41_xyz_iausun(2)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
       </Structure>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
@@ -184,10 +146,7 @@
     <Parameter>
       <Name>distance juice-sun</Name>
       <ParameterKey>juice_cr41_r</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>AU</Units>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>
@@ -195,10 +154,7 @@
     <Parameter>
       <Name>lon_hee</Name>
       <ParameterKey>juice_cr41_lon_hee</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>deg</Units>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>
@@ -206,10 +162,7 @@
     <Parameter>
       <Name>lat_hee</Name>
       <ParameterKey>juice_cr41_lat_hee</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>deg</Units>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>
@@ -217,10 +170,7 @@
     <Parameter>
       <Name>lon_hci</Name>
       <ParameterKey>juice_cr41_lon_hci</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>deg</Units>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>
@@ -228,10 +178,7 @@
     <Parameter>
       <Name>lat_hci</Name>
       <ParameterKey>juice_cr41_lat_hci</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>deg</Units>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>
@@ -239,10 +186,7 @@
     <Parameter>
       <Name>lon_iau_sun</Name>
       <ParameterKey>juice_cr41_lon_iausun</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>deg</Units>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>
@@ -250,10 +194,7 @@
     <Parameter>
       <Name>lat_iau_sun</Name>
       <ParameterKey>juice_cr41_lat_iausun</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>deg</Units>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>

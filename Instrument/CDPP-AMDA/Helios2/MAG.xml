@@ -48,7 +48,7 @@ magnetometer. 
       </Contact>  
     </ResourceHeader>
     <InstrumentType>Magnetometer</InstrumentType>
-    <InvestigationName/>
+    <InvestigationName>Helios Magnetometers : E2, E3</InvestigationName>
     <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/Helios2</ObservatoryID>
   </Instrument>
 </Spase>

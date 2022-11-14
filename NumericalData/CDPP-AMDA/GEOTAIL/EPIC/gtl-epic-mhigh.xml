@@ -11,7 +11,6 @@
             * open - 186.50-221.40 keV 
             * closed - 405.9-451.9 keV
          </Description>
-      <Acknowledgement/>
       <Contact>
         <PersonID>spase://CNES/Person/CDPP-AMDA/Stuart.Nyland</PersonID>
         <Role>DataProducer</Role>
@@ -25,10 +24,8 @@
         <Role>TechnicalContact</Role>
       </Contact>
       <InformationURL>
-        <Name/>
         <URL/>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
       <Association>
         <AssociationID>gtl-ics-high</AssociationID>
         <AssociationType>PartOf</AssociationType>
@@ -79,9 +76,6 @@
     <Parameter>
       <Name>apperture flag head1</Name>
       <ParameterKey>gtl_mhigh_app1</ParameterKey>
-      <Description/>
-      <UCD/>
-      <Units/>
       <Support>
         <SupportQuantity>InstrumentMode</SupportQuantity>
       </Support>
@@ -89,9 +83,6 @@
     <Parameter>
       <Name>apperture flag head2</Name>
       <ParameterKey>gtl_mhigh_app2</ParameterKey>
-      <Description/>
-      <UCD/>
-      <Units/>
       <Support>
         <SupportQuantity>InstrumentMode</SupportQuantity>
       </Support>
@@ -99,8 +90,6 @@
     <Parameter>
       <Name>cno ave</Name>
       <ParameterKey>gtl_mhigh_av</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>1/(cm**2-s-sr-kev)</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
@@ -113,8 +102,6 @@
     <Parameter>
       <Name>cno ave : omni</Name>
       <ParameterKey>gtl_mhigh_omni</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>1/(cm**2-s-sr-kev)</Units>
       <Particle>
         <ParticleType>Ion</ParticleType>
@@ -124,8 +111,6 @@
     <Parameter>
       <Name>cno ave : tail</Name>
       <ParameterKey>gtl_mhigh_tail</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>1/(cm**2-s-sr-kev)</Units>
       <Particle>
         <ParticleType>Ion</ParticleType>
@@ -135,8 +120,6 @@
     <Parameter>
       <Name>cno ave : dawn</Name>
       <ParameterKey>gtl_mhigh_dawn</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>1/(cm**2-s-sr-kev)</Units>
       <Particle>
         <ParticleType>Ion</ParticleType>
@@ -146,8 +129,6 @@
     <Parameter>
       <Name>cno ave : sun</Name>
       <ParameterKey>gtl_mhigh_sun</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>1/(cm**2-s-sr-kev)</Units>
       <Particle>
         <ParticleType>Ion</ParticleType>
@@ -157,8 +138,6 @@
     <Parameter>
       <Name>cno ave : dusk</Name>
       <ParameterKey>gtl_mhigh_dusk</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>1/(cm**2-s-sr-kev)</Units>
       <Particle>
         <ParticleType>Ion</ParticleType>
@@ -168,8 +147,6 @@
     <Parameter>
       <Name>cno : head 1</Name>
       <ParameterKey>gtl_mhigh_head1</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>1/(cm**2-s-sr-kev)</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
@@ -182,8 +159,6 @@
     <Parameter>
       <Name>cno : head 2</Name>
       <ParameterKey>gtl_mhigh_head2</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>1/(cm**2-s-sr-kev)</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>

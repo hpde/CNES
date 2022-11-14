@@ -65,14 +65,10 @@
     </TemporalDescription>
     <ObservedRegion>Earth</ObservedRegion>
     <ObservedRegion>Earth.NearSurface.Ionosphere</ObservedRegion>
-    <Caveats/>
     <Parameter>
       <Name>electron density</Name>
       <ParameterKey>eiscat_esr32m_ne</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>m-3</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -88,10 +84,7 @@
     <Parameter>
       <Name>ion velocity</Name>
       <ParameterKey>eiscat_esr32m_vi</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>m/s</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -107,10 +100,7 @@
     <Parameter>
       <Name>electron temperature</Name>
       <ParameterKey>eiscat_esr32m_te</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>K</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -126,10 +116,7 @@
     <Parameter>
       <Name>ion temperature</Name>
       <ParameterKey>eiscat_esr32m_ti</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>K</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -144,10 +131,7 @@
     <Parameter>
       <Name>azimuth</Name>
       <ParameterKey>eiscat_esr32m_az</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>deg</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -158,10 +142,7 @@
     <Parameter>
       <Name>elevation</Name>
       <ParameterKey>eiscat_esr32m_el</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>deg</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -172,10 +153,6 @@
     <Parameter>
       <Name>mode</Name>
       <ParameterKey>eiscat_esr32m_mode</ParameterKey>
-      <Description/>
-      <UCD/>
-      <Units/>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>

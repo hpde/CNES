@@ -115,7 +115,6 @@
     <Parameter>
       <Name>quality</Name>
       <ParameterKey>mes_fips_n_qual</ParameterKey>
-      <Units/>
       <Support>
         <SupportQuantity>DataQuality</SupportQuantity>
       </Support>

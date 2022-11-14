@@ -6,7 +6,7 @@
     <ResourceHeader>
       <ResourceName>electron flux</ResourceName>
       <ReleaseDate>2012-09-13T11:15:27Z</ReleaseDate>
-      <Description/>
+      <Description>ToDo</Description>
       <Acknowledgement>Please acknowledge the LECP PI (S.M. Krimigis) and the lead LECP CoI (R.B. Decker)</Acknowledgement>
       <Contact>
         <PersonID>spase://SMWG/Person/Stamatios.M.Krimigis</PersonID>
@@ -65,7 +65,6 @@
     <Parameter>
       <Name>flux diff</Name>
       <ParameterKey>vo2_lecp_fedo</ParameterKey>
-      <Description/>
       <UCD>phys.flux.density;phys.count;phys.electron</UCD>
       <Units>cm-2.s-1.sr-1.MeV-1</Units>
       <RenderingHints>
@@ -107,7 +106,6 @@
     <Parameter>
       <Name>flux integral</Name>
       <ParameterKey>vo2_lecp_feio</ParameterKey>
-      <Description/>
       <UCD>phys.density;phys.electron</UCD>
       <Units>cm-2.s-1.sr-1</Units>
       <RenderingHints>

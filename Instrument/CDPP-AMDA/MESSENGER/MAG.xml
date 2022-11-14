@@ -27,7 +27,7 @@ selectable bandpassed channels of magnetic field variation.</Description>
       </InformationURL>
     </ResourceHeader>
     <InstrumentType>Magnetometer</InstrumentType>
-    <InvestigationName></InvestigationName>
+    <InvestigationName>Magnetometer</InvestigationName>
      <OperatingSpan>
       <StartDate>2005-08-02T00:00:00Z</StartDate>
       <StopDate>2015-04-30T00:00:00Z</StopDate>

@@ -143,7 +143,6 @@
     <Parameter>
       <Name>distance mms2-earth</Name>
       <ParameterKey>mms2_r</ParameterKey>
-      <Description/>
       <UCD>pos.distance;instr.obsty</UCD>
       <Units>Re</Units>
       <RenderingHints>

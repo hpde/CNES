@@ -70,7 +70,6 @@
     <Parameter>
       <Name>density ratio alpha/O6+</Name>
       <ParameterKey>ulys_swi_Hen</ParameterKey>
-      <Units/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -106,7 +105,6 @@
     <Parameter>
       <Name>density ratio C6+/O6+</Name>
       <ParameterKey>ulys_swi_Cn</ParameterKey>
-      <Units/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -178,7 +176,6 @@
     <Parameter>
       <Name>density ratio Ne8+/O6+</Name>
       <ParameterKey>ulys_swi_Nen</ParameterKey>
-      <Units/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -214,7 +211,6 @@
     <Parameter>
       <Name>density ratio Mg10+/O6+</Name>
       <ParameterKey>ulys_swi_Mgn</ParameterKey>
-      <Units/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -250,7 +246,6 @@
     <Parameter>
       <Name>density ratio Si9+/O6+</Name>
       <ParameterKey>ulys_swi_Sin</ParameterKey>
-      <Units/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -286,7 +281,6 @@
     <Parameter>
       <Name>density ratio S10+/O6+</Name>
       <ParameterKey>ulys_swi_Sn</ParameterKey>
-      <Units/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -322,7 +316,6 @@
     <Parameter>
       <Name>density ratio Fe11+/O6+</Name>
       <ParameterKey>ulys_swi_Fen</ParameterKey>
-      <Units/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>

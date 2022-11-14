@@ -26,7 +26,7 @@
       </InformationURL> 
     </ResourceHeader>
     <InstrumentType>MassSpectrometer</InstrumentType>
-    <InvestigationName></InvestigationName>
+    <InvestigationName>Energetic Particle and Plasma Spectrometer (EPPS) : Fast Imaging Plasma Spectrometer</InvestigationName>
     <OperatingSpan>
       <StartDate>2005-08-02T00:00:00Z</StartDate>
       <StopDate>2015-04-30T00:00:00Z</StopDate>

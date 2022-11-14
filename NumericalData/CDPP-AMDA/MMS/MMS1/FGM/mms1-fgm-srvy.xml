@@ -89,10 +89,7 @@
     <Parameter>
       <Name>b_gse</Name>
       <ParameterKey>mms1_b_gse</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>nT</Units>
-      <UnitsConversion/>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
         <CoordinateSystemName>GSE</CoordinateSystemName>
@@ -129,10 +126,7 @@
     <Parameter>
       <Name>b_gsm</Name>
       <ParameterKey>mms1_b_gsm</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>nT</Units>
-      <UnitsConversion/>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
         <CoordinateSystemName>GSM</CoordinateSystemName>
@@ -169,10 +163,7 @@
     <Parameter>
       <Name>|b|</Name>
       <ParameterKey>mms1_b_tot</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>nT</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -184,10 +175,7 @@
     <Parameter>
       <Name>pressure_b</Name>
       <ParameterKey>mms1_pres_m</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>nPa</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>

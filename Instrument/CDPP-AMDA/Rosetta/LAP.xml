@@ -34,7 +34,7 @@ any given time.
       </Contact>
     </ResourceHeader>
    <InstrumentType>LangmuirProbe</InstrumentType>
-    <InvestigationName></InvestigationName>
+    <InvestigationName>Langmuir Probe</InvestigationName>
     <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/Rosetta</ObservatoryID>
   </Instrument>
 </Spase>

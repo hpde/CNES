@@ -71,9 +71,7 @@
     <Parameter>
       <Name>xyz_iau_mars</Name>
       <ParameterKey>mav_xyz_iaumars1s</ParameterKey>
-      <Description/>
       <Units>Rma</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -95,9 +93,6 @@
           <ParameterKey>mav_xyz_iaumars1s(2)</ParameterKey>
         </Element>
       </Structure>
-      <ValidMin/>
-      <ValidMax/>
-      <FillValue/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>
@@ -105,7 +100,6 @@
     <Parameter>
       <Name>xyz_mso</Name>
       <ParameterKey>mav_xyz_mso1s</ParameterKey>
-      <Description/>
       <Units>Rma</Units>
       <UnitsConversion>3.396e6</UnitsConversion>
       <CoordinateSystem>
@@ -133,9 +127,6 @@
           <ParameterKey>mav_xyz_mso1s(2)</ParameterKey>
         </Element>
       </Structure>
-      <ValidMin/>
-      <ValidMax/>
-      <FillValue/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>
@@ -143,9 +134,7 @@
     <Parameter>
       <Name>distance maven-mars</Name>
       <ParameterKey>mav_mars_r1s</ParameterKey>
-      <Description/>
       <Units>Rma</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -156,9 +145,7 @@
     <Parameter>
       <Name>lon_iau_mars</Name>
       <ParameterKey>mav_lon_iaumars1s</ParameterKey>
-      <Description/>
       <Units>degrees</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -169,9 +156,7 @@
     <Parameter>
       <Name>lat_iau_mars</Name>
       <ParameterKey>mav_lat_iaumars1s</ParameterKey>
-      <Description/>
       <Units>degrees</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -182,7 +167,6 @@
     <Parameter>
       <Name>mav_orbit_num</Name>
       <ParameterKey>mav_orb_num1s</ParameterKey>
-      <Units/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>

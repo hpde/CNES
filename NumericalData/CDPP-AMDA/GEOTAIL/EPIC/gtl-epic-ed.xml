@@ -8,7 +8,6 @@
       <AlternateName>Electron Detector : electron integral flux : E &gt; 38 keV</AlternateName>
       <ReleaseDate>2016-09-15T09:38:51Z</ReleaseDate>
       <Description>* Sectors (degrees) : 0. - tailward, 45., 90. - dawnward, 135., 180. - sunward, 225., 270. - duskward, 315.; </Description>
-      <Acknowledgement/>
       <Contact>
         <PersonID>spase://CNES/Person/CDPP-AMDA/Stuart.Nyland</PersonID>
         <Role>DataProducer</Role>
@@ -65,12 +64,9 @@
       <Cadence>PT3S</Cadence>
     </TemporalDescription>
     <ObservedRegion>Earth.Magnetosphere</ObservedRegion>
-    <Caveats/>
     <Parameter>
       <Name>e- flux</Name>
       <ParameterKey>gtl_edhigh_av</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>1/(cm**2-s-sr-kev)</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
@@ -83,8 +79,6 @@
     <Parameter>
       <Name>e- flux : omni</Name>
       <ParameterKey>gtl_edhigh_omni</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>1/(cm**2-s-sr-kev)</Units>
       <Particle>
         <ParticleType>Electron</ParticleType>

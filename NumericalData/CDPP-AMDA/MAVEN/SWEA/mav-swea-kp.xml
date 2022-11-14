@@ -73,7 +73,6 @@
       <Description>Density of solar wind or magnetosheath electrons based on moments of the electron distribution after correcting for the spacecraft potential</Description>
       <UCD>phys.density;phys.atmol.ionStage</UCD>
       <Units>cm-3</Units>
-      <UnitsConversion/>
       <Particle>
         <ParticleType>Electron</ParticleType>
         <ParticleQuantity>NumberDensity</ParticleQuantity>
@@ -85,7 +84,6 @@
       <Description>Density statistical uncertainty, (1 sigma)  </Description>
       <UCD>phys.density;phys.atmol.ionStage</UCD>
       <Units>cm-3</Units>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
       </Support>
@@ -96,7 +94,6 @@
       <Description> Temperature solar wind or magnetosheath electrons based on moments of the electron distribution after correcting for the spacecraft potential</Description>
       <UCD>phys.temperature;phys.atmol.Ionstage</UCD>
       <Units>eV</Units>
-      <UnitsConversion/>
       <Particle>
         <ParticleType>Electron</ParticleType>
         <ParticleQuantity>Temperature</ParticleQuantity>
@@ -108,7 +105,6 @@
       <Description>Temperature statistical uncertainty, (1 sigma)  </Description>
       <UCD>phys.density;phys.atmol.ionStage</UCD>
       <Units>eV</Units>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
       </Support>
@@ -117,9 +113,7 @@
       <Name>parallel flux 5-100 eV</Name>
       <ParameterKey>mav_sweakp_pf1</ParameterKey>
       <Description>Electron energy flux parallel to the magnetic field vector (0-90 degrees pitch angle)</Description>
-      <UCD/>
       <Units>eV/(cm^2 s sr)</Units>
-      <UnitsConversion/>
       <Particle>
         <ParticleType>Electron</ParticleType>
         <ParticleQuantity>EnergyFlux</ParticleQuantity>
@@ -129,9 +123,7 @@
       <Name>parallel flux 100-500 eV</Name>
       <ParameterKey>mav_sweakp_pf2</ParameterKey>
       <Description>Electron energy flux parallel to the magnetic field vector (0-90 degrees pitch angle)</Description>
-      <UCD/>
       <Units>eV/(cm^2 s sr)</Units>
-      <UnitsConversion/>
       <Particle>
         <ParticleType>Electron</ParticleType>
         <ParticleQuantity>EnergyFlux</ParticleQuantity>
@@ -141,9 +133,7 @@
       <Name>parallel flux 500-1000 eV</Name>
       <ParameterKey>mav_sweakp_pf3</ParameterKey>
       <Description>Electron energy flux parallel to the magnetic field vector (0-90 degrees pitch angle)</Description>
-      <UCD/>
       <Units>eV/(cm^2 s sr)</Units>
-      <UnitsConversion/>
       <Particle>
         <ParticleType>Electron</ParticleType>
         <ParticleQuantity>EnergyFlux</ParticleQuantity>
@@ -153,9 +143,7 @@
       <Name>anti-parallel flux 5-100 eV</Name>
       <ParameterKey>mav_sweakp_apf1</ParameterKey>
       <Description>Electron energy flux anti-parallel to the magnetic field vector (90-180 degrees pitch angle)</Description>
-      <UCD/>
       <Units>eV/(cm^2 s sr)</Units>
-      <UnitsConversion/>
       <Particle>
         <ParticleType>Electron</ParticleType>
         <ParticleQuantity>EnergyFlux</ParticleQuantity>
@@ -165,9 +153,7 @@
       <Name>anti-parallel flux 100-500 eV</Name>
       <ParameterKey>mav_sweakp_apf2</ParameterKey>
       <Description>Electron energy flux anti-parallel to the magnetic field vector (90-180 degrees pitch angle)</Description>
-      <UCD/>
       <Units>eV/(cm^2 s sr)</Units>
-      <UnitsConversion/>
       <Particle>
         <ParticleType>Electron</ParticleType>
         <ParticleQuantity>EnergyFlux</ParticleQuantity>
@@ -177,9 +163,7 @@
       <Name>anti-parallel flux 500-1000 eV</Name>
       <ParameterKey>mav_sweakp_apf3</ParameterKey>
       <Description>Electron energy flux anti-parallel to the magnetic field vector (90-180 degrees pitch angle)</Description>
-      <UCD/>
       <Units>eV/(cm^2 s sr)</Units>
-      <UnitsConversion/>
       <Particle>
         <ParticleType>Electron</ParticleType>
         <ParticleQuantity>EnergyFlux</ParticleQuantity>
@@ -189,9 +173,6 @@
       <Name>spectrum shape</Name>
       <ParameterKey>mav_sweakp_shape</ParameterKey>
       <Description>Energy spectrum shape parameter used to distingush between ionospheric photoelectrons and solar wind electrons</Description>
-      <UCD/>
-      <Units/>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
       </Support>

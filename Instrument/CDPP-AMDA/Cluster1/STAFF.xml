@@ -31,7 +31,7 @@
       <PriorID>spase://SMWG/Instrument/Cluster2-Rumba/STAFF</PriorID>
     </ResourceHeader>
     <InstrumentType>SearchCoil</InstrumentType>
-    <InvestigationName></InvestigationName>
+    <InvestigationName>Spatio-Temporal Analysis of Magnetic Field Fluctuations (STAFF) on Cluster 2/FM5 (Rumba)</InvestigationName>
      <OperatingSpan>
       <StartDate>2000-12-01T00:00:00</StartDate>
       <Note>Start of full orbit coverage: 2002-06-01T00:00:00</Note>

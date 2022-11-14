@@ -65,9 +65,7 @@
       <Name>am</Name>
       <ParameterKey>am</ParameterKey>
       <Description>am = (an + as)/2</Description>
-      <UCD/>
       <Units>nT</Units>
-      <UnitsConversion/>
       <Field>
         <FieldQuantity>Magnetic</FieldQuantity>
       </Field>
@@ -76,9 +74,7 @@
       <Name>Am</Name>
       <ParameterKey>Am</ParameterKey>
       <Description>Daily Mean of am</Description>
-      <UCD/>
       <Units>nT</Units>
-      <UnitsConversion/>
       <Field>
         <FieldQuantity>Magnetic</FieldQuantity>
       </Field>

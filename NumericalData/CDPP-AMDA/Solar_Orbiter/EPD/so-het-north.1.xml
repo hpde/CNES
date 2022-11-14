@@ -25,8 +25,7 @@ Parameter ID uses Detector looking directon.
       <InformationURL>
         <Name>SolO Archive Support Data</Name>
         <URL>https://issues.cosmos.esa.int/solarorbiterwiki/display/SOSP/Archive+Support+Data</URL>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
       <Association>
         <AssociationID>solo-epd-het.1</AssociationID>
         <AssociationType>PartOf</AssociationType>
@@ -79,9 +78,7 @@ Parameter ID uses Detector looking directon.
       <Name>e- HE flux: southward</Name>
       <ParameterKey>solo_het_north_eheflux</ParameterKey>
       <Description>Electron flux in 38 - 96 MeV energy range</Description>
-      <UCD/>
       <Units>1/(s cm^2 sr MeV)</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -93,9 +90,7 @@ Parameter ID uses Detector looking directon.
       <Name>e- HE flux unc: southward</Name>
       <ParameterKey>solo_het_north_eheunc</ParameterKey>
       <Description>Uncertainty in electron flux</Description>
-      <UCD/>
       <Units>1/(s cm^2 sr MeV)</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -107,9 +102,7 @@ Parameter ID uses Detector looking directon.
       <Name>he3 flux: southward</Name>
       <ParameterKey>solo_het_north_he3flux</ParameterKey>
       <Description>He3 flux</Description>
-      <UCD/>
       <Units>1/(s cm^2 sr MeV)</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -124,9 +117,7 @@ Parameter ID uses Detector looking directon.
       <Name>he3 flux unc: southward</Name>
       <ParameterKey>solo_het_north_he3unc</ParameterKey>
       <Description>Uncertainty in He3 flux</Description>
-      <UCD/>
       <Units>1/(s cm^2 sr MeV)</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -141,9 +132,7 @@ Parameter ID uses Detector looking directon.
       <Name>he4 flux: southward</Name>
       <ParameterKey>solo_het_north_he4flux</ParameterKey>
       <Description>He4 flux</Description>
-      <UCD/>
       <Units>1/(s cm^2 sr MeV)</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -158,9 +147,7 @@ Parameter ID uses Detector looking directon.
       <Name>he4 flux unc: southward</Name>
       <ParameterKey>solo_het_north_he4unc</ParameterKey>
       <Description>Uncertainty in He4 flux</Description>
-      <UCD/>
       <Units>1/(s cm^2 sr MeV)</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -175,9 +162,6 @@ Parameter ID uses Detector looking directon.
       <Name>quality flag: southward</Name>
       <ParameterKey>solo_het_north_1_qf</ParameterKey>
       <Description>0: Bad, 1: Known problems, 2: Survey data, 3: Good, 4: Excellent</Description>
-      <UCD/>
-      <Units/>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>

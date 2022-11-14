@@ -4,7 +4,6 @@
   <Person>
     <ResourceID>spase://CNES/Person/CDPP-AMDA/Elizabeth.Hays</ResourceID>
     <PersonName>Dr. Elizabeth Hays</PersonName>
-    <OrganizationName/>
-    <Email/>
-  </Person>
+    <OrganizationName>NASA Goddard Space Flight Center</OrganizationName>
+    </Person>
 </Spase>

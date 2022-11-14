@@ -49,7 +49,6 @@
       </AccessInformation>
     <ProcessingLevel>Calibrated</ProcessingLevel>
     <ProviderName>CSDS-CNES</ProviderName>
-    <ProviderResourceName/>
     <ProviderProcessingLevel>Calibrated</ProviderProcessingLevel>
     <ProviderVersion>1</ProviderVersion>
     <InstrumentID>spase://CNES/Instrument/CDPP-AMDA/DoubleStar1/Ephemeris</InstrumentID>

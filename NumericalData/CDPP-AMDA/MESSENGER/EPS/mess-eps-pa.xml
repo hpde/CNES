@@ -71,7 +71,6 @@
       <Name>pa values</Name>
       <ParameterKey>mes_eps_pa</ParameterKey>
       <Description>Pitch angles values for six looking directions</Description>
-      <UCD/>
       <Units>deg</Units>
       <Structure>
         <Size>6</Size>

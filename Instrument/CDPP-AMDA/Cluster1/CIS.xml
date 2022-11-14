@@ -26,7 +26,7 @@
       <PriorID>spase://SMWG/Instrument/Cluster2-Rumba/CIS</PriorID>
     </ResourceHeader>
     <InstrumentType>EnergeticParticleInstrument</InstrumentType>
-    <InvestigationName></InvestigationName>
+    <InvestigationName>Cluster Ion Spectrometry (CIS) on Cluster 2/FM5 (Rumba)</InvestigationName>
     <OperatingSpan>
       <StartDate>2000-12-01T00:00:00</StartDate>
       <Note>Start of full orbit coverage: 2002-06-01T00:00:00</Note>

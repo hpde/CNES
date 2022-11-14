@@ -68,7 +68,6 @@
     <Parameter>
       <Name>ion density</Name>
       <ParameterKey>cass_lp_ni</ParameterKey>
-      <UCD/>
       <Units>cm-3</Units>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
@@ -81,7 +80,6 @@
     <Parameter>
       <Name>ion density error</Name>
       <ParameterKey>cass_lp_ni_err</ParameterKey>
-      <UCD/>
       <Units>%</Units>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>

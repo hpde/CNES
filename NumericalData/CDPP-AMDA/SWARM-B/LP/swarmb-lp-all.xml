@@ -25,8 +25,7 @@ The data are intended for users with some experience and understanding of Langmu
       <InformationURL>
         <Name>Dataset Description</Name>
         <URL>ftp://swarm-diss.eo.esa.int/Advanced/Plasma_Data/2_Hz_Langmuir_Probe_Extended_Dataset/SW-RN-IRF-GS-005_Extended_LP_Data_Probes.ZIP</URL>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
     </ResourceHeader>
     <AccessInformation>
          <RepositoryID>spase://SMWG/Repository/CDPP/AMDA</RepositoryID>
@@ -79,9 +78,7 @@ The data are intended for users with some experience and understanding of Langmu
       <Name>density e-</Name>
       <ParameterKey>swb_ne</ParameterKey>
       <Description>Plasma density from ion current</Description>
-      <UCD/>
       <Units>cm**-3</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -93,9 +90,7 @@ The data are intended for users with some experience and understanding of Langmu
       <Name>temperature e-</Name>
       <ParameterKey>swb_te</ParameterKey>
       <Description>Electron temperature, blended value</Description>
-      <UCD/>
       <Units>K</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -107,9 +102,7 @@ The data are intended for users with some experience and understanding of Langmu
       <Name>s/c pot</Name>
       <ParameterKey>swb_pot</ParameterKey>
       <Description>Spacecraft potential, blended value</Description>
-      <UCD/>
       <Units>V</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>

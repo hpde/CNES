@@ -6,7 +6,7 @@
     <ResourceHeader>
       <ResourceName>cruise</ResourceName>
       <ReleaseDate>2022-05-09T12:19:02Z</ReleaseDate>
-      <Description/>
+      <Description>ToDo</Description>
       <Contact>
         <PersonID>spase://CNES/Person/CDPP-AMDA/N.Papitashvili</PersonID>
         <Role>DataProducer</Role>
@@ -56,7 +56,6 @@
       <Name>proton flux</Name>
       <ParameterKey>vo1_lecp_flux</ParameterKey>
       <Description>Proton flux</Description>
-      <UCD/>
       <Units>cnts/cm^2*s*st*MeV</Units>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
@@ -67,26 +66,17 @@
           <Name>0.58 - 1.78 MeV</Name>
           <Index>1</Index>
           <ParameterKey>vo1_lecp_flux(0)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>3.40 - 17.6 MeV</Name>
           <Index>2</Index>
           <ParameterKey>vo1_lecp_flux(1)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>22 - 31 MeV</Name>
           <Index>3</Index>
           <ParameterKey>vo1_lecp_flux(2)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
       </Structure>
       <Particle>
         <ParticleType>Proton</ParticleType>

@@ -7,7 +7,7 @@
       <ResourceName>time profiles : tailward</ResourceName>
       <AlternateName>Electron Time Profiles : Tailward Flow</AlternateName>
       <ReleaseDate>2004-12-02T14:45:57Z</ReleaseDate>
-      <Description/>
+      <Description>ToDo</Description>
       <Contact>
         <PersonID>spase://CNES/Person/CDPP-AMDA/Volt.Lutsenko</PersonID>
         <Role>PrincipalInvestigator</Role>
@@ -67,10 +67,7 @@
     <Parameter>
       <Name>e- flux tailward</Name>
       <ParameterKey>it_dok_2te</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>cm**-2.sr**-1.s**-1.keV**-1</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -104,9 +101,7 @@
       <Name>dT</Name>
       <ParameterKey>it_dok_2te_dt</ParameterKey>
       <Description>Time Exposition</Description>
-      <UCD/>
       <Units>sec</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -118,9 +113,7 @@
       <Name>theta</Name>
       <ParameterKey>it_dok_2te_theta</ParameterKey>
       <Description>Detector angle with axe pointed to Sun</Description>
-      <UCD/>
       <Units>deg</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -133,9 +126,7 @@
       <Name>pitch tailward</Name>
       <ParameterKey>it_dok_2te_pitch</ParameterKey>
       <Description>Pitch angle with incoming flux direction</Description>
-      <UCD/>
       <Units>deg</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>

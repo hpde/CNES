@@ -21,7 +21,7 @@
       </Contact>  
     </ResourceHeader>
     <InstrumentType>Magnetometer</InstrumentType>
-    <InvestigationName/>
+    <InvestigationName>Fluxgate Magnetometer for Average Fields on Helios1/E3</InvestigationName>
     <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/Helios1</ObservatoryID>
   </Instrument>
 </Spase>

@@ -14,7 +14,7 @@
       </Contact>
     </ResourceHeader>
     <InstrumentType>Platform</InstrumentType>
-    <InvestigationName></InvestigationName>
+    <InvestigationName>Spacecraft position</InvestigationName>
     <OperatingSpan>
       <StartDate>1978-12-05T07:20:07.282Z</StartDate>
       <StopDate>1992-10-08T16:30:39.579</StopDate>

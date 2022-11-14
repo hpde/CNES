@@ -11,7 +11,6 @@
             * open - 70.0-95.8 keV
             * closed - 142.5-172.9 keV
          </Description>
-      <Acknowledgement/>
       <Contact>
         <PersonID>spase://CNES/Person/CDPP-AMDA/Stuart.Nyland</PersonID>
         <Role>DataProducer</Role>
@@ -25,10 +24,8 @@
         <Role>TechnicalContact</Role>
       </Contact>
       <InformationURL>
-        <Name/>
         <URL/>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
       <Association>
         <AssociationID>gtl-ics-high</AssociationID>
         <AssociationType>PartOf</AssociationType>
@@ -74,13 +71,9 @@
       <Cadence>PT6S</Cadence>
     </TemporalDescription>
     <ObservedRegion>Earth.Magnetosphere</ObservedRegion>
-    <Caveats/>
     <Parameter>
       <Name>apperture flag head1</Name>
       <ParameterKey>gtl_hehigh_app1</ParameterKey>
-      <Description/>
-      <UCD/>
-      <Units/>
       <Support>
         <SupportQuantity>InstrumentMode</SupportQuantity>
       </Support>
@@ -88,9 +81,6 @@
     <Parameter>
       <Name>apperture flag head2</Name>
       <ParameterKey>gtl_hehigh_app2</ParameterKey>
-      <Description/>
-      <UCD/>
-      <Units/>
       <Support>
         <SupportQuantity>InstrumentMode</SupportQuantity>
       </Support>
@@ -98,8 +88,6 @@
     <Parameter>
       <Name>he2 ave</Name>
       <ParameterKey>gtl_hehigh_av</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>1/(cm**2-s-sr-kev)</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
@@ -112,8 +100,6 @@
     <Parameter>
       <Name>he2 ave  : omni</Name>
       <ParameterKey>gtl_hehigh_omni</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>1/(cm**2-s-sr-kev)</Units>
       <Particle>
         <ParticleType>AlphaParticle</ParticleType>
@@ -123,8 +109,6 @@
     <Parameter>
       <Name>he2 ave : tail</Name>
       <ParameterKey>gtl_hehigh_tail</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>1/(cm**2-s-sr-kev)</Units>
       <Particle>
         <ParticleType>AlphaParticle</ParticleType>
@@ -134,8 +118,6 @@
     <Parameter>
       <Name>he2 ave : dawn</Name>
       <ParameterKey>gtl_hehigh_dawn</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>1/(cm**2-s-sr-kev)</Units>
       <Particle>
         <ParticleType>AlphaParticle</ParticleType>
@@ -145,8 +127,6 @@
     <Parameter>
       <Name>he2 ave  : sun</Name>
       <ParameterKey>gtl_hehigh_sun</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>1/(cm**2-s-sr-kev)</Units>
       <Particle>
         <ParticleType>AlphaParticle</ParticleType>
@@ -156,8 +136,6 @@
     <Parameter>
       <Name>he2 ave : dusk</Name>
       <ParameterKey>gtl_hehigh_dusk</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>1/(cm**2-s-sr-kev)</Units>
       <Particle>
         <ParticleType>AlphaParticle</ParticleType>
@@ -167,8 +145,6 @@
     <Parameter>
       <Name>he2 : head 1</Name>
       <ParameterKey>gtl_hehigh_head1</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>1/(cm**2-s-sr-kev)</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
@@ -181,8 +157,6 @@
     <Parameter>
       <Name>he2 : head 2</Name>
       <ParameterKey>gtl_hehigh_head2</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>1/(cm**2-s-sr-kev)</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>

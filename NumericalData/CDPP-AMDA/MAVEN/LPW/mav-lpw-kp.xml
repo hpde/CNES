@@ -85,7 +85,6 @@
       <Description>Electron density derived from the LP sweep and when available from the plasma line </Description>
       <UCD>phys.density;phys.atmol.ionStage</UCD>
       <Units>cm-3</Units>
-      <UnitsConversion/>
       <Particle>
         <ParticleType>Electron</ParticleType>
         <ParticleQuantity>NumberDensity</ParticleQuantity>
@@ -97,7 +96,6 @@
       <Description>Electron density maximal value</Description>
       <UCD>phys.density;phys.atmol.ionStage</UCD>
       <Units>cm-3</Units>
-      <UnitsConversion/>
       <Particle>
         <ParticleType>Electron</ParticleType>
         <ParticleQuantity>NumberDensity</ParticleQuantity>
@@ -109,7 +107,6 @@
       <Description>Electron density minimal value</Description>
       <UCD>phys.density;phys.atmol.ionStage</UCD>
       <Units>cm-3</Units>
-      <UnitsConversion/>
       <Particle>
         <ParticleType>Electron</ParticleType>
         <ParticleQuantity>NumberDensity</ParticleQuantity>
@@ -119,9 +116,7 @@
       <Name>e- temperature</Name>
       <ParameterKey>mav_lpwkp_t</ParameterKey>
       <Description>Electron temperature derived from the LP sweep and when available from the plasma line </Description>
-      <UCD/>
       <Units>K</Units>
-      <UnitsConversion/>
       <Particle>
         <ParticleType>Electron</ParticleType>
         <ParticleQuantity>Temperature</ParticleQuantity>
@@ -131,9 +126,7 @@
       <Name>e- temperature error : max</Name>
       <ParameterKey>mav_lpwkp_tmax</ParameterKey>
       <Description>Electron temperature maximal value</Description>
-      <UCD/>
       <Units>K</Units>
-      <UnitsConversion/>
       <Particle>
         <ParticleType>Electron</ParticleType>
         <ParticleQuantity>Temperature</ParticleQuantity>
@@ -143,9 +136,7 @@
       <Name>e- temperature error : min</Name>
       <ParameterKey>mav_lpwkp_tmin</ParameterKey>
       <Description>Electron temperature minimal value</Description>
-      <UCD/>
       <Units>K</Units>
-      <UnitsConversion/>
       <Particle>
         <ParticleType>Electron</ParticleType>
         <ParticleQuantity>Temperature</ParticleQuantity>
@@ -155,9 +146,7 @@
       <Name>s/c pot</Name>
       <ParameterKey>mav_lpwkp_pot</ParameterKey>
       <Description>Measured from the probe potentials</Description>
-      <UCD/>
       <Units>V</Units>
-      <UnitsConversion/>
       <Field>
         <Qualifier>Scalar</Qualifier>
         <FieldQuantity>Potential</FieldQuantity>
@@ -167,9 +156,7 @@
       <Name>s/c pot error : max</Name>
       <ParameterKey>mav_lpwkp_potmax</ParameterKey>
       <Description>S/c potential maximal value</Description>
-      <UCD/>
       <Units>V</Units>
-      <UnitsConversion/>
       <Field>
         <Qualifier>Scalar</Qualifier>
         <FieldQuantity>Potential</FieldQuantity>
@@ -179,9 +166,7 @@
       <Name>s/c pot error  : min</Name>
       <ParameterKey>mav_lpwkp_potmin</ParameterKey>
       <Description>S/c potential minimal value</Description>
-      <UCD/>
       <Units>V</Units>
-      <UnitsConversion/>
       <Field>
         <Qualifier>Scalar</Qualifier>
         <FieldQuantity>Potential</FieldQuantity>
@@ -191,9 +176,7 @@
       <Name>E-field power : 002-100Hz</Name>
       <ParameterKey>mav_lpwkp_ef1</ParameterKey>
       <Description>Integrated wave power from the onboard calculated FFT, frequencies important for wave heating</Description>
-      <UCD/>
       <Units>(V/m)^2/Hz</Units>
-      <UnitsConversion/>
       <Field>
         <Qualifier>Scalar</Qualifier>
         <FieldQuantity>Electric</FieldQuantity>
@@ -203,9 +186,6 @@
       <Name>E-field power : 002-100Hz : quality</Name>
       <ParameterKey>mav_lpwkp_ef1_qual</ParameterKey>
       <Description>Range: 0-100, where 100 is the highest confidence level, use data with quality flag of 50 or above</Description>
-      <UCD/>
-      <Units/>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
       </Support>
@@ -214,9 +194,7 @@
       <Name>E-field power : 100-800Hz</Name>
       <ParameterKey>mav_lpwkp_ef2</ParameterKey>
       <Description>Integrated wave power from the onboard calculated FFT, frequencies important for wave heating</Description>
-      <UCD/>
       <Units>(V/m)^2/Hz</Units>
-      <UnitsConversion/>
       <Field>
         <Qualifier>Scalar</Qualifier>
         <FieldQuantity>Electric</FieldQuantity>
@@ -226,9 +204,6 @@
       <Name>E-field power : 100-800Hz : quality</Name>
       <ParameterKey>mav_lpwkp_ef2_qual</ParameterKey>
       <Description>Range: 0-100, where 100 is the highest confidence level, use data with quality flag of 50 or above</Description>
-      <UCD/>
-      <Units/>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
       </Support>
@@ -237,9 +212,7 @@
       <Name>E-field power : 800-1000Hz</Name>
       <ParameterKey>mav_lpwkp_ef3</ParameterKey>
       <Description>Integrated wave power from the onboard calculated FFT, frequencies important for wave heating</Description>
-      <UCD/>
       <Units>(V/m)^2/Hz</Units>
-      <UnitsConversion/>
       <Field>
         <Qualifier>Scalar</Qualifier>
         <FieldQuantity>Electric</FieldQuantity>
@@ -249,9 +222,6 @@
       <Name>E-field power : 800-1000Hz : quality</Name>
       <ParameterKey>mav_lpwkp_ef3_qual</ParameterKey>
       <Description>Range: 0-100, where 100 is the highest confidence level, use data with quality flag of 50 or above</Description>
-      <UCD/>
-      <Units/>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
       </Support>

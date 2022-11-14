@@ -11,7 +11,6 @@
             * open: 58.10, 77.30, 107.40, 154.30, 227.50, 341.60, 522.50, 813.50, 1560.80, 3005.40;
             * closed: 89.50, 110.70, 142.4, 189.2, 258.6, 365.5, 541.3, 831.4, 1570.6, 3003.8;
          </Description>
-      <Acknowledgement/>
       <Contact>
         <PersonID>spase://CNES/Person/CDPP-AMDA/Stuart.Nyland</PersonID>
         <Role>DataProducer</Role>
@@ -25,7 +24,6 @@
         <Role>TechnicalContact</Role>
       </Contact>
       <InformationURL>
-        <Name/>
         <URL/>
       </InformationURL>
       <Association>
@@ -78,9 +76,6 @@
     <Parameter>
       <Name>apperture flag head1</Name>
       <ParameterKey>gtl_p_app1</ParameterKey>
-      <Description/>
-      <UCD/>
-      <Units/>
       <Support>
         <SupportQuantity>InstrumentMode</SupportQuantity>
       </Support>
@@ -88,9 +83,6 @@
     <Parameter>
       <Name>apperture flag head2</Name>
       <ParameterKey>gtl_p_app2</ParameterKey>
-      <Description/>
-      <UCD/>
-      <Units/>
       <Support>
         <SupportQuantity>InstrumentMode</SupportQuantity>
       </Support>
@@ -98,8 +90,6 @@
     <Parameter>
       <Name>h+ flux : 2D</Name>
       <ParameterKey>gtl_p_av</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>1/(cm**2-s-sr-kev)</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
@@ -112,8 +102,6 @@
     <Parameter>
       <Name>h+ flux : omni</Name>
       <ParameterKey>gtl_p_omni</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>1/(cm**2-s-sr-kev)</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>

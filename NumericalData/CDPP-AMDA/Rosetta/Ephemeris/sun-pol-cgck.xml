@@ -74,7 +74,6 @@
     <Parameter>
       <Name>distance C_G-sun</Name>
       <ParameterKey>sun_cg_r</ParameterKey>
-      <UCD/>
       <Units>AU</Units>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
@@ -86,7 +85,6 @@
     <Parameter>
       <Name>sun lat C-G_CK</Name>
       <ParameterKey>sun_cg_lat</ParameterKey>
-      <UCD/>
       <Units>deg</Units>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
@@ -98,7 +96,6 @@
     <Parameter>
       <Name>sun lon C-G_CK</Name>
       <ParameterKey>sun_cg_lon</ParameterKey>
-      <UCD/>
       <Units>deg</Units>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>

@@ -6,7 +6,7 @@
     <ResourceHeader>
       <ResourceName>E4</ResourceName>
       <ReleaseDate>2022-07-10T20:35:49Z</ReleaseDate>
-      <Description/>
+      <Description>ToDo</Description>
       <Contact>
         <PersonID>spase://SMWG/Person/Yoshifumi.Saito</PersonID>
         <Role>PrincipalInvestigator</Role>
@@ -51,7 +51,6 @@
          <Acknowledgement>Thank you for acknowledging the use of AMDA in publications with wording like "Data analysis was performed with the AMDA science analysis system provided by the Centre de Données de la Physique des Plasmas (CDPP) supported by CNRS, CNES, Observatoire de Paris and Université Paul Sabatier, Toulouse".. See the Rules of the road at http://amda.cdpp.eu/help/policy.html. Please acknowledge the Data Providers.</Acknowledgement>
       </AccessInformation>
     <ProviderName>IRAP</ProviderName>
-    <ProviderResourceName/>
     <InstrumentID>spase://CNES/Instrument/CDPP-AMDA/BepiColombo/Mio/MEA1</InstrumentID>
     <MeasurementType>ThermalPlasma</MeasurementType>
     <TemporalDescription>

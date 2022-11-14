@@ -149,8 +149,6 @@
       <Name>energy table</Name>
       <ParameterKey>mex_energy_tab</ParameterKey>
       <Description>energy table number</Description>
-      <UCD/>
-      <Units/>
       <Support>
         <SupportQuantity>InstrumentMode</SupportQuantity>
       </Support>
@@ -159,8 +157,6 @@
       <Name>elevations number</Name>
       <ParameterKey>mex_elev_n</ParameterKey>
       <Description>Number of the elevation angles</Description>
-      <UCD/>
-      <Units/>
       <Support>
         <SupportQuantity>InstrumentMode</SupportQuantity>
       </Support>

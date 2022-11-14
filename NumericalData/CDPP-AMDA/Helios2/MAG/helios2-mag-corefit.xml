@@ -69,9 +69,6 @@ deviations taken over the interval that the ion distribution function was measur
       <Name>mag_instr</Name>
       <ParameterKey>helios2_mag_instr</ParameterKey>
       <Description>Instrument flag</Description>
-      <UCD/>
-      <Units/>
-      <UnitsConversion/>
       <FillValue>-1</FillValue>
       <Support>
         <SupportQuantity>InstrumentMode</SupportQuantity>
@@ -80,10 +77,7 @@ deviations taken over the interval that the ion distribution function was measur
     <Parameter>
       <Name>sigma b</Name>
       <ParameterKey>helios2_b_std</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>nT</Units>
-      <UnitsConversion/>
       <Field>
         <FieldQuantity>Magnetic</FieldQuantity>
       </Field>
@@ -92,35 +86,24 @@ deviations taken over the interval that the ion distribution function was measur
       <Name>b_se</Name>
       <ParameterKey>helios2_b_rtn</ParameterKey>
       <Description>magnetic field in solar ecliptic spacecraft centered coordinates (SE)</Description>
-      <UCD/>
       <Units>nT</Units>
-      <UnitsConversion/>
       <Structure>
         <Size>3</Size>
         <Element>
           <Name>r</Name>
           <Index>1</Index>
           <ParameterKey>helios2_b_rtn(0)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>t</Name>
           <Index>2</Index>
           <ParameterKey>helios2_b_rtn(1)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>n</Name>
           <Index>3</Index>
           <ParameterKey>helios2_b_rtn(2)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
       </Structure>
       <Field>
         <Qualifier>Vector</Qualifier>
@@ -130,10 +113,7 @@ deviations taken over the interval that the ion distribution function was measur
     <Parameter>
       <Name>|b|</Name>
       <ParameterKey>helios2_b_mag</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>nT</Units>
-      <UnitsConversion/>
       <Field>
         <Qualifier>Average</Qualifier>
         <FieldQuantity>Magnetic</FieldQuantity>

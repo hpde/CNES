@@ -7,8 +7,7 @@
       <ResourceName>tii cross-track dataset</ResourceName>
       <AlternateName>Swarm-A orbital information from EFI / TII cross-track dataset</AlternateName>
       <ReleaseDate>2019-04-18T17:45:22Z</ReleaseDate>
-      <Description/>
-      <Acknowledgement/>
+      <Description>ToDo</Description>
       <Contact>
         <PersonID>spase://CNES/Person/CDPP-AMDA/Johnathan.Burchill</PersonID>
         <Role>Scientist</Role>
@@ -16,8 +15,7 @@
       <InformationURL>
         <Name>Dataset Description</Name>
         <URL>ftp://swarm-diss.eo.esa.int/Advanced/Plasma_Data/2Hz_TII_Cross-track_Dataset/SW-RN-UoC-GS-004_TIICT_ReleaseNotes.ZIP</URL>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
       <Association>
         <AssociationID>swarma-orb-05</AssociationID>
         <AssociationType>PartOf</AssociationType>
@@ -73,9 +71,7 @@
       <Name>v sat</Name>
       <ParameterKey>swa_v_sat</ParameterKey>
       <Description>Northward, Eastward (in inertial frame) and Center ( radially inward ) components of satellite velocity.</Description>
-      <UCD/>
       <Units>m/s</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -100,7 +96,6 @@
           <ParameterKey>swa_v_sat(2)</ParameterKey>
         </Element>
       </Structure>
-      <FillValue/>
       <Support>
         <SupportQuantity>Velocity</SupportQuantity>
       </Support>

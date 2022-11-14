@@ -7,14 +7,14 @@
       <ResourceName>Analytical Models</ResourceName>
       <AlternateName>Mars crustal magnetic field analytical models</AlternateName>
       <ReleaseDate>2017-02-04T15:37:46Z</ReleaseDate>
-      <Description/>
+      <Description>ToDo</Description>
       <Contact>
         <PersonID>spase://SMWG/Person/Christian.Jacquey</PersonID>
         <Role>TechnicalContact</Role>
       </Contact>
     </ResourceHeader>
     <InstrumentType>Platform</InstrumentType>
-    <InvestigationName/>
+    <InvestigationName>Mars crustal magnetic field analytical models</InvestigationName>
     <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/Cluster1</ObservatoryID>
   </Instrument>
 </Spase>

@@ -39,7 +39,7 @@
     </ResourceHeader>
     <!-- Quadroupole Mass Spectrometer -->
    <InstrumentType>MassSpectrometer</InstrumentType>
-   <InvestigationName/>
+   <InvestigationName>MAVEN Neutral Gas and Ion Mass Spectrometer Investigation</InvestigationName>
     <OperatingSpan>
       <StartDate>2013-11-18T13:28:00</StartDate>
       <!--StopDate>2014-12-16T00:00:00</StopDate-->

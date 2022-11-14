@@ -84,7 +84,6 @@
       <Description>H+ number density below TBD altitude determined from APID c6 (32 energy x 64 mass) while in Ram or Conic modes</Description>
       <UCD>phys.density;phys.atmol.ionStage</UCD>
       <Units>cm-3</Units>
-      <UnitsConversion/>
       <Particle>
         <ParticleType>Ion</ParticleType>
         <ParticleQuantity>NumberDensity</ParticleQuantity>
@@ -94,9 +93,7 @@
       <Name>h+ below : temperature</Name>
       <ParameterKey>mav_stakp_h_t</ParameterKey>
       <Description>H+ temperature below TBD altitude determined from APID c6 (32 energy x 64 mass) while in Ram or Conic modes</Description>
-      <UCD/>
       <Units>eV</Units>
-      <UnitsConversion/>
       <Particle>
         <ParticleType>Ion</ParticleType>
         <ParticleQuantity>Temperature</ParticleQuantity>
@@ -106,9 +103,7 @@
       <Name>h+ below : _temp/dens quality</Name>
       <ParameterKey>mav_stakp_h_qual_below</ParameterKey>
       <Description>Number of counts in the measurement </Description>
-      <UCD/>
       <Units>Counts</Units>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
       </Support>
@@ -119,7 +114,6 @@
       <Description>O+ number density below TBD altitude determined from APID c6 (32 energy x 64 mass) while in Ram or Conic modes</Description>
       <UCD>phys.density;phys.atmol.ionStage</UCD>
       <Units>cm-3</Units>
-      <UnitsConversion/>
       <Particle>
         <ParticleType>Ion</ParticleType>
         <ParticleQuantity>NumberDensity</ParticleQuantity>
@@ -131,7 +125,6 @@
       <Description>O+ temperatue below TBD altitude determined from APID c6 (32 energy x 64 mass) while in Ram or Conic modes</Description>
       <UCD>phys.density;phys.atmol.ionStage</UCD>
       <Units>eV</Units>
-      <UnitsConversion/>
       <Particle>
         <ParticleType>Ion</ParticleType>
         <ParticleQuantity>Temperature</ParticleQuantity>
@@ -141,9 +134,7 @@
       <Name>o+ below : _temp/dens quality</Name>
       <ParameterKey>mav_stakp_o_qual_below</ParameterKey>
       <Description>Number of counts in the measurement </Description>
-      <UCD/>
       <Units>Counts</Units>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
       </Support>
@@ -154,7 +145,6 @@
       <Description>O2+ number density below TBD altitude determined from APID c6 (32 energy x 64 mass) while in Ram or Conic modes</Description>
       <UCD>phys.density;phys.atmol.ionStage</UCD>
       <Units>cm-3</Units>
-      <UnitsConversion/>
       <Particle>
         <ParticleType>Ion</ParticleType>
         <ParticleQuantity>NumberDensity</ParticleQuantity>
@@ -166,7 +156,6 @@
       <Description>O2+ temperatue below TBD altitude determined from APID c6 (32 energy x 64 mass) while in Ram or Conic modes</Description>
       <UCD>phys.density;phys.atmol.ionStage</UCD>
       <Units>eV</Units>
-      <UnitsConversion/>
       <Particle>
         <ParticleType>Ion</ParticleType>
         <ParticleQuantity>Temperature</ParticleQuantity>
@@ -176,9 +165,7 @@
       <Name>o2+ below : _temp/dens quality</Name>
       <ParameterKey>mav_stakp_o2_qual_below</ParameterKey>
       <Description>Number of counts in the measurement</Description>
-      <UCD/>
       <Units>Counts</Units>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
       </Support>
@@ -189,33 +176,23 @@
       <Description> O2+ MSO  velocity below TBD altitude while in Ram or Conic mode</Description>
       <UCD>phys.veloc;phys.atmol.ionStage</UCD>
       <Units>km/s</Units>
-      <UnitsConversion/>
       <Structure>
         <Size>3</Size>
         <Element>
           <Name>vx</Name>
           <Index>1</Index>
           <ParameterKey>mav_stakp_o2_vmso(0)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>vy</Name>
           <Index>2</Index>
           <ParameterKey>mav_stakp_o2_vmso(1)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>vz</Name>
           <Index>3</Index>
           <ParameterKey>mav_stakp_o2_vmso(2)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
       </Structure>
       <Particle>
         <ParticleType>Ion</ParticleType>
@@ -226,9 +203,7 @@
       <Name>o2+ below : v mso quality</Name>
       <ParameterKey>mav_stakp_o2_qual_vmso</ParameterKey>
       <Description>Number of counts in the measurement</Description>
-      <UCD/>
       <Units>Counts</Units>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
       </Support>
@@ -237,9 +212,7 @@
       <Name>h+ above : flux</Name>
       <ParameterKey>mav_stakp_h_f</ParameterKey>
       <Description>H+ omni-directional flux above TBD altitude determined from APID c6 while in Pickup, Eclipse and Protect mode</Description>
-      <UCD/>
       <Units>1/(cm^2 s)</Units>
-      <UnitsConversion/>
       <Particle>
         <ParticleType>Proton</ParticleType>
         <ParticleQuantity>NumberFlux</ParticleQuantity>
@@ -249,9 +222,7 @@
       <Name>h+ above : flux energy</Name>
       <ParameterKey>mav_stakp_h_e</ParameterKey>
       <Description> H+ omni-directional characteristic energy above TBD altitude determined from APID c6 while in Pickup, Eclipse and Protect mode</Description>
-      <UCD/>
       <Units>eV</Units>
-      <UnitsConversion/>
       <Particle>
         <ParticleType>Proton</ParticleType>
         <ParticleQuantity>Energy</ParticleQuantity>
@@ -261,9 +232,7 @@
       <Name>h+ above : flux quality</Name>
       <ParameterKey>mav_stakp_h_qual_above</ParameterKey>
       <Description>Number of counts in the measurement</Description>
-      <UCD/>
       <Units>counts</Units>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
       </Support>
@@ -272,9 +241,7 @@
       <Name>he++ above : flux</Name>
       <ParameterKey>mav_stakp_he_f</ParameterKey>
       <Description>He++ omni-directional flux above TBD altitude determined from APID c6 while in Pickup, Eclipse and Protect mode</Description>
-      <UCD/>
       <Units>1/(cm^2 s)</Units>
-      <UnitsConversion/>
       <Particle>
         <ParticleType>Ion</ParticleType>
         <ParticleQuantity>NumberFlux</ParticleQuantity>
@@ -284,9 +251,7 @@
       <Name>he++ above : flux energy</Name>
       <ParameterKey>mav_stakp_he_e</ParameterKey>
       <Description> He++ omni-directional characteristic energy above TBD altitude determined from APID c6 while in Pickup, Eclipse and Protect mode</Description>
-      <UCD/>
       <Units>eV</Units>
-      <UnitsConversion/>
       <Particle>
         <ParticleType>Ion</ParticleType>
         <ParticleQuantity>Energy</ParticleQuantity>
@@ -296,9 +261,7 @@
       <Name>he++ above : flux quality</Name>
       <ParameterKey>mav_stakp_he_qual_above</ParameterKey>
       <Description>Number of counts in the measurement</Description>
-      <UCD/>
       <Units>counts</Units>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
       </Support>
@@ -307,9 +270,7 @@
       <Name>o+ above : flux</Name>
       <ParameterKey>mav_stakp_o_f</ParameterKey>
       <Description>O+ omni-directional flux above TBD altitude determined from APID c6 while in Pickup, Eclipse and Protect mode</Description>
-      <UCD/>
       <Units>1/(cm^2 s)</Units>
-      <UnitsConversion/>
       <Particle>
         <ParticleType>Ion</ParticleType>
         <ParticleQuantity>NumberFlux</ParticleQuantity>
@@ -319,9 +280,7 @@
       <Name>o+ above : flux energy</Name>
       <ParameterKey>mav_stakp_o_e</ParameterKey>
       <Description>O+ omni-directional characteristic energy above TBD altitude determined from APID c6 while in Pickup, Eclipse and Protect mode</Description>
-      <UCD/>
       <Units>eV</Units>
-      <UnitsConversion/>
       <Particle>
         <ParticleType>Ion</ParticleType>
         <ParticleQuantity>Energy</ParticleQuantity>
@@ -331,9 +290,7 @@
       <Name>o+ above : flux quality</Name>
       <ParameterKey>mav_stakp_o_qual_above</ParameterKey>
       <Description>Number of counts in the measurement</Description>
-      <UCD/>
       <Units>counts</Units>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
       </Support>
@@ -342,9 +299,7 @@
       <Name>o2+ above : flux</Name>
       <ParameterKey>mav_stakp_o2_f</ParameterKey>
       <Description>O2+ omni-directional flux above TBD altitude determined from APID c6 while in Pickup, Eclipse and Protect mode</Description>
-      <UCD/>
       <Units>1/(cm^2 s)</Units>
-      <UnitsConversion/>
       <Particle>
         <ParticleType>Ion</ParticleType>
         <ParticleQuantity>NumberFlux</ParticleQuantity>
@@ -354,9 +309,7 @@
       <Name>o2+ above : flux energy</Name>
       <ParameterKey>mav_stakp_o2_e</ParameterKey>
       <Description>O2+ omni-directional characteristic energy above TBD altitude determined from APID c6 while in Pickup, Eclipse and Protect mode</Description>
-      <UCD/>
       <Units>eV</Units>
-      <UnitsConversion/>
       <Particle>
         <ParticleType>Ion</ParticleType>
         <ParticleQuantity>Energy</ParticleQuantity>
@@ -366,9 +319,7 @@
       <Name>o2+ above : flux quality</Name>
       <ParameterKey>mav_stakp_o2_qual_above</ParameterKey>
       <Description>Number of counts in the measurement</Description>
-      <UCD/>
       <Units>counts</Units>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
       </Support>
@@ -377,35 +328,23 @@
       <Name>h+ above : direction mso</Name>
       <ParameterKey>mav_stakp_h_mso</ParameterKey>
       <Description>H+ MSO direction of flux above TBD altitude determined from TBD APID while in Pickup and Scan mode</Description>
-      <UCD/>
-      <Units/>
-      <UnitsConversion/>
       <Structure>
         <Size>3</Size>
         <Element>
           <Name>x</Name>
           <Index>1</Index>
           <ParameterKey>mav_stakp_h_mso(0)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>y</Name>
           <Index>2</Index>
           <ParameterKey>mav_stakp_h_mso(1)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>z</Name>
           <Index>3</Index>
           <ParameterKey>mav_stakp_h_mso(2)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
       </Structure>
       <Particle>
         <ParticleType>Proton</ParticleType>
@@ -416,9 +355,7 @@
       <Name>h+ above : dir angular width</Name>
       <ParameterKey>mav_stakp_h_ang</ParameterKey>
       <Description>H+ flux angular width above TBD altitude determined from TBD APID while in Pickup and Scan mode</Description>
-      <UCD/>
       <Units>degrees</Units>
-      <UnitsConversion/>
       <Particle>
         <ParticleType>Proton</ParticleType>
         <ParticleQuantity>ArrivalDirection</ParticleQuantity>
@@ -428,9 +365,7 @@
       <Name>h+ above : direction quality</Name>
       <ParameterKey>mav_stakp_h_dir_qual</ParameterKey>
       <Description>Number of counts in the measurement</Description>
-      <UCD/>
       <Units>counts</Units>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
       </Support>
@@ -439,35 +374,23 @@
       <Name>pickup above : direction mso</Name>
       <ParameterKey>mav_stakp_p_mso</ParameterKey>
       <Description>Dominant pickup ion MSO direction of flux above TBD altitude determined from  APID D0 and CE while in Pickup, Eclipse and Protect mode</Description>
-      <UCD/>
-      <Units/>
-      <UnitsConversion/>
       <Structure>
         <Size>3</Size>
         <Element>
           <Name>x</Name>
           <Index>1</Index>
           <ParameterKey>mav_stakp_p_mso(0)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>y</Name>
           <Index>2</Index>
           <ParameterKey>mav_stakp_p_mso(1)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>z</Name>
           <Index>3</Index>
           <ParameterKey>mav_stakp_p_mso(2)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
       </Structure>
       <Particle>
         <ParticleType>Ion</ParticleType>
@@ -478,9 +401,7 @@
       <Name>pickup above : dir angular width</Name>
       <ParameterKey>mav_stakp_p_ang</ParameterKey>
       <Description>Dominant pickup ion flux angular width above TBD altitude determined from APID D0 and CE while in Pickup, Eclipse and Protect mode</Description>
-      <UCD/>
       <Units>degrees</Units>
-      <UnitsConversion/>
       <Particle>
         <ParticleType>Ion</ParticleType>
         <ParticleQuantity>ArrivalDirection</ParticleQuantity>
@@ -490,9 +411,7 @@
       <Name>pickup above : direction quality</Name>
       <ParameterKey>mav_stakp_p_dir_qual</ParameterKey>
       <Description>Number of counts in the measurement</Description>
-      <UCD/>
       <Units>counts</Units>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
       </Support>

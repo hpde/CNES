@@ -76,9 +76,7 @@
       <Name>j_gse</Name>
       <ParameterKey>mms4_brst_jgse</ParameterKey>
       <Description>Electric current = 1.6e-10*(mms4_brst_desm_n+mms4_brst_dism_n)*0.5*(mms4_brst_dism_v-mms4_brst_desm_v)</Description>
-      <UCD/>
       <Units>A/m**2</Units>
-      <UnitsConversion/>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
         <CoordinateSystemName>GSE</CoordinateSystemName>

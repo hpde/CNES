@@ -7,7 +7,7 @@
       <ResourceName>e spectral density</ResourceName>
       <AlternateName>ac electric field spectral density / srvy / l2</AlternateName>
       <ReleaseDate>2022-09-29T03:01:24Z</ReleaseDate>
-      <Description/>
+      <Description>ToDo</Description>
       <Contact>
         <PersonID>spase://SMWG/Person/James.L.Burch</PersonID>
         <Role>PrincipalInvestigator</Role>
@@ -75,10 +75,7 @@
     <Parameter>
       <Name>e spec dens</Name>
       <ParameterKey>mms1_edp_espec</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>(V/m)**2/Hz</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>

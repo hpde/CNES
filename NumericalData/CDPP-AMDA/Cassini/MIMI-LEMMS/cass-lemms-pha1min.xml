@@ -70,7 +70,6 @@
     <Parameter>
       <Name>ions A</Name>
       <ParameterKey>cass_lemms_pha1mina</ParameterKey>
-      <Description/>
       <UCD>phot.count;phys.atmol.ionStage</UCD>
       <Units>cm-2.sr-1.s-1.keV-1</Units>
       <RenderingHints>
@@ -84,7 +83,6 @@
     <Parameter>
       <Name>electrons E</Name>
       <ParameterKey>cass_lemms_pha1mine</ParameterKey>
-      <Description/>
       <UCD>phot.count;phys.electron</UCD>
       <Units>cm-2.sr-1.s-1.keV-1</Units>
       <RenderingHints>
@@ -98,7 +96,6 @@
     <Parameter>
       <Name>electrons F1</Name>
       <ParameterKey>cass_lemms_pha1minf1</ParameterKey>
-      <Description/>
       <UCD>phot.count;phys.electron</UCD>
       <Units>cm-2.sr-1.s-1.keV-1</Units>
       <RenderingHints>

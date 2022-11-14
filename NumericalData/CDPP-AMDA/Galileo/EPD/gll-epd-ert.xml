@@ -110,8 +110,6 @@
     <Parameter>
       <Name>L-shell</Name>
       <ParameterKey>gll_epd_l_e</ParameterKey>
-      <UCD/>
-      <Units/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -122,7 +120,6 @@
     <Parameter>
       <Name>e- : E[0-3] : cnts</Name>
       <ParameterKey>gll_epd_ecounts</ParameterKey>
-      <UCD/>
       <Units>s**-1</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
@@ -138,7 +135,6 @@
     <Parameter>
       <Name>e- : E[0-3] : flux</Name>
       <ParameterKey>gll_epd_eflux</ParameterKey>
-      <UCD/>
       <Units>cm**-2.s**-1.sr**-1.keV**-1</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
@@ -154,7 +150,6 @@
     <Parameter>
       <Name>e- : F[0-3] : cnts</Name>
       <ParameterKey>gll_epd_fcounts</ParameterKey>
-      <UCD/>
       <Units>s**-1</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
@@ -170,7 +165,6 @@
     <Parameter>
       <Name>e- : F[0-3] : flux</Name>
       <ParameterKey>gll_epd_fflux</ParameterKey>
-      <UCD/>
       <Units>cm**-2.s**-1.sr**-1.keV**-1</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
@@ -186,7 +180,6 @@
     <Parameter>
       <Name>e- : B1 : cnts</Name>
       <ParameterKey>gll_epd_bcnts_e</ParameterKey>
-      <UCD/>
       <Units>s**-1</Units>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
@@ -199,7 +192,6 @@
     <Parameter>
       <Name>e- : DC[0-3] : cnts</Name>
       <ParameterKey>gll_epd_dccounts</ParameterKey>
-      <UCD/>
       <Units>s**-1</Units>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>

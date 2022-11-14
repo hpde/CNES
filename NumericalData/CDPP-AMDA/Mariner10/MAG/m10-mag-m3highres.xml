@@ -17,8 +17,7 @@
       <InformationURL>
         <Name>NASA Planetary Data System</Name>
         <URL>https://pds-ppi.igpp.ucla.edu/search/view/?id=pds://PPI/M10-H-MAG-3-RDR-M3-HIGHRES-V.1.0</URL>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
       <Association>
         <AssociationID>cass-mag-fb3</AssociationID>
         <AssociationType>PartOf</AssociationType>

@@ -39,10 +39,8 @@
         <Role>DataProducer</Role>
       </Contact>
       <InformationURL>
-        <Name/>
         <URL/>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
       <Association>
         <AssociationID>ros-elc-all</AssociationID>
         <AssociationType>PartOf</AssociationType>
@@ -103,10 +101,7 @@ elevation steps 6 and 7 a high count rate may be seen in anodes 8 - 10.
     <Parameter>
       <Name>e- countrate</Name>
       <ParameterKey>ros_elc_az</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>s**-1</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>

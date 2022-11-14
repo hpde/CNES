@@ -24,7 +24,7 @@
       </InformationURL>      
     </ResourceHeader>
    <InstrumentType>Magnetometer</InstrumentType>
-    <InvestigationName></InvestigationName>
+    <InvestigationName>Fluxgate Magnetometer</InvestigationName>
     <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/VEX</ObservatoryID>
   </Instrument>
 </Spase>

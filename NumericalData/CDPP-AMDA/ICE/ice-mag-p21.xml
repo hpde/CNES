@@ -17,7 +17,6 @@ system since the spacecraft Z-axis is maintained within half a degree
 of perpendicular to the Ecliptic plane.  (SE is defined the same way
 as GSE, but with the spacecraft [point of observation] substituted
 for Earth). </Description>
-      <Acknowledgement/>
       <Contact>
         <PersonID>spase://SMWG/Person/Elena.Budnik</PersonID>
         <Role>TechnicalContact</Role>
@@ -66,7 +65,6 @@ for Earth). </Description>
     <Parameter>
       <Name>b_cse</Name>
       <ParameterKey>ice_b_cse</ParameterKey>
-      <Description/>
       <UCD>phys.magField</UCD>
       <Units>nT</Units>
       <RenderingHints>

@@ -5,11 +5,9 @@
     <ResourceID>spase://CNES/Instrument/CDPP-AMDA/Cassini/Moons_Ephemeris</ResourceID>
     <ResourceHeader>
       <ResourceName>Ephemeris: Saturn Moons : special</ResourceName>
-      <AlternateName/>
       <ReleaseDate>2017-05-20T21:10:13Z</ReleaseDate>
       <Description>Ephemeris for Saturn moons, some special coordinate systems. 'Regular' ephemeris are in "Astronomical Objects Ephemerides, Saturn Moons" </Description>
-      <Acknowledgement/>
-       <Contact>       
+      <Contact>       
         <PersonID>spase://CNES/Person/CDPP-AMDA/NAIF</PersonID> 
         <Role>PrincipalInvestigator</Role>
       </Contact>
@@ -21,11 +19,9 @@
         <Name>Joseph Groene Page</Name>
         <URL>http://www-pw.physics.uiowa.edu/~jbg/cas.html</URL>
       </InformationURL> 
-      <PriorID/>
-    </ResourceHeader>
+      </ResourceHeader>
     <InstrumentType>Platform</InstrumentType>
     <InvestigationName/>
     <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/Cassini</ObservatoryID>
-    <Caveats/>
-  </Instrument>
+    </Instrument>
 </Spase>

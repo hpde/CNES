@@ -6,7 +6,7 @@
     <ResourceHeader>
       <ResourceName>high resolution</ResourceName>
       <ReleaseDate>2020-07-10T10:55:42Z</ReleaseDate>
-      <Description/>
+      <Description>ToDo</Description>
       <Contact>
         <PersonID>spase://SMWG/Person/Stanislav.A.Romanov</PersonID>
         <Role>PrincipalInvestigator</Role>
@@ -136,7 +136,6 @@
     <Parameter>
       <Name>|b|</Name>
       <ParameterKey>it_b_tot</ParameterKey>
-      <Description/>
       <Units>nT</Units>
       <Field>
         <Qualifier>Magnitude</Qualifier>

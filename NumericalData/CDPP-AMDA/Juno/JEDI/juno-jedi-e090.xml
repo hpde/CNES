@@ -5,9 +5,8 @@
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/Juno/JEDI/juno-jedi-e090</ResourceID>
     <ResourceHeader>
       <ResourceName>instrument-90</ResourceName>
-      <AlternateName/>
       <ReleaseDate>2022-01-27T11:22:57Z</ReleaseDate>
-      <Description/>
+      <Description>ToDo</Description>
       <Contact>
         <PersonID>spase://SMWG/Person/Barry.H.Mauk</PersonID>
         <Role>PrincipalInvestigator</Role>
@@ -59,20 +58,13 @@
       <CadenceMax>PT3S</CadenceMax>
     </TemporalDescription>
     <ObservedRegion>Jupiter</ObservedRegion>
-    <Caveats/>
     <Parameter>
       <Name>counts</Name>
       <ParameterKey>jedi_e90_counts</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>counts</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
-      <Structure>
-        <Size/>
-      </Structure>
       <Particle>
         <ParticleType>Electron</ParticleType>
         <ParticleQuantity>Counts</ParticleQuantity>
@@ -81,16 +73,10 @@
     <Parameter>
       <Name>diff flux</Name>
       <ParameterKey>jedi_e90_flux</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>counts per sec cm^2 ster keV</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
-      <Structure>
-        <Size/>
-      </Structure>
       <Particle>
         <ParticleType>Electron</ParticleType>
         <ParticleQuantity>NumberFlux</ParticleQuantity>
@@ -99,16 +85,10 @@
     <Parameter>
       <Name>counts/sec</Name>
       <ParameterKey>jedi_e90_cps</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>counts per sec</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
-      <Structure>
-        <Size/>
-      </Structure>
       <Particle>
         <ParticleType>Electron</ParticleType>
         <ParticleQuantity>CountRate</ParticleQuantity>
@@ -117,10 +97,6 @@
     <Parameter>
       <Name>mode</Name>
       <ParameterKey>jedi_e90_mode</ParameterKey>
-      <Description/>
-      <UCD/>
-      <Units/>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>

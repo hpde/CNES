@@ -8,16 +8,14 @@
       <AlternateName>BepiColombo Orbit</AlternateName>
       <ReleaseDate>2017-05-20T21:10:13Z</ReleaseDate>
       <Description>Bepi Ephemeris are calculated in IRAP by using BepiColombo SPICE kernels</Description>
-      <Acknowledgement/>
+      <Acknowledgement>Please acknowledge the European Space Agency, ESA, and the Japanese Aerospace Exploration Agency, JAXA</Acknowledgement>
        <Contact>       
          <PersonID>spase://CNES/Person/CDPP-AMDA/Marc.Sitja</PersonID> 
          <Role>PrincipalInvestigator</Role>
        </Contact>               
-      <PriorID/>
     </ResourceHeader>
     <InstrumentType>Platform</InstrumentType>
-    <InvestigationName/>
+    <InvestigationName>Spacecraft Position</InvestigationName>
     <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/BepiColombo</ObservatoryID>
-    <Caveats/>
   </Instrument>
 </Spase>

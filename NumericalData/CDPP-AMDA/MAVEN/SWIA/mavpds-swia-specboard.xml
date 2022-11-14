@@ -70,7 +70,6 @@
       <Description>Onboard Survey Spectra - Ion energy spectra  from SWIA coarse data</Description>
       <UCD>phys.atmol.ionStage</UCD>
       <Units>cnts</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -90,7 +89,6 @@
             (LID = urn:nasa:pds:maven.swia.calibrated:data.onboard_svy_spec)</Description>
       <UCD>phys.atmol.ionStage</UCD>
       <Units>eV/cm^2 sr eV</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>

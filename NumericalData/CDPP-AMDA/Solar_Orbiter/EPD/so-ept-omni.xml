@@ -28,8 +28,7 @@
       <InformationURL>
         <Name>SolO Archive Support Data</Name>
         <URL>https://issues.cosmos.esa.int/solarorbiterwiki/display/SOSP/Archive+Support+Data</URL>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
       <Association>
         <AssociationID>solo-epd-eptsun</AssociationID>
         <AssociationType>PartOf</AssociationType>
@@ -86,9 +85,7 @@
       <Name>ion flux : omni</Name>
       <ParameterKey>solo_ept_omni_iflux</ParameterKey>
       <Description>Particle flux in magnet channel</Description>
-      <UCD/>
       <Units>1/(s cm^2 sr MeV)</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -104,9 +101,7 @@
       <Name>alpha flux: omni</Name>
       <ParameterKey>solo_ept_omni_aflux</ParameterKey>
       <Description>High energy particle flux in magnet channel</Description>
-      <UCD/>
       <Units>1/(s cm^2 sr MeV)</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>

@@ -21,8 +21,7 @@
       <InformationURL>
         <Name>Model description</Name>
         <URL>http://onlinelibrary.wiley.com/doi/10.1002/2013JE004555/abstract</URL>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
       <PriorID>mgs-orb-all</PriorID>
     </ResourceHeader>
     <AccessInformation>
@@ -64,14 +63,10 @@
       <Cadence>PT1M</Cadence>
     </TemporalDescription>
     <ObservedRegion>Mars</ObservedRegion>
-    <Caveats/>
     <Parameter>
       <Name>b_mso</Name>
       <ParameterKey>bmorsch_mso_60_xyz_mgs_mso</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>nT</Units>
-      <UnitsConversion/>
       <Structure>
         <Size>3</Size>
         <Element>
@@ -100,8 +95,6 @@
     <Parameter>
       <Name>|b|</Name>
       <ParameterKey>bmorsch_tot_60_xyz_mgs_mso</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>nT</Units>
       <Field>
         <FieldQuantity>Magnetic</FieldQuantity>

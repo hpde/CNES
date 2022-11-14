@@ -7,7 +7,7 @@
       <ResourceName>GNSS</ResourceName>
       <AlternateName>Global Navigation Satellite System</AlternateName>
       <ReleaseDate>2016-11-04T15:37:46Z</ReleaseDate>
-      <Description></Description>  
+      <Description>ToDo</Description>  
        <Contact>
          <PersonID>spase://CNES/Person/CDPP-AMDA/R.Haagmans</PersonID>
         <Role>ProjectScientist</Role> 
@@ -15,11 +15,10 @@
       <InformationURL>
         <Name>TEC dataset description</Name>
         <URL>https://earth.esa.int/web/guest/document-library/browse-document-library/-/article/swarm-level-2-tec-product-description</URL>
-        <Description/>
-      </InformationURL>     
+        </InformationURL>     
     </ResourceHeader>
     <InstrumentType>Antenna</InstrumentType>
-    <InvestigationName/>
+    <InvestigationName>Global Navigation Satellite System</InvestigationName>
     <OperatingSpan>
       <StartDate>2013-12-02T00:00:00</StartDate>
     </OperatingSpan>

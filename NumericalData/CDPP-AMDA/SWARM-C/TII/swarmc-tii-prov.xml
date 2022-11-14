@@ -7,8 +7,7 @@
       <ResourceName>preliminary</ResourceName>
       <AlternateName>Preliminary EFI TII Dataset</AlternateName>
       <ReleaseDate>2019-06-14T09:54:25Z</ReleaseDate>
-      <Description/>
-      <Acknowledgement/>
+      <Description>ToDo</Description>
       <Contact>
         <PersonID>spase://CNES/Person/CDPP-AMDA/Johnathan.Burchill</PersonID>
         <Role>Scientist</Role>
@@ -16,8 +15,7 @@
       <InformationURL>
         <Name>Dataset Description</Name>
         <URL>ftp://swarm-diss.eo.esa.int/Advanced/Plasma_Data/2Hz_TII_Cross-track_Dataset/SW-RN-UoC-GS-004_TIICT_ReleaseNotes.ZIP</URL>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
     </ResourceHeader>
     <AccessInformation>
          <RepositoryID>spase://SMWG/Repository/CDPP/AMDA</RepositoryID>
@@ -68,9 +66,7 @@
       <Name>v sc</Name>
       <ParameterKey>swc_pr_v_sc</ParameterKey>
       <Description>Satellite velocity vector in North, East, Centre (NEC) frame</Description>
-      <UCD/>
       <Units>m/s</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -103,9 +99,7 @@
       <Name>v ion</Name>
       <ParameterKey>swc_pr_v_ion</ParameterKey>
       <Description>Ion velocity vector in North, East, Centre (NEC) frame</Description>
-      <UCD/>
       <Units>m/s</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -139,9 +133,7 @@
       <Name>e field</Name>
       <ParameterKey>swc_pr_e</ParameterKey>
       <Description>Electric field vector in NEC frame</Description>
-      <UCD/>
       <Units>mV/m</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -175,9 +167,7 @@
       <Name>t ion</Name>
       <ParameterKey>swc_pr_t</ParameterKey>
       <Description>Ion temperature</Description>
-      <UCD/>
       <Units>K</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>

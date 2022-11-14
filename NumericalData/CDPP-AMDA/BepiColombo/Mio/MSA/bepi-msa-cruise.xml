@@ -6,7 +6,7 @@
     <ResourceHeader>
       <ResourceName>cruise</ResourceName>
       <ReleaseDate>2022-04-04T14:28:18Z</ReleaseDate>
-      <Description/>
+      <Description>ToDo</Description>
       <Contact>
         <PersonID>spase://SMWG/Person/Yoshifumi.Saito</PersonID>
         <Role>PrincipalInvestigator</Role>
@@ -41,7 +41,6 @@
          <Acknowledgement>Thank you for acknowledging the use of AMDA in publications with wording like "Data analysis was performed with the AMDA science analysis system provided by the Centre de Données de la Physique des Plasmas (CDPP) supported by CNRS, CNES, Observatoire de Paris and Université Paul Sabatier, Toulouse".. See the Rules of the road at http://amda.cdpp.eu/help/policy.html. Please acknowledge the Data Providers.</Acknowledgement>
       </AccessInformation>
     <ProviderName>LPP</ProviderName>
-    <ProviderResourceName/>
     <InstrumentID>spase://CNES/Instrument/CDPP-AMDA/BepiColombo/Mio/MSA</InstrumentID>
     <MeasurementType>IonComposition</MeasurementType>
     <TemporalDescription>
@@ -55,7 +54,6 @@
     <Parameter>
       <Name>alpha : cnts</Name>
       <ParameterKey>msa_cruise_alpha</ParameterKey>
-      <Description/>
       <Units>cnts</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
@@ -68,7 +66,6 @@
     <Parameter>
       <Name>heavy : cnts</Name>
       <ParameterKey>msa_cruise_heavy</ParameterKey>
-      <Description/>
       <Units>cnts</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
@@ -81,7 +78,6 @@
     <Parameter>
       <Name>protons : cnts</Name>
       <ParameterKey>msa_cruise_protons</ParameterKey>
-      <Description/>
       <Units>cnts</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
@@ -94,7 +90,6 @@
     <Parameter>
       <Name>total : cnts</Name>
       <ParameterKey>msa_cruise_total</ParameterKey>
-      <Description/>
       <Units>cnts</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>

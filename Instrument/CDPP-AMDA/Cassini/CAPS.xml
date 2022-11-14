@@ -11,7 +11,6 @@
 * the Electron Spectrometer (ELS), which measures the flux of electrons as a function of energy/charge and aperture entry direction. Its energy range is 0.7 eV to 30 keV.
 * the Ion Beam Spectrometer (IBS), which measures the flux of positively charged ions of all species as a function of energy/charge and aperture entry direction.Its energy range is 1 eV to 50 keV.
 * the Ion Mass Spectrometer (IMS), which provides species-resolved measurements of the flux of positively charged atomic and molecular ions as a function of energy/charge vs. aperture entrydirection. Its energy range is 1 eV to 50 keV. </Description>
-      <Acknowledgement/>
       <Contact>
         <PersonID>spase://CNES/Person/CDPP-AMDA/J.Waite</PersonID>
         <Role>PrincipalInvestigator</Role>
@@ -20,11 +19,9 @@
         <Name>CAPS page at SWRI</Name>
         <URL>http://caps.space.swri.edu/caps/</URL>
       </InformationURL>
-      <PriorID></PriorID>
     </ResourceHeader>
     <InstrumentType>ElectrostaticAnalyser</InstrumentType>
-    <InvestigationName/>
+    <InvestigationName>Cassini Plasma Spectrometer on CAPS</InvestigationName>
     <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/Cassini</ObservatoryID>
-    <Caveats/>
   </Instrument>
 </Spase>

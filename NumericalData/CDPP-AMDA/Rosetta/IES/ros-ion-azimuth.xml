@@ -39,10 +39,8 @@
         <Role>DataProducer</Role>
       </Contact>
       <InformationURL>
-        <Name/>
         <URL/>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
       <Association>
         <AssociationID>ros-ion-all</AssociationID>
         <AssociationType>PartOf</AssociationType>
@@ -105,10 +103,7 @@ are combined.</Caveats>
     <Parameter>
       <Name>ion flux</Name>
       <ParameterKey>ros_ion_az_flux</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>eV/(m**2*s*sr*eV)</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>

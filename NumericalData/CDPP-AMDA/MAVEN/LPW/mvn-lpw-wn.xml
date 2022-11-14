@@ -75,9 +75,6 @@
        These are science quality data produced by the LPW instrument. The data include density</Description>
       <UCD>phys.density</UCD>
       <Units>cm-3</Units>
-      <UnitsConversion/>
-      <ValidMin/>
-      <ValidMax/>
       <FillValue>nan</FillValue>
       <Wave>
         <WaveType>Electrostatic</WaveType>
@@ -90,9 +87,6 @@
       <Description>Quality of Electron Density.The uncertainty of the
  values with a scale of 0-100. 100 is the best quality.  Use data with flag value
  above 50</Description>
-      <UCD/>
-      <Units/>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
       </Support>

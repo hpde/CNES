@@ -17,10 +17,8 @@
         <Role>TechnicalContact</Role>
       </Contact>
       <InformationURL>
-        <Name/>
         <URL/>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
       <PriorID>clust1-orb-all</PriorID>
     </ResourceHeader>
     <AccessInformation>
@@ -62,14 +60,11 @@
       <Cadence>PT1M</Cadence>
     </TemporalDescription>
     <ObservedRegion>Earth</ObservedRegion>
-    <Caveats/>
     <Parameter>
       <Name>dZ Fairfield70</Name>
       <ParameterKey>dz_fairfield70_c1_xyz_gse</ParameterKey>
       <Description>Distance (Re) from s/c location to Fairfield1970 neutral sheet position. Depends on spacecraft location in SM coordinates and dipole tilt angle. Valid for Ysm less than 15 Re.</Description>
-      <UCD/>
       <Units>Re</Units>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>
@@ -78,9 +73,7 @@
       <Name>dZ Fairfield80</Name>
       <ParameterKey>dz_fairfield80_c1_xyz_gse</ParameterKey>
       <Description>Distance (Re) from s/c location to Fairfield1980 neutral sheet position. Depends on spacecraft location in SM coordinates and dipole tilt angle.</Description>
-      <UCD/>
       <Units>Re</Units>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>

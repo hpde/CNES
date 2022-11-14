@@ -5,10 +5,8 @@
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/Solar_Orbiter/PAS/so-pas-3d</ResourceID>
     <ResourceHeader>
       <ResourceName>3D</ResourceName>
-      <AlternateName/>
       <ReleaseDate>2022-09-10T03:27:44Z</ReleaseDate>
-      <Description/>
-      <Acknowledgement/>
+      <Description>ToDo</Description>
       <Contact>
         <PersonID>spase://SMWG/Person/Philippe.Louarn</PersonID>
         <Role>PrincipalInvestigator</Role>
@@ -18,10 +16,8 @@
         <Role>PrincipalInvestigator</Role>
       </Contact>
       <InformationURL>
-        <Name/>
         <URL/>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
       <Association>
         <AssociationID>solo-pas-l1</AssociationID>
         <AssociationType>PartOf</AssociationType>
@@ -57,7 +53,6 @@
          <Acknowledgement>Thank you for acknowledging the use of AMDA in publications with wording like "Data analysis was performed with the AMDA science analysis system provided by the Centre de Données de la Physique des Plasmas (CDPP) supported by CNRS, CNES, Observatoire de Paris and Université Paul Sabatier, Toulouse".. See the Rules of the road at http://amda.cdpp.eu/help/policy.html. Please acknowledge the Data Providers.</Acknowledgement>
       </AccessInformation>
     <ProviderName>IRAP</ProviderName>
-    <ProviderResourceName/>
     <InstrumentID>spase://CNES/Instrument/CDPP-AMDA/Solar_Orbiter/PAS</InstrumentID>
     <MeasurementType>ThermalPlasma</MeasurementType>
     <TemporalDescription>
@@ -78,9 +73,6 @@
     <Parameter>
       <Name>energy : first</Name>
       <ParameterKey>pas_3d_e0</ParameterKey>
-      <Description/>
-      <UCD/>
-      <Units/>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
       </Support>
@@ -88,9 +80,6 @@
     <Parameter>
       <Name>energy : number</Name>
       <ParameterKey>pas_3d_e_nb</ParameterKey>
-      <Description/>
-      <UCD/>
-      <Units/>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
       </Support>
@@ -98,9 +87,6 @@
     <Parameter>
       <Name>elevation : first</Name>
       <ParameterKey>pas_3d_el0</ParameterKey>
-      <Description/>
-      <UCD/>
-      <Units/>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
       </Support>
@@ -108,9 +94,6 @@
     <Parameter>
       <Name>elevation : number</Name>
       <ParameterKey>pas_3d_el_nb</ParameterKey>
-      <Description/>
-      <UCD/>
-      <Units/>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
       </Support>
@@ -118,9 +101,6 @@
     <Parameter>
       <Name>cem : number</Name>
       <ParameterKey>pas_3d_cem_nb</ParameterKey>
-      <Description/>
-      <UCD/>
-      <Units/>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
       </Support>
@@ -128,9 +108,6 @@
     <Parameter>
       <Name>max cnt : energy</Name>
       <ParameterKey>pas_3d_max_e</ParameterKey>
-      <Description/>
-      <UCD/>
-      <Units/>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
       </Support>
@@ -138,9 +115,6 @@
     <Parameter>
       <Name>max cnt : elevation</Name>
       <ParameterKey>pas_3d_max_el</ParameterKey>
-      <Description/>
-      <UCD/>
-      <Units/>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
       </Support>
@@ -148,9 +122,6 @@
     <Parameter>
       <Name>max cnt : cem</Name>
       <ParameterKey>pas_3d_max_cem</ParameterKey>
-      <Description/>
-      <UCD/>
-      <Units/>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
       </Support>
@@ -158,7 +129,6 @@
     <Parameter>
       <Name> cnts per cem ##anode##</Name>
       <ParameterKey>pas_3d_spec</ParameterKey>
-      <Description/>
       <UCD>phys.count;phys.atmol.ionStage</UCD>
       <Units>cnts</Units>
       <RenderingHints>
@@ -171,7 +141,6 @@
     <Parameter>
       <Name>cnts sum on elev; cem/energy : 2D</Name>
       <ParameterKey>pas_2d_elevation</ParameterKey>
-      <Description/>
       <UCD>phys.count;phys.atmol.ionStage</UCD>
       <Units>cnts</Units>
       <RenderingHints>
@@ -185,7 +154,6 @@
     <Parameter>
       <Name>cnts sum on cem; elev/energy : 2D</Name>
       <ParameterKey>pas_2d_cem</ParameterKey>
-      <Description/>
       <UCD>phys.count;phys.atmol.ionStage</UCD>
       <Units>cnts</Units>
       <RenderingHints>
@@ -199,7 +167,6 @@
     <Parameter>
       <Name>cnts sum on energy; cem/elev : 2D</Name>
       <ParameterKey>pas_2d_energy</ParameterKey>
-      <Description/>
       <UCD>phys.count;phys.atmol.ionStage</UCD>
       <Units>cnts</Units>
       <RenderingHints>
@@ -213,7 +180,6 @@
     <Parameter>
       <Name>cnts sum per cem ##anode##</Name>
       <ParameterKey>pas_3d_sum</ParameterKey>
-      <Description/>
       <UCD>phys.count;phys.atmol.ionStage</UCD>
       <Units>cnts</Units>
       <Support>
@@ -223,7 +189,6 @@
     <Parameter>
       <Name>total cnts</Name>
       <ParameterKey>pas_3d_tot</ParameterKey>
-      <Description/>
       <UCD>phys.count;phys.atmol.ionStage</UCD>
       <Units>cnts</Units>
       <Support>
@@ -233,9 +198,6 @@
     <Parameter>
       <Name>source</Name>
       <ParameterKey>pas_3d_src</ParameterKey>
-      <Description/>
-      <UCD/>
-      <Units/>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
       </Support>

@@ -22,13 +22,11 @@
       <InformationURL>
         <Name>WDC for Geomagnetism - Kyoto, Japan</Name>
         <URL>http://wdc.kugi.kyoto-u.ac.jp/</URL>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
       <InformationURL>
         <Name>IAGA geomagnetic indices</Name>
         <URL>http://isgi.unistra.fr/indices_aa.php</URL>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
     </ResourceHeader>
     <AccessInformation>
          <RepositoryID>spase://SMWG/Repository/CDPP/AMDA</RepositoryID>
@@ -75,9 +73,7 @@
       <Name>AE</Name>
       <ParameterKey>ae</ParameterKey>
       <Description>Auroral Electrojet (AE = AU - AL)</Description>
-      <UCD/>
       <Units>nT</Units>
-      <UnitsConversion/>
       <Field>
         <FieldQuantity>Magnetic</FieldQuantity>
       </Field>
@@ -86,9 +82,7 @@
       <Name>AU</Name>
       <ParameterKey>au</ParameterKey>
       <Description>Auroral Electrojet Upper envelope</Description>
-      <UCD/>
       <Units>nT</Units>
-      <UnitsConversion/>
       <Field>
         <FieldQuantity>Magnetic</FieldQuantity>
       </Field>
@@ -97,9 +91,7 @@
       <Name>AL</Name>
       <ParameterKey>al</ParameterKey>
       <Description>Auroral Electrojet Lower envelope</Description>
-      <UCD/>
       <Units>nT</Units>
-      <UnitsConversion/>
       <Field>
         <FieldQuantity>Magnetic</FieldQuantity>
       </Field>
@@ -108,9 +100,7 @@
       <Name>AO</Name>
       <ParameterKey>ao</ParameterKey>
       <Description>Auroral Electrojet (AO = (AU + AL) / 2)</Description>
-      <UCD/>
       <Units>nT</Units>
-      <UnitsConversion/>
       <Field>
         <FieldQuantity>Magnetic</FieldQuantity>
       </Field>
@@ -119,9 +109,7 @@
       <Name>AP</Name>
       <ParameterKey>ap_wdc</ParameterKey>
       <Description>Auroral Power (Newell 2011)</Description>
-      <UCD/>
       <Units>GW</Units>
-      <UnitsConversion/>
       <Field>
         <FieldQuantity>Magnetic</FieldQuantity>
       </Field>

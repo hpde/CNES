@@ -93,7 +93,6 @@
       <Name>I</Name>
       <ParameterKey>jason_amb_i</ParameterKey>
       <Description>Longitudinal adiabatic invariant</Description>
-      <Units/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>

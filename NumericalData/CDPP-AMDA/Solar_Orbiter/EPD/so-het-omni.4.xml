@@ -23,8 +23,7 @@ Anti-Sun, North and South)
       <InformationURL>
         <Name>SolO Archive Support Data</Name>
         <URL>https://issues.cosmos.esa.int/solarorbiterwiki/display/SOSP/Archive+Support+Data</URL>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
       <Association>
         <AssociationID>solo-epd-het.4</AssociationID>
         <AssociationType>PartOf</AssociationType>
@@ -81,9 +80,7 @@ Anti-Sun, North and South)
       <Name>e- flux: omni</Name>
       <ParameterKey>solo_het_omni_eflux</ParameterKey>
       <Description>Electron flux</Description>
-      <UCD/>
       <Units>1/(s cm^2 sr MeV)</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -118,9 +115,7 @@ Anti-Sun, North and South)
       <Name>h flux: omni</Name>
       <ParameterKey>solo_het_omni_hhcflux</ParameterKey>
       <Description>Hydrogen flux</Description>
-      <UCD/>
       <Units>1/(s cm^2 sr MeV)</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>

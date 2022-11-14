@@ -52,7 +52,6 @@
          <Acknowledgement>Thank you for acknowledging the use of AMDA in publications with wording like "Data analysis was performed with the AMDA science analysis system provided by the Centre de Données de la Physique des Plasmas (CDPP) supported by CNRS, CNES, Observatoire de Paris and Université Paul Sabatier, Toulouse".. See the Rules of the road at http://amda.cdpp.eu/help/policy.html. Please acknowledge the Data Providers.</Acknowledgement>
       </AccessInformation>
     <ProviderName>IRAP</ProviderName>
-    <ProviderResourceName/>
     <ProviderProcessingLevel>Final</ProviderProcessingLevel>
     <InstrumentID>spase://CNES/Instrument/CDPP-AMDA/VEX/IMA</InstrumentID>
     <MeasurementType>IonComposition</MeasurementType>
@@ -66,7 +65,6 @@
     <ObservedRegion>Venus</ObservedRegion>
     <ObservedRegion>Venus.Magnetosphere</ObservedRegion>
     <ObservedRegion>Heliosphere.Inner</ObservedRegion>
-    <Caveats/>
     <Parameter>
       <Name>quality factor</Name>
       <ParameterKey>vex_ol2_qual</ParameterKey>
@@ -85,7 +83,6 @@
     <Parameter>
       <Name>DiffFlux : sum on elev; azim/energy : 2D</Name>
       <ParameterKey>vex_ol2_2d_elevation</ParameterKey>
-      <Description/>
       <Units>cm^-2 sr^-1 eV^-1 s^-1</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
@@ -98,7 +95,6 @@
     <Parameter>
       <Name>DiffFlux : sum on azim; elev/energy : 2D</Name>
       <ParameterKey>vex_ol2_2d_azimuth</ParameterKey>
-      <Description/>
       <Units>cm^-2 sr^-1 eV^-1 s^-1</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
@@ -111,7 +107,6 @@
     <Parameter>
       <Name>DiffFlux : sum on energy; azim/elev : 2D</Name>
       <ParameterKey>vex_ol2_2d_energy</ParameterKey>
-      <Description/>
       <Units>cm^-2 sr^-1 eV^-1 s^-1</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>

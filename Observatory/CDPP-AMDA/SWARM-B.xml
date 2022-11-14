@@ -7,9 +7,8 @@
       <ResourceName>Swarm-B</ResourceName>
       <AlternateName>Swarm Bravo</AlternateName>
       <ReleaseDate>2019-07-01T00:00:00Z</ReleaseDate>
-      <Description/>
-      <Acknowledgement/>
-       <Contact>
+      <Description>ToDo</Description>
+      <Contact>
         <PersonID>spase://CNES/Person/CDPP-AMDA/R.Floberghagen</PersonID>
         <Role>MissionManager</Role>
        </Contact>
@@ -20,8 +19,7 @@
       <InformationURL>
         <Name>Swarm Home Page</Name>
         <URL>https://earth.esa.int/web/guest/missions/esa-eo-missions/swarm/data-handbook</URL>
-        <Description/>        
-      </InformationURL>
+        </InformationURL>
     </ResourceHeader>
      <ObservatoryGroupID>spase://CNES/Observatory/CDPP-AMDA/SWARM</ObservatoryGroupID>
     <Location>      

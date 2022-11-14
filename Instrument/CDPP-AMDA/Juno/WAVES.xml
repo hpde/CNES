@@ -23,7 +23,7 @@
       </Contact>     
     </ResourceHeader>
     <InstrumentType>WaveformReceiver</InstrumentType>
-    <InvestigationName/>
+    <InvestigationName>Juno Waves</InvestigationName>
     <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/Juno</ObservatoryID>
   </Instrument>
 </Spase>

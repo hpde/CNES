@@ -28,11 +28,11 @@
         <Role>ProjectScientist</Role>
       </Contact>
       <Contact>
-        <PersonID>spase://CNES/Person/CDPP-AMDA/A.Nishida</PersonID>
+        <PersonID>spase://SMWG/Person/Atsuhiro.Nishida</PersonID>
         <Role>ProjectScientist</Role>
       </Contact>
       <Contact>
-        <PersonID>spase://CNES/Person/CDPP-AMDA/D.Fairfield</PersonID>
+        <PersonID>spase://SMWG/Person/Donald.H.Fairfield</PersonID>
         <Role>ProjectScientist</Role>
       </Contact>
       <InformationURL>

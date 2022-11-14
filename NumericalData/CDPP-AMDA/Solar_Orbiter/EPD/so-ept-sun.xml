@@ -31,8 +31,7 @@ Additionally, EPT has 2 channels that separate electrons and ions:
       <InformationURL>
         <Name>SolO Archive Support Data</Name>
         <URL>https://issues.cosmos.esa.int/solarorbiterwiki/display/SOSP/Archive+Support+Data</URL>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
       <Association>
         <AssociationID>solo-epd-eptsun</AssociationID>
         <AssociationType>PartOf</AssociationType>
@@ -85,9 +84,7 @@ Additionally, EPT has 2 channels that separate electrons and ions:
       <Name>ion flux: anti-sunward</Name>
       <ParameterKey>solo_ept_sun_iflux</ParameterKey>
       <Description>Particle flux in magnet channel</Description>
-      <UCD/>
       <Units>1/(s cm^2 sr MeV)</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -103,9 +100,7 @@ Additionally, EPT has 2 channels that separate electrons and ions:
       <Name>ion flux unc: anti-sunward</Name>
       <ParameterKey>solo_ept_sun_iunc</ParameterKey>
       <Description>Uncertainty in ion flux</Description>
-      <UCD/>
       <Units>1/(s cm^2 sr MeV)</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -121,9 +116,7 @@ Additionally, EPT has 2 channels that separate electrons and ions:
       <Name>ion cntrate: anti-sunward</Name>
       <ParameterKey>solo_ept_sun_irate</ParameterKey>
       <Description>Particle count rate in magnet channel</Description>
-      <UCD/>
       <Units>cnts/s</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -139,9 +132,7 @@ Additionally, EPT has 2 channels that separate electrons and ions:
       <Name>alpha flux: anti-sunward</Name>
       <ParameterKey>solo_ept_sun_aflux</ParameterKey>
       <Description>High energy particle flux in magnet channel</Description>
-      <UCD/>
       <Units>1/(s cm^2 sr MeV)</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -157,9 +148,7 @@ Additionally, EPT has 2 channels that separate electrons and ions:
       <Name>alpha flux unc: anti-sunward</Name>
       <ParameterKey>solo_ept_sun_aunc</ParameterKey>
       <Description>Uncertainty in alpha flux</Description>
-      <UCD/>
       <Units>1/(s cm^2 sr MeV)</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -175,9 +164,7 @@ Additionally, EPT has 2 channels that separate electrons and ions:
       <Name>alpha cntrate: anti-sunward</Name>
       <ParameterKey>solo_ept_sun_arate</ParameterKey>
       <Description>High energy particle count rate in magnet channel</Description>
-      <UCD/>
       <Units>cnts/s</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -193,9 +180,6 @@ Additionally, EPT has 2 channels that separate electrons and ions:
       <Name>quality flag: anti-sunward</Name>
       <ParameterKey>solo_ept_sun_qf</ParameterKey>
       <Description>0: Bad, 1: Known problems, 2: Survey data, 3: Good, 4: Excellent</Description>
-      <UCD/>
-      <Units/>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>

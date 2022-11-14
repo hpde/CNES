@@ -5,10 +5,8 @@
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/Solar_Orbiter/PAS/so-pas-mom</ResourceID>
     <ResourceHeader>
       <ResourceName>onboard moments</ResourceName>
-      <AlternateName/>
       <ReleaseDate>2022-09-23T03:18:16Z</ReleaseDate>
-      <Description/>
-      <Acknowledgement/>
+      <Description>ToDo</Description>
       <Contact>
         <PersonID>spase://SMWG/Person/Philippe.Louarn</PersonID>
         <Role>PrincipalInvestigator</Role>
@@ -18,10 +16,8 @@
         <Role>PrincipalInvestigator</Role>
       </Contact>
       <InformationURL>
-        <Name/>
         <URL/>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
       <Association>
         <AssociationID>solo-pas-l1</AssociationID>
         <AssociationType>PartOf</AssociationType>
@@ -57,7 +53,6 @@
          <Acknowledgement>Thank you for acknowledging the use of AMDA in publications with wording like "Data analysis was performed with the AMDA science analysis system provided by the Centre de Données de la Physique des Plasmas (CDPP) supported by CNRS, CNES, Observatoire de Paris and Université Paul Sabatier, Toulouse".. See the Rules of the road at http://amda.cdpp.eu/help/policy.html. Please acknowledge the Data Providers.</Acknowledgement>
       </AccessInformation>
     <ProviderName>IRAP</ProviderName>
-    <ProviderResourceName/>
     <InstrumentID>spase://CNES/Instrument/CDPP-AMDA/Solar_Orbiter/PAS</InstrumentID>
     <MeasurementType>ThermalPlasma</MeasurementType>
     <TemporalDescription>
@@ -72,8 +67,6 @@
     <Parameter>
       <Name>density</Name>
       <ParameterKey>pas_mom_n</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>cm**-3</Units>
       <Particle>
         <ParticleQuantity>NumberDensity</ParticleQuantity>
@@ -82,8 +75,6 @@
     <Parameter>
       <Name>v_s/c</Name>
       <ParameterKey>pas_mom_v</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>km/s</Units>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
@@ -125,8 +116,6 @@
     <Parameter>
       <Name>temperature</Name>
       <ParameterKey>pas_mom_t</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>eV</Units>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
@@ -138,8 +127,6 @@
     <Parameter>
       <Name>pressure_s/c</Name>
       <ParameterKey>pas_mom_press</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>J*cm**-3</Units>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>

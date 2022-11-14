@@ -55,7 +55,6 @@
       <Name>xyz_mso</Name>
       <ParameterKey>pho_xyz_mso</ParameterKey>
       <Description>Spacecraft position in MSO</Description>
-      <UCD/>
       <Units>Rm</Units>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
@@ -71,22 +70,19 @@
           <Qualifier>Component.I</Qualifier>
           <Index>1</Index>
           <ParameterKey>pho_xyz_mso(0)</ParameterKey>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>y</Name>
           <Qualifier>Component.J</Qualifier>
           <Index>2</Index>
           <ParameterKey>pho_xyz_mso(1)</ParameterKey>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>z</Name>
           <Qualifier>Component.K</Qualifier>
           <Index>3</Index>
           <ParameterKey>pho_xyz_mso(2)</ParameterKey>
-          <FillValue/>
-        </Element>
+          </Element>
       </Structure>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
@@ -96,7 +92,6 @@
       <Name>distance pho2-mars</Name>
       <ParameterKey>pho2_r</ParameterKey>
       <Description>Distance Phobos2 - Mars</Description>
-      <UCD/>
       <Units>Rm</Units>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>

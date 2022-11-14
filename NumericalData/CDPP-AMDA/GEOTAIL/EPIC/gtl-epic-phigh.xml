@@ -11,7 +11,6 @@
             * open - 58 - 77 keV
             * closed - 90 - 110 keV
          </Description>
-      <Acknowledgement/>
       <Contact>
         <PersonID>spase://CNES/Person/CDPP-AMDA/Stuart.Nyland</PersonID>
         <Role>DataProducer</Role>
@@ -25,10 +24,8 @@
         <Role>TechnicalContact</Role>
       </Contact>
       <InformationURL>
-        <Name/>
         <URL/>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
       <Association>
         <AssociationID>gtl-ics-high</AssociationID>
         <AssociationType>PartOf</AssociationType>
@@ -79,8 +76,6 @@
     <Parameter>
       <Name>h+ ave</Name>
       <ParameterKey>gtl_phigh_av</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>1/(cm**2-s-sr-kev)</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
@@ -93,9 +88,6 @@
     <Parameter>
       <Name>apperture flag head1</Name>
       <ParameterKey>gtl_phigh_app1</ParameterKey>
-      <Description/>
-      <UCD/>
-      <Units/>
       <Support>
         <SupportQuantity>InstrumentMode</SupportQuantity>
       </Support>
@@ -103,9 +95,6 @@
     <Parameter>
       <Name>apperture flag head2</Name>
       <ParameterKey>gtl_phigh_app2</ParameterKey>
-      <Description/>
-      <UCD/>
-      <Units/>
       <Support>
         <SupportQuantity>InstrumentMode</SupportQuantity>
       </Support>
@@ -113,8 +102,6 @@
     <Parameter>
       <Name>h+ ave : omni</Name>
       <ParameterKey>gtl_phigh_omni</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>1/(cm**2-s-sr-kev)</Units>
       <Particle>
         <ParticleType>Proton</ParticleType>
@@ -124,8 +111,6 @@
     <Parameter>
       <Name>h+ ave : tail</Name>
       <ParameterKey>gtl_phigh_tail</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>1/(cm**2-s-sr-kev)</Units>
       <Particle>
         <ParticleType>Proton</ParticleType>
@@ -135,8 +120,6 @@
     <Parameter>
       <Name>h+ ave : dawn</Name>
       <ParameterKey>gtl_phigh_dawn</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>1/(cm**2-s-sr-kev)</Units>
       <Particle>
         <ParticleType>Proton</ParticleType>
@@ -146,8 +129,6 @@
     <Parameter>
       <Name>h+ ave : sun</Name>
       <ParameterKey>gtl_phigh_sun</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>1/(cm**2-s-sr-kev)</Units>
       <Particle>
         <ParticleType>Proton</ParticleType>
@@ -157,8 +138,6 @@
     <Parameter>
       <Name>h+ ave : dusk</Name>
       <ParameterKey>gtl_phigh_dusk</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>1/(cm**2-s-sr-kev)</Units>
       <Particle>
         <ParticleType>Proton</ParticleType>
@@ -168,8 +147,6 @@
     <Parameter>
       <Name>h+ : head 1</Name>
       <ParameterKey>gtl_phigh_head1</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>1/(cm**2-s-sr-kev)</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
@@ -182,8 +159,6 @@
     <Parameter>
       <Name>h+ : head 2</Name>
       <ParameterKey>gtl_phigh_head2</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>1/(cm**2-s-sr-kev)</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>

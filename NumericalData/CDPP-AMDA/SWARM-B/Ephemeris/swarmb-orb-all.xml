@@ -7,8 +7,7 @@
       <ResourceName>position in ITRF</ResourceName>
       <AlternateName>Swarm-B orbital information from FAC dataset</AlternateName>
       <ReleaseDate>2022-09-29T02:21:54Z</ReleaseDate>
-      <Description/>
-      <Acknowledgement/>
+      <Description>ToDo</Description>
       <Contact>
         <PersonID>spase://CNES/Person/CDPP-AMDA/R.Haagmans</PersonID>
         <Role>ProjectScientist</Role>
@@ -16,8 +15,7 @@
       <InformationURL>
         <Name>Swarm Home Page</Name>
         <URL>https://earth.esa.int/web/guest/missions/esa-eo-missions/swarm/data-handbook</URL>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
       <Association>
         <AssociationID>swarmb-orb1</AssociationID>
         <AssociationType>PartOf</AssociationType>
@@ -70,7 +68,6 @@
       <Description>Position in ITRF, Radius</Description>
       <UCD> </UCD>
       <Units>km</Units>
-      <UnitsConversion/>
       <CoordinateSystem>
         <CoordinateRepresentation>Spherical</CoordinateRepresentation>
         <CoordinateSystemName>GEO</CoordinateSystemName>
@@ -78,7 +75,6 @@
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
-      <FillValue/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>
@@ -89,7 +85,6 @@
       <Description>Position in ITRF, Longitude</Description>
       <UCD> </UCD>
       <Units>deg</Units>
-      <UnitsConversion/>
       <CoordinateSystem>
         <CoordinateRepresentation>Spherical</CoordinateRepresentation>
         <CoordinateSystemName>GEO</CoordinateSystemName>
@@ -97,7 +92,6 @@
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
-      <FillValue/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>
@@ -108,7 +102,6 @@
       <Description>Position in ITRF, Latitude</Description>
       <UCD> </UCD>
       <Units>deg</Units>
-      <UnitsConversion/>
       <CoordinateSystem>
         <CoordinateRepresentation>Spherical</CoordinateRepresentation>
         <CoordinateSystemName>GEO</CoordinateSystemName>
@@ -116,7 +109,6 @@
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
-      <FillValue/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>

@@ -5,7 +5,6 @@
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/Solar_Orbiter/RPW/solo-rpw-scpot10s</ResourceID>
     <ResourceHeader>
       <ResourceName>spacecraft potential (10 s)</ResourceName>
-      <AlternateName/>
       <ReleaseDate>2021-11-15T06:53:35Z</ReleaseDate>
       <Description>Solar Orbiter Radio/Plasma Wave, LFR L3 spacecraft potential, downsampled</Description>
       <Acknowledgement>Solar Orbiter/RPW Investigation (M. Maksimovic, PIs)</Acknowledgement>
@@ -14,10 +13,8 @@
         <Role>PrincipalInvestigator</Role>
       </Contact>
       <InformationURL>
-        <Name/>
         <URL/>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
       <Association>
         <AssociationID>solo-rpw-l3</AssociationID>
         <AssociationType>PartOf</AssociationType>
@@ -54,7 +51,6 @@
       </AccessInformation>
     <ProcessingLevel>Calibrated</ProcessingLevel>
     <ProviderName>SOAR</ProviderName>
-    <ProviderResourceName/>
     <ProviderProcessingLevel>Calibrated</ProviderProcessingLevel>
     <InstrumentID>spase://CNES/Instrument/CDPP-AMDA/Solar_Orbiter/RPW</InstrumentID>
     <MeasurementType>ElectricField</MeasurementType>

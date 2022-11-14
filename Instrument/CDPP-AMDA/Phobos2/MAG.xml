@@ -7,8 +7,7 @@
       <ResourceName>MAG</ResourceName>
       <AlternateName>MAGMA</AlternateName>
       <ReleaseDate>2019-11-18T16:00:05Z</ReleaseDate>
-      <Description/>
-      <Acknowledgement/>
+      <Description>ToDo</Description>
       <Contact>
         <PersonID>spase://SMWG/Person/Konrad.Schwingenschuh</PersonID>
         <Role>PrincipalInvestigator</Role>
@@ -19,7 +18,7 @@
       </InformationURL>                        
     </ResourceHeader>
     <InstrumentType>Magnetometer</InstrumentType>
-    <InvestigationName/>
+    <InvestigationName>Magnetometer on Phobos2</InvestigationName>
     <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/Phobos2</ObservatoryID>
   </Instrument>
 </Spase>

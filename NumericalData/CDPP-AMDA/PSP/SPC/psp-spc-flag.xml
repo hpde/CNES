@@ -107,7 +107,6 @@
     <Parameter>
       <Name>data quality flag</Name>
       <ParameterKey>psp_spc_dqf</ParameterKey>
-      <Description/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>

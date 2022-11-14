@@ -71,10 +71,6 @@ Ion instrument ﬂag takes the following values:
     <Parameter>
       <Name>status</Name>
       <ParameterKey>helios1_e1_flag</ParameterKey>
-      <Description/>
-      <UCD/>
-      <Units/>
-      <UnitsConversion/>
       <FillValue>-1</FillValue>
       <Support>
         <SupportQuantity>DataQuality</SupportQuantity>
@@ -83,10 +79,6 @@ Ion instrument ﬂag takes the following values:
     <Parameter>
       <Name>ion_instr</Name>
       <ParameterKey>helios1_e1_instr</ParameterKey>
-      <Description/>
-      <UCD/>
-      <Units/>
-      <UnitsConversion/>
       <FillValue>-1</FillValue>
       <Support>
         <SupportQuantity>InstrumentMode</SupportQuantity>
@@ -95,10 +87,7 @@ Ion instrument ﬂag takes the following values:
     <Parameter>
       <Name>density</Name>
       <ParameterKey>helios1_e1_np</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>cm^-3</Units>
-      <UnitsConversion/>
       <Particle>
         <ParticleType>Proton</ParticleType>
         <ParticleQuantity>NumberDensity</ParticleQuantity>
@@ -107,10 +96,7 @@ Ion instrument ﬂag takes the following values:
     <Parameter>
       <Name>t_para</Name>
       <ParameterKey>helios1_e1_t_para</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>eV</Units>
-      <UnitsConversion/>
       <Particle>
         <ParticleType>Proton</ParticleType>
         <ParticleQuantity>Temperature</ParticleQuantity>
@@ -119,10 +105,7 @@ Ion instrument ﬂag takes the following values:
     <Parameter>
       <Name>t_perp</Name>
       <ParameterKey>helios1_e1_t_perp</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>eV</Units>
-      <UnitsConversion/>
       <Particle>
         <ParticleType>Proton</ParticleType>
         <ParticleQuantity>Temperature</ParticleQuantity>
@@ -131,10 +114,7 @@ Ion instrument ﬂag takes the following values:
     <Parameter>
       <Name>v_thermal_para</Name>
       <ParameterKey>helios1_e1_vth_para</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>km/s</Units>
-      <UnitsConversion/>
       <Particle>
         <ParticleType>Proton</ParticleType>
         <ParticleQuantity>Velocity</ParticleQuantity>
@@ -143,10 +123,7 @@ Ion instrument ﬂag takes the following values:
     <Parameter>
       <Name>v_thermal_perp</Name>
       <ParameterKey>helios1_e1_vth_perp</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>km/s</Units>
-      <UnitsConversion/>
       <Particle>
         <ParticleType>Proton</ParticleType>
         <ParticleQuantity>Velocity</ParticleQuantity>
@@ -155,36 +132,24 @@ Ion instrument ﬂag takes the following values:
     <Parameter>
       <Name>v_rtn</Name>
       <ParameterKey>helios1_e1_vp</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>km/s</Units>
-      <UnitsConversion/>
       <Structure>
         <Size>3</Size>
         <Element>
           <Name>vr</Name>
           <Index>1</Index>
           <ParameterKey>helios1_e1_vp(0)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>vt</Name>
           <Index>2</Index>
           <ParameterKey>helios1_e1_vp(1)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>vn</Name>
           <Index>3</Index>
           <ParameterKey>helios1_e1_vp(2)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
       </Structure>
       <Particle>
         <ParticleType>Proton</ParticleType>

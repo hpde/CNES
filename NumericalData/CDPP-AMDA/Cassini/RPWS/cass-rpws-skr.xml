@@ -137,7 +137,6 @@
       <ParameterKey>skr_v</ParameterKey>
       <Description>SKR Circular polarization degree</Description>
       <UCD>phys.polarization.circular;phys.elecField;em.radio</UCD>
-      <Units/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>

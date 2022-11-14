@@ -68,7 +68,6 @@
     <Parameter>
       <Name>eflux h+</Name>
       <ParameterKey>mes_fips_spec_h</ParameterKey>
-      <UCD/>
       <Units>(keV/e)^-1 s^-1 cm^-2 sr^-1</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
@@ -80,7 +79,6 @@
     <Parameter>
       <Name>eflux he2+</Name>
       <ParameterKey>mes_fips_spec_he2</ParameterKey>
-      <UCD/>
       <Units>(keV/e)^-1 s^-1 cm^-2 sr^-1</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
@@ -92,7 +90,6 @@
     <Parameter>
       <Name>eflux he+</Name>
       <ParameterKey>mes_fips_spec_he</ParameterKey>
-      <UCD/>
       <Units>(keV/e)^-1 s^-1 cm^-2 sr^-1</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
@@ -104,7 +101,6 @@
     <Parameter>
       <Name>eflux na+</Name>
       <ParameterKey>mes_fips_spec_na</ParameterKey>
-      <UCD/>
       <Units>(keV/e)^-1 s^-1 cm^-2 sr^-1</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
@@ -116,7 +112,6 @@
     <Parameter>
       <Name>eflux o+</Name>
       <ParameterKey>mes_fips_spec_o</ParameterKey>
-      <UCD/>
       <Units>(keV/e)^-1 s^-1 cm^-2 sr^-1</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>

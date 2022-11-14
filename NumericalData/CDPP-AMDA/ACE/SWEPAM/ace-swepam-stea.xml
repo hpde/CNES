@@ -26,7 +26,6 @@ Also note that the detector gains on the SWEPAM-E instrument change over time, i
         <Role>TechnicalContact</Role>
       </Contact>
       <InformationURL>
-        <Name/>
         <URL>http://www.srl.caltech.edu/ACE/ASC/DATA/level3/swepam/</URL>
       </InformationURL>
       <InformationURL>
@@ -69,7 +68,6 @@ Also note that the detector gains on the SWEPAM-E instrument change over time, i
          <Acknowledgement>Thank you for acknowledging the use of AMDA in publications with wording like "Data analysis was performed with the AMDA science analysis system provided by the Centre de Données de la Physique des Plasmas (CDPP) supported by CNRS, CNES, Observatoire de Paris and Université Paul Sabatier, Toulouse".. See the Rules of the road at http://amda.cdpp.eu/help/policy.html. Please acknowledge the Data Providers.</Acknowledgement>
       </AccessInformation>
     <ProviderName>CalTech</ProviderName>
-    <ProviderResourceName/>
     <InstrumentID>spase://CNES/Instrument/CDPP-AMDA/ACE/SWEPAM</InstrumentID>
     <MeasurementType>ThermalPlasma</MeasurementType>
     <TemporalDescription>
@@ -84,7 +82,6 @@ Also note that the detector gains on the SWEPAM-E instrument change over time, i
     <Parameter>
       <Name>e- pitch angle : 272 eV</Name>
       <ParameterKey>ace_swepam_stea_epa</ParameterKey>
-      <UCD/>
       <Units>s^3 cm^-6</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>

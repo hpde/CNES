@@ -125,7 +125,6 @@
     <Parameter>
       <Name>mex_orbit_num</Name>
       <ParameterKey>mex_orb_num</ParameterKey>
-      <Units/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>

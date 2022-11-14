@@ -22,10 +22,8 @@
         <Role>DataProducer</Role>
       </Contact>
       <InformationURL>
-        <Name/>
         <URL/>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
       <Association>
         <AssociationID>ros-ion-all</AssociationID>
         <AssociationType>PartOf</AssociationType>
@@ -74,14 +72,10 @@
       <CadenceMax>PT1024S</CadenceMax>
     </TemporalDescription>
     <ObservedRegion>Comet</ObservedRegion>
-    <Caveats/>
     <Parameter>
       <Name>ion flux</Name>
       <ParameterKey>ros_ion_eflux</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>eV/(m**2*s*sr*eV)</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>

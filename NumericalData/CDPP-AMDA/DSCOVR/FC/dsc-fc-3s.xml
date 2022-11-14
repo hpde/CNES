@@ -23,8 +23,7 @@
       <InformationURL>
         <Name>Data description</Name>
         <URL>http://doi.org/10.7289/V51Z42F7</URL>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
     </ResourceHeader>
     <AccessInformation>
          <RepositoryID>spase://SMWG/Repository/CDPP/AMDA</RepositoryID>
@@ -66,18 +65,13 @@
       <Cadence>PT3S</Cadence>
     </TemporalDescription>
     <ObservedRegion>Heliosphere.NearEarth</ObservedRegion>
-    <Caveats/>
     <Parameter>
       <Name>proton density</Name>
       <ParameterKey>dsc_npr_3s</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>cm^-3</Units>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
-      <ValidMin/>
-      <ValidMax/>
       <FillValue>-99999.</FillValue>
       <Particle>
         <ParticleType>Proton</ParticleType>
@@ -87,14 +81,10 @@
     <Parameter>
       <Name>proton temperature</Name>
       <ParameterKey>dsc_tpr_3s</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>eV</Units>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
-      <ValidMin/>
-      <ValidMax/>
       <FillValue>-99999.</FillValue>
       <Particle>
         <ParticleType>Proton</ParticleType>
@@ -104,14 +94,10 @@
     <Parameter>
       <Name>proton |v|</Name>
       <ParameterKey>dsc_vpr_3s</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>km/s</Units>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
-      <ValidMin/>
-      <ValidMax/>
       <FillValue>-99999.</FillValue>
       <Particle>
         <ParticleType>Proton</ParticleType>
@@ -121,8 +107,6 @@
     <Parameter>
       <Name>proton v_gse</Name>
       <ParameterKey>dsc_vpr_3s_gse</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>km/s</Units>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
@@ -138,8 +122,6 @@
           <Qualifier>Component.I</Qualifier>
           <Index>1</Index>
           <ParameterKey>dsc_vpr_3s_gse(0)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
           <FillValue>-99999.</FillValue>
         </Element>
         <Element>
@@ -147,8 +129,6 @@
           <Qualifier>Component.J</Qualifier>
           <Index>2</Index>
           <ParameterKey>dsc_vpr_3s_gse(1)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
           <FillValue>-99999.</FillValue>
         </Element>
         <Element>
@@ -156,8 +136,6 @@
           <Qualifier>Component.K</Qualifier>
           <Index>3</Index>
           <ParameterKey>dsc_vpr_3s_gse(2)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
           <FillValue>-99999.</FillValue>
         </Element>
       </Structure>
@@ -169,8 +147,6 @@
     <Parameter>
       <Name>proton v_gsm</Name>
       <ParameterKey>dsc_vpr_3s_gsm</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>km/s</Units>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
@@ -186,8 +162,6 @@
           <Qualifier>Component.I</Qualifier>
           <Index>1</Index>
           <ParameterKey>dsc_vpr_3s_gsm(0)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
           <FillValue>-99999.</FillValue>
         </Element>
         <Element>
@@ -195,8 +169,6 @@
           <Qualifier>Component.J</Qualifier>
           <Index>2</Index>
           <ParameterKey>dsc_vpr_3s_gsm(1)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
           <FillValue>-99999.</FillValue>
         </Element>
         <Element>
@@ -204,8 +176,6 @@
           <Qualifier>Component.K</Qualifier>
           <Index>3</Index>
           <ParameterKey>dsc_vpr_3s_gsm(2)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
           <FillValue>-99999.</FillValue>
         </Element>
       </Structure>

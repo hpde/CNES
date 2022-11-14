@@ -83,10 +83,7 @@
     <Parameter>
       <Name>irradiance flux</Name>
       <ParameterKey>mav_euv_fluxm</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>Watts/m^2/nm</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -101,10 +98,7 @@
     <Parameter>
       <Name>irradiance flux uncertainty</Name>
       <ParameterKey>mav_euv_deltam</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>%</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -118,9 +112,6 @@
     <Parameter>
       <Name>quality flag</Name>
       <ParameterKey>mav_euv_flagm</ParameterKey>
-      <Description/>
-      <UCD/>
-      <Units/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>

@@ -19,7 +19,7 @@ have a time of flight (TOF) and a deposited
       </Contact>     
     </ResourceHeader>
     <InstrumentType>EnergeticParticleInstrument</InstrumentType>
-    <InvestigationName/>
+    <InvestigationName>Jupiter Energetic Particle Detector Instrument on Juno JEDI</InvestigationName>
     <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/Juno</ObservatoryID>
   </Instrument>
 </Spase>

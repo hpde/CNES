@@ -57,7 +57,6 @@
     <Parameter>
       <Name>xyz_hee</Name>
       <ParameterKey>ros_xyz_hee</ParameterKey>
-      <Description/>
       <Units>AU</Units>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
@@ -156,7 +155,6 @@
     <Parameter>
       <Name>distance ros-sun</Name>
       <ParameterKey>r_sun_ros</ParameterKey>
-      <UCD/>
       <Units>AU</Units>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>

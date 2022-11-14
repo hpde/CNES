@@ -29,8 +29,7 @@ Additionally, EPT has 2 channels that separate electrons and ions:
       <InformationURL>
         <Name>SolO Archive Support Data</Name>
         <URL>https://issues.cosmos.esa.int/solarorbiterwiki/display/SOSP/Archive+Support+Data</URL>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
       <Association>
         <AssociationID>solo-epd-eptel</AssociationID>
         <AssociationType>PartOf</AssociationType>
@@ -89,9 +88,7 @@ Additionally, EPT has 2 channels that separate electrons and ions:
       <Name>el flux: omni</Name>
       <ParameterKey>solo_ept_omni_eflux</ParameterKey>
       <Description>Particle flux in foil channel</Description>
-      <UCD/>
       <Units>1/(s cm^2 sr MeV)</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>

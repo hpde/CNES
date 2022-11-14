@@ -7,8 +7,7 @@
       <ResourceName>magnetic field in cross-track frame</ResourceName>
       <AlternateName>2Hz TII Cross-track Ion Flow Dataset</AlternateName>
       <ReleaseDate>2019-05-06T15:01:42Z</ReleaseDate>
-      <Description/>
-      <Acknowledgement/>
+      <Description>ToDo</Description>
       <Contact>
         <PersonID>spase://CNES/Person/CDPP-AMDA/Johnathan.Burchill</PersonID>
         <Role>Scientist</Role>
@@ -16,8 +15,7 @@
       <InformationURL>
         <Name>Dataset Description</Name>
         <URL>ftp://swarm-diss.eo.esa.int/Advanced/Plasma_Data/2Hz_TII_Cross-track_Dataset/SW-RN-UoC-GS-004_TIICT_ReleaseNotes.ZIP</URL>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
     </ResourceHeader>
     <AccessInformation>
          <RepositoryID>spase://SMWG/Repository/CDPP/AMDA</RepositoryID>
@@ -70,10 +68,7 @@
     <Parameter>
       <Name>b field</Name>
       <ParameterKey>swa_b</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>nT</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>

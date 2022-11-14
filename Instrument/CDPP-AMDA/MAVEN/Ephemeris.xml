@@ -7,7 +7,7 @@
       <ResourceName>Ephemeris</ResourceName>
       <AlternateName>MAVEN Orbit</AlternateName>
       <ReleaseDate>2016-05-20T21:10:13Z</ReleaseDate>
-      <Description/>
+      <Description>Mars Atmosphere and Volatile Evolution, MAVEN, Spacecraft Ephemeris</Description>
       <Contact>       
         <PersonID>spase://CNES/Person/CDPP-AMDA/NAIF</PersonID> 
         <Role>PrincipalInvestigator</Role>
@@ -18,7 +18,7 @@
       </Contact>
     </ResourceHeader>
     <InstrumentType>Platform</InstrumentType>
-    <InvestigationName/>
+    <InvestigationName>Mars Atmosphere and Volatile Evolution, MAVEN, Spacecraft Ephemeris</InvestigationName>
     <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/MAVEN</ObservatoryID>
   </Instrument>
 </Spase>

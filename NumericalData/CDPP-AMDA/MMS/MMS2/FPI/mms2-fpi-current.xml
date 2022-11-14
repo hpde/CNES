@@ -76,9 +76,7 @@
       <Name>j_gse</Name>
       <ParameterKey>mms2_fast_jgse</ParameterKey>
       <Description>Electric current = 1.6e-10*(mms2_des_ne+mms2_dis_ni)*0.5*(mms2_dis_vgse-mms2_des_vgse)</Description>
-      <UCD/>
       <Units>A/m**2</Units>
-      <UnitsConversion/>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
         <CoordinateSystemName>GSE</CoordinateSystemName>

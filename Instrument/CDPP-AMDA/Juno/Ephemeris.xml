@@ -18,7 +18,7 @@
       </Contact>
     </ResourceHeader>
     <InstrumentType>Platform</InstrumentType>
-    <InvestigationName/>
+    <InvestigationName>Juno Spacecraft Ephemeris</InvestigationName>
     <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/Juno</ObservatoryID>
   </Instrument>
 </Spase>

@@ -72,7 +72,6 @@
       <Description>spacecraft potential</Description>
       <UCD>phys.electField</UCD>
       <Units>V</Units>
-      <UnitsConversion/>
       <ValidMin>-20.0</ValidMin>
       <ValidMax>20.0</ValidMax>
       <FillValue>nan</FillValue>
@@ -87,9 +86,6 @@
       <Description>Quality of Potential.The uncertainty of the
  values with a scale of 0-100. 100 is the best quality.  Use data with flag value
  above 50</Description>
-      <UCD/>
-      <Units/>
-      <UnitsConversion/>
       <ValidMin>0</ValidMin>
       <ValidMax>100</ValidMax>
       <Support>

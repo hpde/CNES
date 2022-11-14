@@ -27,7 +27,6 @@
         measurements above any given surface area as possible, which are needed to stabilize 
         the inversion procedure and remove intervals that contain transient field structures 
         due to magnetospheric processes. </Description>
-      <Acknowledgement/>
        <Contact>       
          <PersonID>spase://CNES/Person/CDPP-AMDA/Daniel.Heyner</PersonID> 
          <Role>PrincipalInvestigator</Role>
@@ -36,11 +35,9 @@
         <PersonID>spase://SMWG/Person/C.Carr</PersonID> 
         <Role>CoInvestigator</Role>
       </Contact>
-      <PriorID/>
     </ResourceHeader>
     <InstrumentType>Magnetometer</InstrumentType>
-    <InvestigationName/>
+    <InvestigationName>Mercury Magnetometer on MPO/InvestigationName</InvestigationName>
     <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/BepiColombo/MPO</ObservatoryID>
-    <Caveats/>
-  </Instrument>
+    </Instrument>
 </Spase>

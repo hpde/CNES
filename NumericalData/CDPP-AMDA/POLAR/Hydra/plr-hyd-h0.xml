@@ -55,9 +55,7 @@
     <Parameter>
       <Name>e- flux</Name>
       <ParameterKey>plr_hyd_h0edef</ParameterKey>
-      <Description/>
       <Units>1/(cm^2-s-sr)</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -74,9 +72,7 @@
     <Parameter>
       <Name>ion flux</Name>
       <ParameterKey>plr_hyd_h0idef</ParameterKey>
-      <Description/>
       <Units>1/(cm^2-s-sr)</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>

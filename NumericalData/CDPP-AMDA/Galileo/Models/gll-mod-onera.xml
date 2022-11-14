@@ -9,7 +9,6 @@
       <Description>Data provided to CDPP from ONERA. 
          Magnetic  parameters  linked  to  the  position  of  the  spaceraft  (L,  B,  Beq,...)  have  been  calculated  with  a  
          library developed at ONERA and using Khurana magnetic field model.</Description>
-      <Acknowledgement/>
       <Contact>
         <PersonID>spase://CNES/Person/CDPP-AMDA/A.Sicard</PersonID>
         <Role>DataProducer</Role>
@@ -17,8 +16,7 @@
       <InformationURL>
         <Name>ONERA report : Jupiter data base for AMDA</Name>
         <URL>http://amda.irap.omp.eu/help/parameters/doc/ONERA_Jupiter_plasma_db_for_AMDA.pdf</URL>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
     </ResourceHeader>
     <AccessInformation>
          <RepositoryID>spase://SMWG/Repository/CDPP/AMDA</RepositoryID>
@@ -48,7 +46,6 @@
          <Format>PNG</Format>
          <Acknowledgement>Thank you for acknowledging the use of AMDA in publications with wording like "Data analysis was performed with the AMDA science analysis system provided by the Centre de Données de la Physique des Plasmas (CDPP) supported by CNRS, CNES, Observatoire de Paris and Université Paul Sabatier, Toulouse".. See the Rules of the road at http://amda.cdpp.eu/help/policy.html. Please acknowledge the Data Providers.</Acknowledgement>
       </AccessInformation>
-    <ProviderName/>
     <InstrumentID>spase://CNES/Instrument/CDPP-AMDA/Galileo/Models</InstrumentID>
     <MeasurementType>MagneticField</MeasurementType>
     <TemporalDescription>
@@ -73,10 +70,7 @@
     <Parameter>
       <Name>b_calc</Name>
       <ParameterKey>gll_onera_bcalc</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>nT</Units>
-      <UnitsConversion/>
       <Field>
         <Qualifier>Magnitude</Qualifier>
         <FieldQuantity>Magnetic</FieldQuantity>
@@ -85,10 +79,7 @@
     <Parameter>
       <Name>b_eq</Name>
       <ParameterKey>gll_onera_beq</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>nT</Units>
-      <UnitsConversion/>
       <Field>
         <Qualifier>Magnitude</Qualifier>
         <FieldQuantity>Magnetic</FieldQuantity>
@@ -97,10 +88,7 @@
     <Parameter>
       <Name>L</Name>
       <ParameterKey>gll_onera_l</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>Rj</Units>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>
@@ -108,10 +96,7 @@
     <Parameter>
       <Name>L*</Name>
       <ParameterKey>gll_onera_lstar</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>Rj</Units>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>
@@ -119,10 +104,6 @@
     <Parameter>
       <Name>I</Name>
       <ParameterKey>gll_onera_i</ParameterKey>
-      <Description/>
-      <UCD/>
-      <Units/>
-      <UnitsConversion/>
       <Field>
         <Qualifier>Magnitude</Qualifier>
         <FieldQuantity>Magnetic</FieldQuantity>
@@ -131,10 +112,7 @@
     <Parameter>
       <Name>MLT</Name>
       <ParameterKey>gll_onera_mlt</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>h</Units>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Temporal</SupportQuantity>
       </Support>
@@ -142,10 +120,7 @@
     <Parameter>
       <Name>alpha</Name>
       <ParameterKey>gll_onera_alpha</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>deg</Units>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>
@@ -153,10 +128,7 @@
     <Parameter>
       <Name>alpha_eq</Name>
       <ParameterKey>gll_onera_alphaeq</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>deg</Units>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>

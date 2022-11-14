@@ -11,7 +11,6 @@
             * open: 186.5, 221.4, 275.2, 360.2, 493.5, 697.2, 1016.2, 1522.0, 2315.7, 3565.3; 
             * closed: 405.9 , 451.9, 521.1, 627.1, 788.3, 1029.3, 1399.4, 1960.6, 2820.8, 4119.8;
           </Description>
-      <Acknowledgement/>
       <Contact>
         <PersonID>spase://CNES/Person/CDPP-AMDA/Stuart.Nyland</PersonID>
         <Role>DataProducer</Role>
@@ -25,10 +24,8 @@
         <Role>TechnicalContact</Role>
       </Contact>
       <InformationURL>
-        <Name/>
         <URL/>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
       <Association>
         <AssociationID>gtl-ics-low</AssociationID>
         <AssociationType>PartOf</AssociationType>
@@ -79,9 +76,6 @@
     <Parameter>
       <Name>apperture flag head1</Name>
       <ParameterKey>gtl_m_app1</ParameterKey>
-      <Description/>
-      <UCD/>
-      <Units/>
       <Support>
         <SupportQuantity>InstrumentMode</SupportQuantity>
       </Support>
@@ -89,9 +83,6 @@
     <Parameter>
       <Name>apperture flag head2</Name>
       <ParameterKey>gtl_m_app2</ParameterKey>
-      <Description/>
-      <UCD/>
-      <Units/>
       <Support>
         <SupportQuantity>InstrumentMode</SupportQuantity>
       </Support>
@@ -99,8 +90,6 @@
     <Parameter>
       <Name>cno flux : 2D</Name>
       <ParameterKey>gtl_m_av</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>1/(cm**2-s-sr-kev)</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
@@ -113,8 +102,6 @@
     <Parameter>
       <Name>cno flux : omni</Name>
       <ParameterKey>gtl_m_omni</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>1/(cm**2-s-sr-kev)</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>

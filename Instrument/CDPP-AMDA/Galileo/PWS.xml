@@ -24,7 +24,6 @@ Gurnett, D. A., W. S. Kurth, R. R. Shaw, A. Roux, R. Gendrin, C. F. Kennel, F. L
                           
                          
     </Description>
-      <Acknowledgement/>
       <Contact>
         <PersonID>spase://SMWG/Person/Donald.A.Gurnett</PersonID>
         <Role>PrincipalInvestigator</Role>
@@ -46,6 +45,5 @@ Gurnett, D. A., W. S. Kurth, R. R. Shaw, A. Roux, R. Gendrin, C. F. Kennel, F. L
     <InstrumentType>SearchCoil</InstrumentType>    
     <InvestigationName>Plasma Wave Spectrometer</InvestigationName>
     <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/Galileo</ObservatoryID>
-    <Caveats/>
-  </Instrument>
+    </Instrument>
 </Spase>

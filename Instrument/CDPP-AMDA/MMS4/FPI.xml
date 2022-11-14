@@ -22,7 +22,7 @@
       </InformationURL>
     </ResourceHeader>
     <InstrumentType>ElectrostaticAnalyser</InstrumentType>
-    <InvestigationName/>
+    <InvestigationName>Fast Plasma Investigation on MMS4</InvestigationName>
     <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/MMS4</ObservatoryID>
     <Caveats>On 7 June 2018 12:43 UTC, the MMS Fast Plasma Investigation (FPI) suffered its first impactful flight anomaly since launching in March, 2015. The electron spectrometer pair at quadrant 1 on MMS4 experienced a failure that appears non-recoverable. The symptoms – repeatable after further contact, reset, and commanding of the instrument – were a sustained high current draw and the absence of counts from this spectrometer pair. The spectrometer pair has been turned off. On 15 July 2018 00:47 UTC, the MMS FPI suffered its second impactful flight anomaly. The electron spectrometer pair at quadrant 0 on MMS4 experienced a similar failure that appears to be non-recoverable and this unit was also turned off. These failures appear to be unrelated.
 

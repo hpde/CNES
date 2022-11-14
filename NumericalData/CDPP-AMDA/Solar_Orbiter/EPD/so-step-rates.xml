@@ -27,8 +27,7 @@
       <InformationURL>
         <Name>SolO Archive Support Data</Name>
         <URL>https://issues.cosmos.esa.int/solarorbiterwiki/display/SOSP/Archive+Support+Data</URL>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
       <Association>
         <AssociationID>solo-epd-step</AssociationID>
         <AssociationType>PartOf</AssociationType>
@@ -81,9 +80,7 @@
       <Name>ion flux</Name>
       <ParameterKey>solo_step_mflux</ParameterKey>
       <Description>Magnet channel. Uses a permanet magnet to deflect electrons. Measuring only ions (mostly protons)</Description>
-      <UCD/>
       <Units>1/(s cm^2 sr MeV)</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -98,9 +95,7 @@
       <Name>ion flux unc</Name>
       <ParameterKey>solo_step_munc</ParameterKey>
       <Description>Uncertainty in sector averaged magnet channel flux</Description>
-      <UCD/>
       <Units>1/(s cm^2 sr MeV)</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -115,9 +110,7 @@
       <Name>ion cntrate</Name>
       <ParameterKey>solo_step_mrate</ParameterKey>
       <Description>Sector averaged magnet channel count rate</Description>
-      <UCD/>
       <Units>cnts/s</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -132,9 +125,7 @@
       <Name>el flux</Name>
       <ParameterKey>solo_step_eflux</ParameterKey>
       <Description>The electron flux is recovered by subtracting the magnet channel measurements from the integral channel ones</Description>
-      <UCD/>
       <Units>1/(s cm^2 sr MeV)</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -149,9 +140,7 @@
       <Name>total flux</Name>
       <ParameterKey>solo_step_iflux</ParameterKey>
       <Description>Integral channel. Measures all incoming particles</Description>
-      <UCD/>
       <Units>1/(s cm^2 sr MeV)</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -166,9 +155,7 @@
       <Name>total flux unc</Name>
       <ParameterKey>solo_step_iunc</ParameterKey>
       <Description>Uncertainty in sector averaged integral channel flux</Description>
-      <UCD/>
       <Units>1/(s cm^2 sr MeV)</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -183,9 +170,7 @@
       <Name>total cntrate</Name>
       <ParameterKey>solo_step_irate</ParameterKey>
       <Description>Sector averaged integral channel count rate</Description>
-      <UCD/>
       <Units>cnts/s</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -200,9 +185,6 @@
       <Name>quality flag</Name>
       <ParameterKey>solo_step_qf</ParameterKey>
       <Description>0: Bad, 1: Known problems, 2: Survey data, 3: Good, 4: Excellent</Description>
-      <UCD/>
-      <Units/>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>

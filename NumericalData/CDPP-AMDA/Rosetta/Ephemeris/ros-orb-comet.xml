@@ -115,7 +115,6 @@
     <Parameter>
       <Name>xyz_cso</Name>
       <ParameterKey>ros_xyz_cso</ParameterKey>
-      <Description/>
       <UCD>pos.bodyrc;instr.obsty</UCD>
       <Units>km</Units>
       <CoordinateSystem>
@@ -180,7 +179,6 @@
     <Parameter>
       <Name>lat C-G_ck</Name>
       <ParameterKey>ros_lat_ck</ParameterKey>
-      <UCD/>
       <Units>deg</Units>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
@@ -192,7 +190,6 @@
     <Parameter>
       <Name>lon C-G_ck</Name>
       <ParameterKey>ros_lon_ck</ParameterKey>
-      <UCD/>
       <Units>deg</Units>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
@@ -204,7 +201,6 @@
     <Parameter>
       <Name>distance ros-C-G</Name>
       <ParameterKey>ros_cg_r</ParameterKey>
-      <UCD/>
       <Units>km</Units>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>

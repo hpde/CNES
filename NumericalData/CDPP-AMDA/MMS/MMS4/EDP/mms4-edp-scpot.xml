@@ -7,7 +7,7 @@
       <ResourceName>scpot</ResourceName>
       <AlternateName>sc potential / fast / l2</AlternateName>
       <ReleaseDate>2022-09-29T03:05:14Z</ReleaseDate>
-      <Description/>
+      <Description>ToDo</Description>
       <Contact>
         <PersonID>spase://SMWG/Person/James.L.Burch</PersonID>
         <Role>PrincipalInvestigator</Role>
@@ -81,10 +81,7 @@
     <Parameter>
       <Name>sc pot</Name>
       <ParameterKey>mms4_edp_scpot</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>V</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -97,9 +94,6 @@
       <Name>sc pot : qual</Name>
       <ParameterKey>mms4_edp_scpot_qual</ParameterKey>
       <Description>Quality indicator (3 good), (2 ok data, use with some caution), (1 bad data, use with caution), (0 Really bad data or no data at all)</Description>
-      <UCD/>
-      <Units/>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>

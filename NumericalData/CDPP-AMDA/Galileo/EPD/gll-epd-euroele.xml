@@ -116,8 +116,6 @@ discussed in detail in Kollmann et al. [2018, JGR].
     <Parameter>
       <Name>L-shell</Name>
       <ParameterKey>gll_epd_l_euel</ParameterKey>
-      <UCD/>
-      <Units/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -128,7 +126,6 @@ discussed in detail in Kollmann et al. [2018, JGR].
     <Parameter>
       <Name>local pitch angle</Name>
       <ParameterKey>gll_epd_paloc_euel</ParameterKey>
-      <UCD/>
       <Units>degree</Units>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
@@ -140,8 +137,6 @@ discussed in detail in Kollmann et al. [2018, JGR].
     <Parameter>
       <Name>motor position</Name>
       <ParameterKey>gll_epd_motor_euel</ParameterKey>
-      <UCD/>
-      <Units/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -152,7 +147,6 @@ discussed in detail in Kollmann et al. [2018, JGR].
     <Parameter>
       <Name>e- : E[0-3] : cnts</Name>
       <ParameterKey>gll_epd_eu_ecnts</ParameterKey>
-      <UCD/>
       <Units>s**-1</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
@@ -168,7 +162,6 @@ discussed in detail in Kollmann et al. [2018, JGR].
     <Parameter>
       <Name>e- : E[0-3]  : flux</Name>
       <ParameterKey>gll_epd_eu_eflux</ParameterKey>
-      <UCD/>
       <Units>cm**-2.s**-1.sr**-1.keV**-1</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
@@ -184,7 +177,6 @@ discussed in detail in Kollmann et al. [2018, JGR].
     <Parameter>
       <Name>e- : F[0-3] : cnts</Name>
       <ParameterKey>gll_epd_eu_fcnts</ParameterKey>
-      <UCD/>
       <Units>s**-1</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
@@ -200,7 +192,6 @@ discussed in detail in Kollmann et al. [2018, JGR].
     <Parameter>
       <Name>e- : F[0-3] : flux</Name>
       <ParameterKey>gll_epd_eu_fflux</ParameterKey>
-      <UCD/>
       <Units>cm**-2.s**-1.sr**-1.keV**-1</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
@@ -216,7 +207,6 @@ discussed in detail in Kollmann et al. [2018, JGR].
     <Parameter>
       <Name>e- : B1  : cnts</Name>
       <ParameterKey>gll_epd_euel_bcnts</ParameterKey>
-      <UCD/>
       <Units>s**-1</Units>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
@@ -242,7 +232,6 @@ discussed in detail in Kollmann et al. [2018, JGR].
     <Parameter>
       <Name>e- : DC[0-3]  : cnts</Name>
       <ParameterKey>gll_epd_eu_dccnts</ParameterKey>
-      <UCD/>
       <Units>s**-1</Units>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>

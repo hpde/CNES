@@ -74,9 +74,7 @@
       <ParameterKey>gtl_lep_ispec</ParameterKey>
       <Description>sunward, duskward, tailward, dawnward; 32 energy ; range </Description>
       <UCD>phys.ion</UCD>
-      <Caveats/>
       <Units>cnts</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -84,7 +82,6 @@
         <Size>128</Size>
       </Structure>
       <ValidMin>0.0</ValidMin>
-      <FillValue/>
       <Particle>
         <ParticleType>Ion</ParticleType>
         <ParticleQuantity>Counts</ParticleQuantity>
@@ -93,11 +90,8 @@
     <Parameter>
       <Name>ions : omni</Name>
       <ParameterKey>gtl_lep_ispec_omni</ParameterKey>
-      <Description/>
       <UCD>phys.ion</UCD>
-      <Caveats/>
       <Units>cnts</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -105,7 +99,6 @@
         <Size>32</Size>
       </Structure>
       <ValidMin>0.0</ValidMin>
-      <FillValue/>
       <Particle>
         <ParticleType>Ion</ParticleType>
         <ParticleQuantity>Counts</ParticleQuantity>
@@ -114,11 +107,6 @@
     <Parameter>
       <Name>ions : flag RAM</Name>
       <ParameterKey>gtl_lep_i_tabn</ParameterKey>
-      <Description/>
-      <UCD/>
-      <Caveats/>
-      <Units/>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
       </Support>
@@ -128,9 +116,7 @@
       <ParameterKey>gtl_lep_espec</ParameterKey>
       <Description>sunward, duskward, tailward, dawnward; 32 energy ; range </Description>
       <UCD>phys.ion</UCD>
-      <Caveats/>
       <Units>cnts</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -138,7 +124,6 @@
         <Size>128</Size>
       </Structure>
       <ValidMin>0.0</ValidMin>
-      <FillValue/>
       <Particle>
         <ParticleType>Electron</ParticleType>
         <ParticleQuantity>Counts</ParticleQuantity>
@@ -147,11 +132,8 @@
     <Parameter>
       <Name>electrons : omni</Name>
       <ParameterKey>gtl_lep_espec_omni</ParameterKey>
-      <Description/>
       <UCD>phys.ion</UCD>
-      <Caveats/>
       <Units>cnts</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -159,7 +141,6 @@
         <Size>32</Size>
       </Structure>
       <ValidMin>0.0</ValidMin>
-      <FillValue/>
       <Particle>
         <ParticleType>Electron</ParticleType>
         <ParticleQuantity>Counts</ParticleQuantity>

@@ -70,7 +70,6 @@
       (LID = urn:nasa:pds:maven.static.c:data.c0_64e2m)</Description>
       <UCD>phys.atmol.ionStage</UCD>
       <Units>eV/cm^2-sr-s-eV</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -89,7 +88,6 @@
             (LID = urn:nasa:pds:maven.static.c:data.c6_32e64m)</Description>
       <UCD>phys.atmol.ionStage</UCD>
       <Units>eV/cm^2-sr-s-eV</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
@@ -104,10 +102,6 @@
     <Parameter>
       <Name>table index</Name>
       <ParameterKey>mav_sta_c0_ind</ParameterKey>
-      <Description/>
-      <UCD/>
-      <Units/>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
       </Support>

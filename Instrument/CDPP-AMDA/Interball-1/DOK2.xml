@@ -5,7 +5,6 @@
     <ResourceID>spase://CNES/Instrument/CDPP-AMDA/Interball-1/DOK2</ResourceID>
     <ResourceHeader>
       <ResourceName>DOK2</ResourceName>
-      <AlternateName/>
       <ReleaseDate>2010-02-04T12:34:56.789</ReleaseDate>
       <Description>DOK-2 uses two pairs of energetic particle telescopes. 
         Each telescope has a single, passively cooled, totally depleted, surface-barrier silicon detector. 
@@ -38,11 +37,11 @@
       <InformationURL>
         <Name>DOK2 Home Page at IKI</Name>
         <URL>http://www.iki.rssi.ru/interball/dok.html</URL>
-        <Description></Description>
+        <Description>Information about the Energetic Proton/Electron Spectrometer DOK-2 experiment on the Interball Tail Probe mission.</Description>
       </InformationURL>
     </ResourceHeader>
     <InstrumentType>SolidStateDetector</InstrumentType>
-    <InvestigationName/>
+    <InvestigationName>Energetic Proton/Electron Spectrometer DOK-2 on Interball Tail Probe</InvestigationName>
     <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/Interball-Tail</ObservatoryID>
   </Instrument>
 </Spase>

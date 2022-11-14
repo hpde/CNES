@@ -29,8 +29,7 @@
         at a set frequency, thus permitting the signal to be identified even when the ambient field was not entirely quiet. 
         This calibration method also permitted the orientation of the sensors to be well determined.
     </Description>
-      <Acknowledgement/>
-            <Contact>
+      <Contact>
               <PersonID>spase://SMWG/Person/Margaret.Galland.Kivelson</PersonID>
                 <Role>PrincipalInvestigator</Role>
             </Contact>
@@ -38,6 +37,5 @@
     <InstrumentType>Magnetometer</InstrumentType>
     <InvestigationName>Galileo Magnetometer</InvestigationName>
     <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/Galileo</ObservatoryID>
-    <Caveats/>
-  </Instrument>
+    </Instrument>
 </Spase>

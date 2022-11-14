@@ -77,7 +77,6 @@
       <Description>Abundance or upper limit</Description>
       <UCD>phys.density</UCD>
       <Units>cm-3</Units>
-      <UnitsConversion/>
       <Particle>
         <ParticleType>Molecule</ParticleType>
         <ParticleQuantity>NumberDensity</ParticleQuantity>
@@ -87,9 +86,6 @@
       <Name>n_he error</Name>
       <ParameterKey>mav_ngimskp_he_err</ParameterKey>
       <Description>% Error (1 sigma), if -1, the value is an upper limit</Description>
-      <UCD/>
-      <Units/>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
       </Support>
@@ -100,7 +96,6 @@
       <Description>Abundance or upper limit</Description>
       <UCD>phys.density</UCD>
       <Units>cm-3</Units>
-      <UnitsConversion/>
       <Particle>
         <ParticleType>Molecule</ParticleType>
         <ParticleQuantity>NumberDensity</ParticleQuantity>
@@ -110,9 +105,6 @@
       <Name>n_o error</Name>
       <ParameterKey>mav_ngimskp_o_err</ParameterKey>
       <Description>% Error (1 sigma), if -1, the value is an upper limit</Description>
-      <UCD/>
-      <Units/>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
       </Support>
@@ -123,7 +115,6 @@
       <Description>Abundance or upper limit</Description>
       <UCD>phys.density</UCD>
       <Units>cm-3</Units>
-      <UnitsConversion/>
       <Particle>
         <ParticleType>Molecule</ParticleType>
         <ParticleQuantity>NumberDensity</ParticleQuantity>
@@ -133,9 +124,6 @@
       <Name>n_co error</Name>
       <ParameterKey>mav_ngimskp_co_err</ParameterKey>
       <Description>% Error (1 sigma), if -1, the value is an upper limit</Description>
-      <UCD/>
-      <Units/>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
       </Support>
@@ -146,7 +134,6 @@
       <Description>Abundance or upper limit</Description>
       <UCD>phys.density</UCD>
       <Units>cm-3</Units>
-      <UnitsConversion/>
       <Particle>
         <ParticleType>Molecule</ParticleType>
         <ParticleQuantity>NumberDensity</ParticleQuantity>
@@ -156,9 +143,6 @@
       <Name>n_n2 error</Name>
       <ParameterKey>mav_ngimskp_n2_err</ParameterKey>
       <Description>% Error (1 sigma), if -1, the value is an upper limit</Description>
-      <UCD/>
-      <Units/>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
       </Support>
@@ -169,7 +153,6 @@
       <Description>Abundance or upper limit</Description>
       <UCD>phys.density</UCD>
       <Units>cm-3</Units>
-      <UnitsConversion/>
       <Particle>
         <ParticleType>Molecule</ParticleType>
         <ParticleQuantity>NumberDensity</ParticleQuantity>
@@ -179,9 +162,6 @@
       <Name>n_no error</Name>
       <ParameterKey>mav_ngimskp_no_err</ParameterKey>
       <Description>% Error (1 sigma), if -1, the value is an upper limit</Description>
-      <UCD/>
-      <Units/>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
       </Support>
@@ -192,7 +172,6 @@
       <Description>Abundance or upper limit</Description>
       <UCD>phys.density</UCD>
       <Units>cm-3</Units>
-      <UnitsConversion/>
       <Particle>
         <ParticleType>Molecule</ParticleType>
         <ParticleQuantity>NumberDensity</ParticleQuantity>
@@ -202,9 +181,6 @@
       <Name>n_ar error</Name>
       <ParameterKey>mav_ngimskp_ar_err</ParameterKey>
       <Description>% Error (1 sigma), if -1, the value is an upper limit</Description>
-      <UCD/>
-      <Units/>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
       </Support>
@@ -215,7 +191,6 @@
       <Description>Abundance or upper limit</Description>
       <UCD>phys.density</UCD>
       <Units>cm-3</Units>
-      <UnitsConversion/>
       <Particle>
         <ParticleType>Molecule</ParticleType>
         <ParticleQuantity>NumberDensity</ParticleQuantity>
@@ -225,9 +200,6 @@
       <Name>n_co2 error</Name>
       <ParameterKey>mav_ngimskp_co2_err</ParameterKey>
       <Description>% Error (1 sigma), if -1, the value is an upper limit</Description>
-      <UCD/>
-      <Units/>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
       </Support>
@@ -238,7 +210,6 @@
       <Description>Abundance or upper limit</Description>
       <UCD>phys.density</UCD>
       <Units>cm-3</Units>
-      <UnitsConversion/>
       <Particle>
         <ParticleType>Ion</ParticleType>
         <ParticleQuantity>NumberDensity</ParticleQuantity>
@@ -248,9 +219,6 @@
       <Name>n_amu32+ error</Name>
       <ParameterKey>mav_ngimskp_amu32_err</ParameterKey>
       <Description>% Error (1 sigma), if -1, the value is an upper limit</Description>
-      <UCD/>
-      <Units/>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
       </Support>
@@ -261,7 +229,6 @@
       <Description>Abundance or upper limit</Description>
       <UCD>phys.density</UCD>
       <Units>cm-3</Units>
-      <UnitsConversion/>
       <Particle>
         <ParticleType>Ion</ParticleType>
         <ParticleQuantity>NumberDensity</ParticleQuantity>
@@ -271,9 +238,6 @@
       <Name>n_amu44+ error</Name>
       <ParameterKey>mav_ngimskp_amu44_err</ParameterKey>
       <Description>% Error (1 sigma), if -1, the value is an upper limit</Description>
-      <UCD/>
-      <Units/>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
       </Support>
@@ -284,7 +248,6 @@
       <Description>Abundance or upper limit</Description>
       <UCD>phys.density</UCD>
       <Units>cm-3</Units>
-      <UnitsConversion/>
       <Particle>
         <ParticleType>Ion</ParticleType>
         <ParticleQuantity>NumberDensity</ParticleQuantity>
@@ -294,9 +257,6 @@
       <Name>n_amu30+ error</Name>
       <ParameterKey>mav_ngimskp_amu30_err</ParameterKey>
       <Description>% Error (1 sigma), if -1, the value is an upper limit</Description>
-      <UCD/>
-      <Units/>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
       </Support>
@@ -307,7 +267,6 @@
       <Description>Abundance or upper limit</Description>
       <UCD>phys.density</UCD>
       <Units>cm-3</Units>
-      <UnitsConversion/>
       <Particle>
         <ParticleType>Ion</ParticleType>
         <ParticleQuantity>NumberDensity</ParticleQuantity>
@@ -317,9 +276,6 @@
       <Name>n_amu16+ error</Name>
       <ParameterKey>mav_ngimskp_amu16_err</ParameterKey>
       <Description>% Error (1 sigma), if -1, the value is an upper limit</Description>
-      <UCD/>
-      <Units/>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
       </Support>
@@ -330,7 +286,6 @@
       <Description>Abundance or upper limit</Description>
       <UCD>phys.density</UCD>
       <Units>cm-3</Units>
-      <UnitsConversion/>
       <Particle>
         <ParticleType>Ion</ParticleType>
         <ParticleQuantity>NumberDensity</ParticleQuantity>
@@ -340,9 +295,6 @@
       <Name>n_amu28+ error</Name>
       <ParameterKey>mav_ngimskp_amu28_err</ParameterKey>
       <Description>% Error (1 sigma), if -1, the value is an upper limit</Description>
-      <UCD/>
-      <Units/>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
       </Support>
@@ -353,7 +305,6 @@
       <Description>Abundance or upper limit</Description>
       <UCD>phys.density</UCD>
       <Units>cm-3</Units>
-      <UnitsConversion/>
       <Particle>
         <ParticleType>Ion</ParticleType>
         <ParticleQuantity>NumberDensity</ParticleQuantity>
@@ -363,9 +314,6 @@
       <Name>n_amu12+ error</Name>
       <ParameterKey>mav_ngimskp_amu12_err</ParameterKey>
       <Description>% Error (1 sigma), if -1, the value is an upper limit</Description>
-      <UCD/>
-      <Units/>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
       </Support>
@@ -376,7 +324,6 @@
       <Description>Abundance or upper limit</Description>
       <UCD>phys.density</UCD>
       <Units>cm-3</Units>
-      <UnitsConversion/>
       <Particle>
         <ParticleType>Ion</ParticleType>
         <ParticleQuantity>NumberDensity</ParticleQuantity>
@@ -386,9 +333,6 @@
       <Name>n_amu17+ error</Name>
       <ParameterKey>mav_ngimskp_amu17_err</ParameterKey>
       <Description>% Error (1 sigma), if -1, the value is an upper limit</Description>
-      <UCD/>
-      <Units/>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
       </Support>
@@ -399,7 +343,6 @@
       <Description>Abundance or upper limit</Description>
       <UCD>phys.density</UCD>
       <Units>cm-3</Units>
-      <UnitsConversion/>
       <Particle>
         <ParticleType>Ion</ParticleType>
         <ParticleQuantity>NumberDensity</ParticleQuantity>
@@ -409,9 +352,6 @@
       <Name>n_amu14+ error</Name>
       <ParameterKey>mav_ngimskp_amu14_err</ParameterKey>
       <Description>% Error (1 sigma), if -1, the value is an upper limit</Description>
-      <UCD/>
-      <Units/>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
       </Support>

@@ -6,7 +6,7 @@
     <ResourceHeader>
       <ResourceName>ion spectra</ResourceName>
       <ReleaseDate>2019-12-06T10:20:33Z</ReleaseDate>
-      <Description/>
+      <Description>ToDo</Description>
       <Contact>
         <PersonID>spase://SMWG/Person/Elena.Budnik</PersonID>
         <Role>GeneralContact</Role>
@@ -52,7 +52,6 @@
       <CadenceMax>PT192S</CadenceMax>
     </TemporalDescription>
     <ObservedRegion>Mars</ObservedRegion>
-    <Caveats/>
     <Parameter>
       <Name>h+ : perp flow</Name>
       <ParameterKey>pho_h_perp</ParameterKey>

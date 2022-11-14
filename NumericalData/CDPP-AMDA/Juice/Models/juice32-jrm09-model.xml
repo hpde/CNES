@@ -67,14 +67,10 @@
       <Cadence>PT1M</Cadence>
     </TemporalDescription>
     <ObservedRegion>Jupiter</ObservedRegion>
-    <Caveats/>
     <Parameter>
       <Name>b_iau_jup</Name>
       <ParameterKey>b_jrm09_can_60_1_juice_jucr32_xyz</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>nT</Units>
-      <UnitsConversion/>
       <Structure>
         <Size>3</Size>
         <Element>
@@ -104,8 +100,6 @@
     <Parameter>
       <Name>|b|</Name>
       <ParameterKey>b_jrm09_can_tot_60_1_juice_jucr32_xyz</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>nT</Units>
       <Field>
         <Qualifier>Magnitude</Qualifier>

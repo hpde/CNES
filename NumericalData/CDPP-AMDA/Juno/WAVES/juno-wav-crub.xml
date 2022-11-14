@@ -5,9 +5,8 @@
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/Juno/WAVES/juno-wav-crub</ResourceID>
     <ResourceHeader>
       <ResourceName>Magnetic Field</ResourceName>
-      <AlternateName/>
       <ReleaseDate>2022-03-24T09:28:06Z</ReleaseDate>
-      <Description/>
+      <Description>ToDo</Description>
       <Contact>
         <PersonID>spase://SMWG/Person/William.S.Kurth</PersonID>
         <Role>PrincipalInvestigator</Role>
@@ -59,20 +58,13 @@
       <CadenceMax>PT10S</CadenceMax>
     </TemporalDescription>
     <ObservedRegion>Jupiter</ObservedRegion>
-    <Caveats/>
     <Parameter>
       <Name>b_lfrlo</Name>
       <ParameterKey>juno_wav_b_cru_lfrlo</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>(nT**2)/Hz</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
-      <Structure>
-        <Size/>
-      </Structure>
       <Wave>
         <WaveType>PlasmaWaves</WaveType>
         <WaveQuantity>ACMagneticField</WaveQuantity>

@@ -21,7 +21,7 @@ the matrix azimuth x mass.</Description>
       </Contact>
     </ResourceHeader>
    <InstrumentType>MassSpectrometer</InstrumentType>
-   <InvestigationName/>
+   <InvestigationName>Ion Composition Analyser</InvestigationName>
    <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/Rosetta</ObservatoryID>
   </Instrument>
 </Spase>

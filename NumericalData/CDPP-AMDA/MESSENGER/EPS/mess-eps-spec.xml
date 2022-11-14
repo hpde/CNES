@@ -69,8 +69,6 @@
     <Parameter>
       <Name>countrate</Name>
       <ParameterKey>mes_eps_pad</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>cnts/s</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>

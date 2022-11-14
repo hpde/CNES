@@ -104,7 +104,6 @@
       <Name>n_e_fix_t</Name>
       <ParameterKey>ros_lap_neft</ParameterKey>
       <Description>Electron density derived from individual sweep. An electron temperature is assumed to be fixed (value of 5 eV)</Description>
-      <UCD/>
       <Units>cm^-3</Units>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
@@ -119,12 +118,9 @@
       <Name>n_e_fix_t : qual</Name>
       <ParameterKey>ros_lap_neft_q</ParameterKey>
       <Description>Quality value in the range 0 (worst) to 1 (best). Corresponds to goodness of fit or how well the model fits the data</Description>
-      <UCD/>
-      <Units/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
-      <FillValue/>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
       </Support>
@@ -133,7 +129,6 @@
       <Name>t_e</Name>
       <ParameterKey>ros_lap_te</ParameterKey>
       <Description>Electron temperature derived from exponential part of sweep</Description>
-      <UCD/>
       <Units>eV</Units>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
@@ -148,12 +143,9 @@
       <Name>t_e : qual</Name>
       <ParameterKey>ros_lap_te_q</ParameterKey>
       <Description>Quality value in the range 0 (worst) to 1 (best). Corresponds to goodness of fit or how well the model fits the data</Description>
-      <UCD/>
-      <Units/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
-      <FillValue/>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
       </Support>
@@ -162,7 +154,6 @@
       <Name>t_e_xcal</Name>
       <ParameterKey>ros_lap_te_xcalc</ParameterKey>
       <Description>Electron temperature, derived by using the linear part of the electron current of the sweep, and density measurement from RPCMIP.</Description>
-      <UCD/>
       <Units>eV</Units>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
@@ -177,12 +168,9 @@
       <Name>t_e_xcal : qual</Name>
       <ParameterKey>ros_lap_te_xcalc_q</ParameterKey>
       <Description>Quality value in the range 0 (worst) to 1 (best). Corresponds to goodness of fit or how well the model fits the data</Description>
-      <UCD/>
-      <Units/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
-      <FillValue/>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
       </Support>
@@ -192,7 +180,6 @@
       <ParameterKey>ros_lap_ipho</ParameterKey>
       <Description>Photosaturation current derived from individual sweep. As LAP1 has shown no significant 
 contamination effects, these estimates should be directly proportional to the EUV flux at Rosetta position in the 20-130 nm band.</Description>
-      <UCD/>
       <Units>A</Units>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
@@ -206,12 +193,9 @@ contamination effects, these estimates should be directly proportional to the EU
       <Name>i_ph0_s : qual</Name>
       <ParameterKey>ros_lap_ipho_q</ParameterKey>
       <Description>Quality value in the range 0 (worst) to 1 (best). Corresponds to goodness of fit or how well the model fits the data</Description>
-      <UCD/>
-      <Units/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
-      <FillValue/>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
       </Support>
@@ -220,7 +204,6 @@ contamination effects, these estimates should be directly proportional to the EU
       <Name>v_ion_eff_xcal</Name>
       <ParameterKey>ros_lap_vi_asw</ParameterKey>
       <Description>Effective ion speed derived from individual sweep (speed; always non-negative scalar), while assuming a specific ion mass. Cross-calibrated with RPCMIP</Description>
-      <UCD/>
       <Units>m/s</Units>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
@@ -235,12 +218,9 @@ contamination effects, these estimates should be directly proportional to the EU
       <Name>v_ion_eff_xcal : qual</Name>
       <ParameterKey>ros_lap_vi_asw_q</ParameterKey>
       <Description>Quality value in the range 0 (worst) to 1 (best). Corresponds to goodness of fit or how well the model fits the data</Description>
-      <UCD/>
-      <Units/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
-      <FillValue/>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
       </Support>
@@ -249,7 +229,6 @@ contamination effects, these estimates should be directly proportional to the EU
       <Name>v_ph_knee</Name>
       <ParameterKey>ros_lap_usc_asw</ParameterKey>
       <Description>Photoelectron knee potential</Description>
-      <UCD/>
       <Units>V</Units>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
@@ -263,12 +242,9 @@ contamination effects, these estimates should be directly proportional to the EU
       <Name>v_ph_knee : qual</Name>
       <ParameterKey>ros_lap_usc_asw_q</ParameterKey>
       <Description>Quality value in the range 0 (worst) to 1 (best). Corresponds to goodness of fit or how well the model fits the data</Description>
-      <UCD/>
-      <Units/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
-      <FillValue/>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
       </Support>
@@ -278,12 +254,9 @@ contamination effects, these estimates should be directly proportional to the EU
       <ParameterKey>ros_lap_asw_f</ParameterKey>
       <Description>Quality flag constructed as the sum of multiple terms, depending on what quality related effects are present. Each digit is either in 
 the range 0 (best) to 7 (worst), or 9 (not used)</Description>
-      <UCD/>
-      <Units/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
-      <FillValue/>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
       </Support>

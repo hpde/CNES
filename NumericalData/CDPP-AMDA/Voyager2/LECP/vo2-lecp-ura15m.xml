@@ -6,7 +6,7 @@
     <ResourceHeader>
       <ResourceName>counts</ResourceName>
       <ReleaseDate>2013-05-15T12:48:11Z</ReleaseDate>
-      <Description/>
+      <Description>ToDo</Description>
       <Contact>
         <PersonID>spase://SMWG/Person/Elena.Budnik</PersonID>
         <Role>TechnicalContact</Role>
@@ -65,7 +65,6 @@
     <Parameter>
       <Name>ion countrate</Name>
       <ParameterKey>vo2_lecp15m_ion</ParameterKey>
-      <Description/>
       <UCD>phys.flux;phys.atmol.ionStage</UCD>
       <Units>counts/s</Units>
       <RenderingHints>
@@ -92,7 +91,6 @@
     <Parameter>
       <Name>electron countrate</Name>
       <ParameterKey>vo2_lecp15m_elec</ParameterKey>
-      <Description/>
       <UCD>phys.flux;phys.electron</UCD>
       <Units>counts/s</Units>
       <RenderingHints>

@@ -5,7 +5,6 @@
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/FREJA/MFE/fja-mfe-1hz</ResourceID>
     <ResourceHeader>
       <ResourceName>1 Hz data</ResourceName>
-      <AlternateName/>
       <ReleaseDate>2020-08-24T12:27:08Z</ReleaseDate>
       <Description>survey data of the DC peturbation magnetic field at 1 Hz resolution. 
                 These data are for survey purposes only, they are not intended for publication or formal presentation.
@@ -67,7 +66,6 @@
       <Cadence>PT1S</Cadence>
     </TemporalDescription>
     <ObservedRegion>Earth.Magnetosphere</ObservedRegion>
-    <Caveats/>
     <Parameter>
       <Name>b_geo</Name>
       <ParameterKey>fja_mfe_b</ParameterKey>
@@ -105,7 +103,6 @@
       <Name>perturbation</Name>
       <ParameterKey>fja_mfe_pert</ParameterKey>
       <Description>DC perturbaton magnetic field, North, East and Parallel components</Description>
-      <UCD/>
       <Units>nT</Units>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>

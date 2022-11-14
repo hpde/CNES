@@ -7,7 +7,7 @@
       <ResourceName>pitch-angle/energy distribution E:45-2000eV</ResourceName>
       <AlternateName>Electron phase space density pitch-angle / energy distribution E : 45-2000eV</AlternateName>
       <ReleaseDate>2022-05-29T20:10:45Z</ReleaseDate>
-      <Description/>
+      <Description>ToDo</Description>
       <Contact>
         <PersonID>spase://CNES/Person/CDPP-AMDA/Sauvaud</PersonID>
         <Role>CoInvestigator</Role>
@@ -83,7 +83,6 @@
       <Name>el psd : sum over energy</Name>
       <ParameterKey>sta_swea_pad_angle</ParameterKey>
       <Description>Electron pitch angle distribution (sum over all energy bins)</Description>
-      <UCD/>
       <Units>s^3/km^6</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
@@ -97,7 +96,6 @@
       <Name>el psd : omni</Name>
       <ParameterKey>sta_swea_pad_omni</ParameterKey>
       <Description>Electron pitch angle distribution (sum over all energy bins)</Description>
-      <UCD/>
       <Units>s^3/km^6</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>

@@ -16,16 +16,14 @@
       <InformationURL>
         <Name>VFM description</Name>
         <URL>https://earth.esa.int/web/guest/missions/esa-eo-missions/swarm/instruments/vfm</URL>
-        <Description></Description>
-      </InformationURL>
+        </InformationURL>
       <InformationURL>
         <Name>ASM description</Name>
         <URL>https://earth.esa.int/web/guest/missions/esa-eo-missions/swarm/instruments/asm</URL>
-        <Description></Description>
-      </InformationURL>
+        </InformationURL>
     </ResourceHeader>
     <InstrumentType>Magnetometer</InstrumentType>
-    <InvestigationName></InvestigationName>
+    <InvestigationName>Absolute Scalar Magnetometer / Vector Field Magnetometer</InvestigationName>
     <OperatingSpan>
        <StartDate>2013-12-02T00:00:00</StartDate>
     </OperatingSpan>

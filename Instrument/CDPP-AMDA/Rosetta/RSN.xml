@@ -23,7 +23,7 @@
       </Contact>
     </ResourceHeader>
     <InstrumentType>MassSpectrometer</InstrumentType>
-    <InvestigationName/>
+    <InvestigationName>Rosetta Orbiter Spectrometer for Ion and Neutral Analysis</InvestigationName>
     <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/Rosetta</ObservatoryID>
   </Instrument>
 </Spase>

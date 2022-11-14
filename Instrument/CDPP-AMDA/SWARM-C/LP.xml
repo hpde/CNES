@@ -22,11 +22,10 @@ comparable instrument has not previously been in orbit.
       <InformationURL>
         <Name>EFI description</Name>
         <URL>https://earth.esa.int/web/guest/missions/esa-eo-missions/swarm/instruments/efi</URL>
-        <Description></Description>
-      </InformationURL>     
+        </InformationURL>     
     </ResourceHeader>
     <InstrumentType>LangmuirProbe</InstrumentType>
-    <InvestigationName></InvestigationName>
+    <InvestigationName>Electric Field Instrument : Langmuir Probe</InvestigationName>
     <OperatingSpan>
        <StartDate>2013-12-02T00:00:00</StartDate> 
     </OperatingSpan>

@@ -101,9 +101,6 @@ Then the optimization is done by using the following constraints:
     <Parameter>
       <Name>quality flag</Name>
       <ParameterKey>mex_marsis_tecflag</ParameterKey>
-      <Description/>
-      <UCD/>
-      <Units/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>

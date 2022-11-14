@@ -6,7 +6,7 @@
     <ResourceHeader>
       <ResourceName>flyby venus 1</ResourceName>
       <ReleaseDate>2015-12-22T16:43:04Z</ReleaseDate>
-      <Description/>
+      <Description>ToDo</Description>
       <Contact>
         <PersonID>spase://SMWG/Person/Elena.Budnik</PersonID>
         <Role>TechnicalContact</Role>
@@ -89,7 +89,6 @@
     <Parameter>
       <Name>distance messenger-venus</Name>
       <ParameterKey>mes_venus1_r</ParameterKey>
-      <Description/>
       <UCD>pos.bodyrc;instr.obsty</UCD>
       <Units>Rv</Units>
       <Support>

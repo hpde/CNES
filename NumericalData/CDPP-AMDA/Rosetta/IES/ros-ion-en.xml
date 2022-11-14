@@ -22,10 +22,8 @@
         <Role>DataProducer</Role>
       </Contact>
       <InformationURL>
-        <Name/>
         <URL/>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
       <Association>
         <AssociationID>ros-ion-all</AssociationID>
         <AssociationType>PartOf</AssociationType>
@@ -72,14 +70,10 @@
       <Cadence>PT128S</Cadence>
     </TemporalDescription>
     <ObservedRegion>Comet</ObservedRegion>
-    <Caveats/>
     <Parameter>
       <Name>ion countrate</Name>
       <ParameterKey>ros_ion_spec</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>s**-1</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>

@@ -88,10 +88,7 @@
     <Parameter>
       <Name>b_gse</Name>
       <ParameterKey>mms3_brst_bgse</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>nT</Units>
-      <UnitsConversion/>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
         <CoordinateSystemName>GSE</CoordinateSystemName>
@@ -128,10 +125,7 @@
     <Parameter>
       <Name>b_gsm</Name>
       <ParameterKey>mms3_brst_bgsm</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>nT</Units>
-      <UnitsConversion/>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
         <CoordinateSystemName>GSM</CoordinateSystemName>
@@ -168,10 +162,7 @@
     <Parameter>
       <Name>|b|</Name>
       <ParameterKey>mms3_brst_btot</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>nT</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>

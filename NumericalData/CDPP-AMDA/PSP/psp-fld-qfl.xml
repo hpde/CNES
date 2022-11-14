@@ -80,7 +80,6 @@
       <Description>
              Bitwise variable quality
          </Description>
-      <Units/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>

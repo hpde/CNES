@@ -75,7 +75,6 @@ resonance. </Description>
     <Parameter>
       <Name>xyz_jsm</Name>
       <ParameterKey>gan_jup_jsm</ParameterKey>
-      <UCD/>
       <Units>Rj</Units>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
@@ -109,7 +108,6 @@ resonance. </Description>
     <Parameter>
       <Name>xyz_jso</Name>
       <ParameterKey>gan_jup_jso</ParameterKey>
-      <UCD/>
       <Units>Rj</Units>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
@@ -143,7 +141,6 @@ resonance. </Description>
     <Parameter>
       <Name>xyz_IAU_jupiter</Name>
       <ParameterKey>gan_jup_xyz</ParameterKey>
-      <UCD/>
       <Units>Rj</Units>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
@@ -173,7 +170,6 @@ resonance. </Description>
     <Parameter>
       <Name>distance ganymede-jupiter</Name>
       <ParameterKey>gan_jup_r</ParameterKey>
-      <UCD/>
       <Units>Rj</Units>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
@@ -185,7 +181,6 @@ resonance. </Description>
     <Parameter>
       <Name>latitude IAU_jupiter</Name>
       <ParameterKey>gan_jup_lat</ParameterKey>
-      <UCD/>
       <Units>deg</Units>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
@@ -194,7 +189,6 @@ resonance. </Description>
     <Parameter>
       <Name>longitude IAU_jupiter</Name>
       <ParameterKey>gan_jup_lon</ParameterKey>
-      <UCD/>
       <Units>deg</Units>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>

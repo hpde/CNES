@@ -93,7 +93,6 @@
     <Parameter>
       <Name>distance vex-venus</Name>
       <ParameterKey>vex_venus_r</ParameterKey>
-      <Description/>
       <UCD>pos.bodyrc;instr.obsty</UCD>
       <Units>Rv</Units>
       <UnitsConversion>6.052e6</UnitsConversion>
@@ -104,7 +103,6 @@
     <Parameter>
       <Name>vex_orbit_num</Name>
       <ParameterKey>vex_orb_num</ParameterKey>
-      <Units/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>

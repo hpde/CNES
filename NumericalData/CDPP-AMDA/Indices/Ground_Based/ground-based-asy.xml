@@ -21,13 +21,11 @@
       <InformationURL>
         <Name>WDC for Geomagnetism - Kyoto, Japan</Name>
         <URL>http://wdc.kugi.kyoto-u.ac.jp/</URL>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
       <InformationURL>
         <Name>IAGA geomagnetic indices</Name>
         <URL>http://isgi.unistra.fr/indices_aa.php</URL>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
     </ResourceHeader>
     <AccessInformation>
          <RepositoryID>spase://SMWG/Repository/CDPP/AMDA</RepositoryID>
@@ -73,10 +71,7 @@
     <Parameter>
       <Name>asy</Name>
       <ParameterKey>asy</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>nT</Units>
-      <UnitsConversion/>
       <Structure>
         <Size>3</Size>
         <Element>
@@ -97,10 +92,7 @@
     <Parameter>
       <Name>sym</Name>
       <ParameterKey>sym</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>nT</Units>
-      <UnitsConversion/>
       <Structure>
         <Size>3</Size>
         <Element>

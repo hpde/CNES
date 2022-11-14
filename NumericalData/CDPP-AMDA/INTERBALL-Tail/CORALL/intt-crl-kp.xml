@@ -6,7 +6,7 @@
     <ResourceHeader>
       <ResourceName>key parameters</ResourceName>
       <ReleaseDate>2013-05-24T11:06:59Z</ReleaseDate>
-      <Description/>
+      <Description>ToDo</Description>
       <Contact>
         <PersonID>spase://SMWG/Person/Andrey.Fedorov</PersonID>
         <Role>PrincipalInvestigator</Role>
@@ -164,7 +164,6 @@
     <Parameter>
       <Name>|v|</Name>
       <ParameterKey>it_vabs</ParameterKey>
-      <Description/>
       <UCD>phys.veloc;phys.atmol.ionStage</UCD>
       <Units>km/s</Units>
       <RenderingHints>

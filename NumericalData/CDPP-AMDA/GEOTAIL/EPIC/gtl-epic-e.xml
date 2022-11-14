@@ -11,7 +11,6 @@
             * open: 61.5, 73.7, 89.3, 110.2, 137.4, 173.1, 220.0, 281.5, 362.9, 471.4, 615.9, 913.2, 1352.3, 2013.9, 3005.4
             * closed: 93.3, 106.8, 123.5, 145.2, 172.5, 207.3, 251.6, 309, 385.8, 490.9, 634.4, 929.6, 1361, 2024.3, 3003.8;
            </Description>
-      <Acknowledgement/>
       <Contact>
         <PersonID>spase://CNES/Person/CDPP-AMDA/Stuart.Nyland</PersonID>
         <Role>DataProducer</Role>
@@ -25,10 +24,8 @@
         <Role>TechnicalContact</Role>
       </Contact>
       <InformationURL>
-        <Name/>
         <URL/>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
       <Association>
         <AssociationID>gtl-ics-low</AssociationID>
         <AssociationType>PartOf</AssociationType>
@@ -79,9 +76,6 @@
     <Parameter>
       <Name>apperture flag head1</Name>
       <ParameterKey>gtl_e_app1</ParameterKey>
-      <Description/>
-      <UCD/>
-      <Units/>
       <Support>
         <SupportQuantity>InstrumentMode</SupportQuantity>
       </Support>
@@ -89,9 +83,6 @@
     <Parameter>
       <Name>apperture flag head2</Name>
       <ParameterKey>gtl_e_app2</ParameterKey>
-      <Description/>
-      <UCD/>
-      <Units/>
       <Support>
         <SupportQuantity>InstrumentMode</SupportQuantity>
       </Support>
@@ -99,8 +90,6 @@
     <Parameter>
       <Name>ion flux : 2D</Name>
       <ParameterKey>gtl_e_av</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>1/(cm**2-s-sr-kev)</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>
@@ -113,8 +102,6 @@
     <Parameter>
       <Name>ion flux : omni</Name>
       <ParameterKey>gtl_e_omni</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>1/(cm**2-s-sr-kev)</Units>
       <RenderingHints>
         <DisplayType>Spectrogram</DisplayType>

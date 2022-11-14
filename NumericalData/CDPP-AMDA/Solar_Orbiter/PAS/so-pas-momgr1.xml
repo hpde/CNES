@@ -5,10 +5,8 @@
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/Solar_Orbiter/PAS/so-pas-momgr1</ResourceID>
     <ResourceHeader>
       <ResourceName>on the ground moments</ResourceName>
-      <AlternateName/>
       <ReleaseDate>2022-09-29T03:36:47Z</ReleaseDate>
-      <Description/>
-      <Acknowledgement/>
+      <Description>ToDo</Description>
       <Contact>
         <PersonID>spase://SMWG/Person/Philippe.Louarn</PersonID>
         <Role>PrincipalInvestigator</Role>
@@ -18,10 +16,8 @@
         <Role>PrincipalInvestigator</Role>
       </Contact>
       <InformationURL>
-        <Name/>
         <URL/>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
       <Association>
         <AssociationID>solo-pas-l2</AssociationID>
         <AssociationType>PartOf</AssociationType>
@@ -57,7 +53,6 @@
          <Acknowledgement>Thank you for acknowledging the use of AMDA in publications with wording like "Data analysis was performed with the AMDA science analysis system provided by the Centre de Données de la Physique des Plasmas (CDPP) supported by CNRS, CNES, Observatoire de Paris and Université Paul Sabatier, Toulouse".. See the Rules of the road at http://amda.cdpp.eu/help/policy.html. Please acknowledge the Data Providers.</Acknowledgement>
       </AccessInformation>
     <ProviderName>IRAP</ProviderName>
-    <ProviderResourceName/>
     <InstrumentID>spase://CNES/Instrument/CDPP-AMDA/Solar_Orbiter/PAS</InstrumentID>
     <MeasurementType>ThermalPlasma</MeasurementType>
     <TemporalDescription>
@@ -85,8 +80,6 @@
       <Name>info</Name>
       <ParameterKey>pas_momgr1_info</ParameterKey>
       <Description>0: Ground; 1: Normal; 2: Snapshot; 3: Burst; 4: Engineering</Description>
-      <UCD/>
-      <Units/>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
       </Support>
@@ -94,9 +87,6 @@
     <Parameter>
       <Name>quality factor</Name>
       <ParameterKey>pas_momgr1_quality</ParameterKey>
-      <Description/>
-      <UCD/>
-      <Units/>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
       </Support>
@@ -104,8 +94,6 @@
     <Parameter>
       <Name>density</Name>
       <ParameterKey>pas_momgr_n</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>cm**-3</Units>
       <Particle>
         <ParticleQuantity>NumberDensity</ParticleQuantity>
@@ -115,7 +103,6 @@
       <Name>density : err</Name>
       <ParameterKey>pas_momgr_n_err</ParameterKey>
       <Description>err = density * sqrt(cnts) / cnts</Description>
-      <UCD/>
       <Units>cm**-3</Units>
       <Particle>
         <ParticleQuantity>NumberDensity</ParticleQuantity>
@@ -125,7 +112,6 @@
       <Name>v_srf</Name>
       <ParameterKey>pas_momgr_v</ParameterKey>
       <Description>Velocity in SRF frame</Description>
-      <UCD/>
       <Units>km/s</Units>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
@@ -159,7 +145,6 @@
       <Name>|v_srf|</Name>
       <ParameterKey>pas_momgr_v_tot</ParameterKey>
       <Description>Velocity magnitude in SRF frame</Description>
-      <UCD/>
       <Units>km/s</Units>
       <Particle>
         <ParticleQuantity>Velocity</ParticleQuantity>
@@ -169,7 +154,6 @@
       <Name>|v_srf| : err</Name>
       <ParameterKey>pas_momgr_v_err</ParameterKey>
       <Description>err = v * sqrt(t/e_mean)/sqrt(cnts)</Description>
-      <UCD/>
       <Units>km/s</Units>
       <Particle>
         <ParticleQuantity>Velocity</ParticleQuantity>
@@ -179,7 +163,6 @@
       <Name>v_rtn</Name>
       <ParameterKey>pas_momgr1_v_rtn</ParameterKey>
       <Description>Velocity in RTN frame</Description>
-      <UCD/>
       <Units>km/s</Units>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
@@ -213,7 +196,6 @@
       <Name>|v_rtn|</Name>
       <ParameterKey>pas_momgr1_v_rtn_tot</ParameterKey>
       <Description>Velocity magnitude in RTN frame</Description>
-      <UCD/>
       <Units>km/s</Units>
       <Particle>
         <ParticleQuantity>Velocity</ParticleQuantity>
@@ -222,8 +204,6 @@
     <Parameter>
       <Name>t_av</Name>
       <ParameterKey>pas_momgr_tav</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>eV</Units>
       <Particle>
         <ParticleQuantity>Temperature</ParticleQuantity>
@@ -233,7 +213,6 @@
       <Name>t_srf</Name>
       <ParameterKey>pas_momgr_t</ParameterKey>
       <Description>Temperature components (Tx, Ty, Tz) in SRF frame</Description>
-      <UCD/>
       <Units>eV</Units>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
@@ -300,7 +279,6 @@
       <Name>pressure_srf</Name>
       <ParameterKey>pas_momgr_press</ParameterKey>
       <Description>Pressure tensor in SRF frame</Description>
-      <UCD/>
       <Units>J*cm**-3</Units>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>

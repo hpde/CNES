@@ -62,10 +62,6 @@
     <Parameter>
       <Name>science mode</Name>
       <ParameterKey>mms1_hpca_mode</ParameterKey>
-      <Description/>
-      <UCD/>
-      <Units/>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -76,10 +72,7 @@
     <Parameter>
       <Name>b_gse spin</Name>
       <ParameterKey>mms1_hpca_bgse</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>nT</Units>
-      <UnitsConversion/>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
         <CoordinateSystemName>GSE</CoordinateSystemName>
@@ -116,10 +109,7 @@
     <Parameter>
       <Name>b_gsm spin</Name>
       <ParameterKey>mms1_hpca_bgsm</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>nT</Units>
-      <UnitsConversion/>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
         <CoordinateSystemName>GSM</CoordinateSystemName>
@@ -156,10 +146,7 @@
     <Parameter>
       <Name>|b| spin</Name>
       <ParameterKey>mms1_hpca_btot</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>nT</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -171,10 +158,7 @@
     <Parameter>
       <Name>h+ density</Name>
       <ParameterKey>mms1_hplus_n</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>cm^-3</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -187,10 +171,7 @@
     <Parameter>
       <Name>h+ v_gse</Name>
       <ParameterKey>mms1_hplus_vgse</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>km/s</Units>
-      <UnitsConversion/>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
         <CoordinateSystemName>GSE</CoordinateSystemName>
@@ -228,10 +209,7 @@
     <Parameter>
       <Name>h+ v_gsm</Name>
       <ParameterKey>mms1_hplus_vgsm</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>km/s</Units>
-      <UnitsConversion/>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
         <CoordinateSystemName>GSM</CoordinateSystemName>
@@ -269,10 +247,7 @@
     <Parameter>
       <Name>h+ v_para_gse</Name>
       <ParameterKey>mms1_hplus_vpara_gse</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>km/s</Units>
-      <UnitsConversion/>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
         <CoordinateSystemName>GSE</CoordinateSystemName>
@@ -310,10 +285,7 @@
     <Parameter>
       <Name>h+ v_para_gsm</Name>
       <ParameterKey>mms1_hplus_vpara_gsm</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>km/s</Units>
-      <UnitsConversion/>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
         <CoordinateSystemName>GSM</CoordinateSystemName>
@@ -351,10 +323,7 @@
     <Parameter>
       <Name>h+ |v_para|</Name>
       <ParameterKey>mms1_hplus_vpara_tot</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>km/s</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -367,10 +336,7 @@
     <Parameter>
       <Name>h+ v_perp_gse</Name>
       <ParameterKey>mms1_hplus_vperp_gse</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>km/s</Units>
-      <UnitsConversion/>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
         <CoordinateSystemName>GSE</CoordinateSystemName>
@@ -408,10 +374,7 @@
     <Parameter>
       <Name>h+ v_perp_gsm</Name>
       <ParameterKey>mms1_hplus_vperp_gsm</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>km/s</Units>
-      <UnitsConversion/>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
         <CoordinateSystemName>GSM</CoordinateSystemName>
@@ -449,10 +412,7 @@
     <Parameter>
       <Name>h+ |v_perp|</Name>
       <ParameterKey>mms1_hplus_vperp_tot</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>km/s</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -465,10 +425,7 @@
     <Parameter>
       <Name>h+ temperature</Name>
       <ParameterKey>mms1_hplus_t</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>eV</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -481,10 +438,7 @@
     <Parameter>
       <Name>h+ t_para</Name>
       <ParameterKey>mms1_hplus_tpara</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>eV</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -497,10 +451,7 @@
     <Parameter>
       <Name>h+ t_perp</Name>
       <ParameterKey>mms1_hplus_tperp</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>eV</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -513,7 +464,6 @@
     <Parameter>
       <Name>h+ pressure_gse</Name>
       <ParameterKey>mms1_hplus_press</ParameterKey>
-      <Description/>
       <UCD>phys.pressure</UCD>
       <Units>nPa</Units>
       <CoordinateSystem>
@@ -580,10 +530,7 @@
     <Parameter>
       <Name>he+ density</Name>
       <ParameterKey>mms1_heplus_n</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>cm^-3</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -596,10 +543,7 @@
     <Parameter>
       <Name>he+ v_gse</Name>
       <ParameterKey>mms1_heplus_vgse</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>km/s</Units>
-      <UnitsConversion/>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
         <CoordinateSystemName>GSE</CoordinateSystemName>
@@ -637,10 +581,7 @@
     <Parameter>
       <Name>he+ v_gsm</Name>
       <ParameterKey>mms1_heplus_vgsm</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>km/s</Units>
-      <UnitsConversion/>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
         <CoordinateSystemName>GSM</CoordinateSystemName>
@@ -678,10 +619,7 @@
     <Parameter>
       <Name>he+ v_para_gse</Name>
       <ParameterKey>mms1_heplus_vpara_gse</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>km/s</Units>
-      <UnitsConversion/>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
         <CoordinateSystemName>GSE</CoordinateSystemName>
@@ -719,10 +657,7 @@
     <Parameter>
       <Name>he+ v_para_gsm</Name>
       <ParameterKey>mms1_heplus_vpara_gsm</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>km/s</Units>
-      <UnitsConversion/>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
         <CoordinateSystemName>GSM</CoordinateSystemName>
@@ -760,10 +695,7 @@
     <Parameter>
       <Name>he+ |v_para|</Name>
       <ParameterKey>mms1_heplus_vpara_tot</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>km/s</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -776,10 +708,7 @@
     <Parameter>
       <Name>he+ v_perp_gse</Name>
       <ParameterKey>mms1_heplus_vperp_gse</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>km/s</Units>
-      <UnitsConversion/>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
         <CoordinateSystemName>GSE</CoordinateSystemName>
@@ -817,10 +746,7 @@
     <Parameter>
       <Name>he+ v_perp_gsm</Name>
       <ParameterKey>mms1_heplus_vperp_gsm</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>km/s</Units>
-      <UnitsConversion/>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
         <CoordinateSystemName>GSM</CoordinateSystemName>
@@ -858,10 +784,7 @@
     <Parameter>
       <Name>he+ |v_perp|</Name>
       <ParameterKey>mms1_heplus_vperp_tot</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>km/s</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -874,10 +797,7 @@
     <Parameter>
       <Name>he+ temperature</Name>
       <ParameterKey>mms1_heplus_t</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>eV</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -890,10 +810,7 @@
     <Parameter>
       <Name>he+ t_para</Name>
       <ParameterKey>mms1_heplus_tpara</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>eV</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -906,10 +823,7 @@
     <Parameter>
       <Name>he+ t_perp</Name>
       <ParameterKey>mms1_heplus_tperp</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>eV</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -922,7 +836,6 @@
     <Parameter>
       <Name>he+ pressure_gse</Name>
       <ParameterKey>mms1_heplus_press</ParameterKey>
-      <Description/>
       <UCD>phys.pressure</UCD>
       <Units>nPa</Units>
       <CoordinateSystem>
@@ -989,10 +902,7 @@
     <Parameter>
       <Name>he++ density</Name>
       <ParameterKey>mms1_heplusplus_n</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>cm^-3</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -1005,10 +915,7 @@
     <Parameter>
       <Name>he++ v_gse</Name>
       <ParameterKey>mms1_heplusplus_vgse</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>km/s</Units>
-      <UnitsConversion/>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
         <CoordinateSystemName>GSE</CoordinateSystemName>
@@ -1046,10 +953,7 @@
     <Parameter>
       <Name>he++ v_gsm</Name>
       <ParameterKey>mms1_heplusplus_vgsm</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>km/s</Units>
-      <UnitsConversion/>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
         <CoordinateSystemName>GSM</CoordinateSystemName>
@@ -1087,10 +991,7 @@
     <Parameter>
       <Name>he++ v_para_gse</Name>
       <ParameterKey>mms1_heplusplus_vpara_gse</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>km/s</Units>
-      <UnitsConversion/>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
         <CoordinateSystemName>GSE</CoordinateSystemName>
@@ -1128,10 +1029,7 @@
     <Parameter>
       <Name>he++ v_para_gsm</Name>
       <ParameterKey>mms1_heplusplus_vpara_gsm</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>km/s</Units>
-      <UnitsConversion/>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
         <CoordinateSystemName>GSM</CoordinateSystemName>
@@ -1169,10 +1067,7 @@
     <Parameter>
       <Name>he++ |v_para|</Name>
       <ParameterKey>mms1_heplusplus_vpara_tot</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>km/s</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -1185,10 +1080,7 @@
     <Parameter>
       <Name>he++ v_perp_gse</Name>
       <ParameterKey>mms1_heplusplus_vperp_gse</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>km/s</Units>
-      <UnitsConversion/>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
         <CoordinateSystemName>GSE</CoordinateSystemName>
@@ -1226,10 +1118,7 @@
     <Parameter>
       <Name>he++ v_perp_gsm</Name>
       <ParameterKey>mms1_heplusplus_vperp_gsm</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>km/s</Units>
-      <UnitsConversion/>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
         <CoordinateSystemName>GSM</CoordinateSystemName>
@@ -1267,10 +1156,7 @@
     <Parameter>
       <Name>he++ |v_perp|</Name>
       <ParameterKey>mms1_heplusplus_vperp_tot</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>km/s</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -1283,10 +1169,7 @@
     <Parameter>
       <Name>he++ temperature</Name>
       <ParameterKey>mms1_heplusplus_t</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>eV</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -1299,10 +1182,7 @@
     <Parameter>
       <Name>he++ t_para</Name>
       <ParameterKey>mms1_heplusplus_tpara</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>eV</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -1315,10 +1195,7 @@
     <Parameter>
       <Name>he++ t_perp</Name>
       <ParameterKey>mms1_heplusplus_tperp</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>eV</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -1331,7 +1208,6 @@
     <Parameter>
       <Name>he++ pressure_gse</Name>
       <ParameterKey>mms1_heplusplus_press</ParameterKey>
-      <Description/>
       <UCD>phys.pressure</UCD>
       <Units>nPa</Units>
       <CoordinateSystem>
@@ -1398,10 +1274,7 @@
     <Parameter>
       <Name>o+ density</Name>
       <ParameterKey>mms1_oplus_n</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>cm^-3</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -1414,10 +1287,7 @@
     <Parameter>
       <Name>o+ v_gse</Name>
       <ParameterKey>mms1_oplus_vgse</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>km/s</Units>
-      <UnitsConversion/>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
         <CoordinateSystemName>GSE</CoordinateSystemName>
@@ -1455,10 +1325,7 @@
     <Parameter>
       <Name>o+ v_gsm</Name>
       <ParameterKey>mms1_oplus_vgsm</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>km/s</Units>
-      <UnitsConversion/>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
         <CoordinateSystemName>GSM</CoordinateSystemName>
@@ -1496,10 +1363,7 @@
     <Parameter>
       <Name>o+ v_para_gse</Name>
       <ParameterKey>mms1_oplus_vpara_gse</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>km/s</Units>
-      <UnitsConversion/>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
         <CoordinateSystemName>GSE</CoordinateSystemName>
@@ -1537,10 +1401,7 @@
     <Parameter>
       <Name>o+ v_para_gsm</Name>
       <ParameterKey>mms1_oplus_vpara_gsm</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>km/s</Units>
-      <UnitsConversion/>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
         <CoordinateSystemName>GSM</CoordinateSystemName>
@@ -1578,10 +1439,7 @@
     <Parameter>
       <Name>o+ |v_para|</Name>
       <ParameterKey>mms1_oplus_vpara_tot</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>km/s</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -1594,10 +1452,7 @@
     <Parameter>
       <Name>o+ v_perp_gse</Name>
       <ParameterKey>mms1_oplus_vperp_gse</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>km/s</Units>
-      <UnitsConversion/>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
         <CoordinateSystemName>GSE</CoordinateSystemName>
@@ -1635,10 +1490,7 @@
     <Parameter>
       <Name>o+ v_perp_gsm</Name>
       <ParameterKey>mms1_oplus_vperp_gsm</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>km/s</Units>
-      <UnitsConversion/>
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
         <CoordinateSystemName>GSM</CoordinateSystemName>
@@ -1676,10 +1528,7 @@
     <Parameter>
       <Name>o+ |v_perp|</Name>
       <ParameterKey>mms1_oplus_vperp_tot</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>km/s</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -1692,10 +1541,7 @@
     <Parameter>
       <Name>o+ temperature</Name>
       <ParameterKey>mms1_oplus_t</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>eV</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -1708,10 +1554,7 @@
     <Parameter>
       <Name>o+ t_para</Name>
       <ParameterKey>mms1_oplus_tpara</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>eV</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -1724,10 +1567,7 @@
     <Parameter>
       <Name>o+ t_perp</Name>
       <ParameterKey>mms1_oplus_tperp</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>eV</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -1740,7 +1580,6 @@
     <Parameter>
       <Name>o+ pressure_gse</Name>
       <ParameterKey>mms1_oplus_press</ParameterKey>
-      <Description/>
       <UCD>phys.pressure</UCD>
       <Units>nPa</Units>
       <CoordinateSystem>

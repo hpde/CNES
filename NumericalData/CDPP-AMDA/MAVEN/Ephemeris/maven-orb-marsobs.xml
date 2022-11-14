@@ -71,10 +71,7 @@
     <Parameter>
       <Name>xyz_iau_mars</Name>
       <ParameterKey>mav_xyz_iaumars</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>Rma</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -96,9 +93,6 @@
           <ParameterKey>mav_xyz_iaumars(2)</ParameterKey>
         </Element>
       </Structure>
-      <ValidMin/>
-      <ValidMax/>
-      <FillValue/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>
@@ -106,8 +100,6 @@
     <Parameter>
       <Name>xyz_mso</Name>
       <ParameterKey>mav_xyz_mso</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>Rma</Units>
       <UnitsConversion>3.396e6</UnitsConversion>
       <CoordinateSystem>
@@ -135,9 +127,6 @@
           <ParameterKey>mav_xyz_mso(2)</ParameterKey>
         </Element>
       </Structure>
-      <ValidMin/>
-      <ValidMax/>
-      <FillValue/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>
@@ -145,10 +134,7 @@
     <Parameter>
       <Name>distance maven-mars</Name>
       <ParameterKey>mav_mars_r</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>Rma</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -159,10 +145,7 @@
     <Parameter>
       <Name>lon_iau_mars</Name>
       <ParameterKey>mav_lon_iaumars</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>degrees</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -173,10 +156,7 @@
     <Parameter>
       <Name>lat_iau_mars</Name>
       <ParameterKey>mav_lat_iaumars</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>degrees</Units>
-      <UnitsConversion/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
@@ -187,7 +167,6 @@
     <Parameter>
       <Name>mav_orbit_num</Name>
       <ParameterKey>mav_orb_num</ParameterKey>
-      <Units/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>

@@ -5,11 +5,9 @@
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/Solar_Orbiter/Ephemeris/so-orb-venus2</ResourceID>
     <ResourceHeader>
       <ResourceName>Venus flyby #2</ResourceName>
-      <AlternateName/>
       <DOI>10.5270/esa-kt1577e</DOI>
       <ReleaseDate>2021-08-31T06:09:43Z</ReleaseDate>
       <Description>Calculated at IRAP using SPICE kernels</Description>
-      <Acknowledgement/>
       <Contact>
         <PersonID>spase://SMWG/Person/Elena.Budnik</PersonID>
         <Role>DataProducer</Role>
@@ -17,8 +15,7 @@
       <InformationURL>
         <Name>Landing Page at ESAC</Name>
         <URL>https://doi.org/10.5270/esa-kt1577e</URL>
-        <Description/>
-      </InformationURL>
+        </InformationURL>
     </ResourceHeader>
     <AccessInformation>
          <RepositoryID>spase://SMWG/Repository/CDPP/AMDA</RepositoryID>
@@ -65,36 +62,24 @@
     <Parameter>
       <Name>xyz_vso</Name>
       <ParameterKey>so_xyz_vso2</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>Rv</Units>
-      <UnitsConversion/>
       <Structure>
         <Size>3</Size>
         <Element>
           <Name>x</Name>
           <Index>1</Index>
           <ParameterKey>so_xyz_vso2(0)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>y</Name>
           <Index>2</Index>
           <ParameterKey>so_xyz_vso2(1)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
         <Element>
           <Name>z</Name>
           <Index>3</Index>
           <ParameterKey>so_xyz_vso2(2)</ParameterKey>
-          <ValidMin/>
-          <ValidMax/>
-          <FillValue/>
-        </Element>
+          </Element>
       </Structure>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
@@ -103,10 +88,7 @@
     <Parameter>
       <Name>distance solo-venus</Name>
       <ParameterKey>so_venus2_r</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>Rv</Units>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>
@@ -114,10 +96,7 @@
     <Parameter>
       <Name>lon iau_venus</Name>
       <ParameterKey>lon_so_venus2</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>deg</Units>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>
@@ -125,10 +104,7 @@
     <Parameter>
       <Name>lat iau_venus</Name>
       <ParameterKey>lat_so_venus2</ParameterKey>
-      <Description/>
-      <UCD/>
       <Units>deg</Units>
-      <UnitsConversion/>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>
