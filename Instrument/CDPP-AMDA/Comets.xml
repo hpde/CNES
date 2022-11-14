@@ -13,7 +13,7 @@
       </Contact>
     </ResourceHeader>
     <InstrumentType>Platform</InstrumentType>
-    <InvestigationName/>
+    <InvestigationName>Comet Churyumov-Gerasimenko (C-G; P67) - Ephemeris</InvestigationName>
     <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/Ephemerides</ObservatoryID>
   </Instrument>
 </Spase>

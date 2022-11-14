@@ -12,9 +12,6 @@
         <PersonID>spase://SMWG/Person/Milan.Maksimovic</PersonID>
         <Role>PrincipalInvestigator</Role>
       </Contact>
-      <InformationURL>
-        <URL/>
-        </InformationURL>
       <Association>
         <AssociationID>solo-rpw-l3</AssociationID>
         <AssociationType>PartOf</AssociationType>

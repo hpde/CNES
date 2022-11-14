@@ -13,7 +13,7 @@
       </Contact>
     </ResourceHeader>
     <InstrumentType>Platform</InstrumentType>
-    <InvestigationName/>
+    <InvestigationName>Planets/Moons Orbitography</InvestigationName>
     <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/Ephemerides</ObservatoryID>
   </Instrument>
 </Spase>

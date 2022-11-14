@@ -11,10 +11,7 @@
         <PersonID>spase://CNES/Person/CDPP-AMDA/K.A.Anderson</PersonID>
         <Role>PrincipalInvestigator</Role>
       </Contact>
-      <InformationURL>
-        <URL/>
-        </InformationURL>
-    </ResourceHeader>
+      </ResourceHeader>
     <AccessInformation>
          <RepositoryID>spase://SMWG/Repository/CDPP/AMDA</RepositoryID>
          <Availability>Online</Availability>

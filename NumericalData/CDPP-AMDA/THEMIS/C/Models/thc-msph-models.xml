@@ -16,9 +16,6 @@
         <PersonID>spase://SMWG/Person/Christian.Jacquey</PersonID>
         <Role>TechnicalContact</Role>
       </Contact>
-      <InformationURL>
-        <URL/>
-        </InformationURL>
       <PriorID>thc-orb-all</PriorID>
     </ResourceHeader>
     <AccessInformation>

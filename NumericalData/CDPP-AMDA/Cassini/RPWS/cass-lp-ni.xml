@@ -13,10 +13,7 @@
         <PersonID>spase://CNES/Person/CDPP-AMDA/Mika.Holmberg</PersonID>
         <Role>DataProducer</Role>
       </Contact>
-      <InformationURL>
-        <URL/>
-      </InformationURL>
-    </ResourceHeader>
+      </ResourceHeader>
     <AccessInformation>
          <RepositoryID>spase://SMWG/Repository/CDPP/AMDA</RepositoryID>
          <Availability>Online</Availability>

@@ -27,9 +27,6 @@
         <PersonID>spase://SMWG/Person/Elena.Budnik</PersonID>
         <Role>TechnicalContact</Role>
       </Contact>
-      <InformationURL>
-        <URL/>
-        </InformationURL>
       <Association>
         <AssociationID>gtl-ics-high</AssociationID>
         <AssociationType>PartOf</AssociationType>

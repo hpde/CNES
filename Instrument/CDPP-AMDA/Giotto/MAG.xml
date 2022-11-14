@@ -13,7 +13,7 @@
       </Contact>
     </ResourceHeader>
     <InstrumentType>Magnetometer</InstrumentType>
-    <InvestigationName/>
+    <InvestigationName>Magnetometer</InvestigationName>
     <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/Giotto</ObservatoryID>
   </Instrument>
 </Spase>

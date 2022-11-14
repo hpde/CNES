@@ -17,7 +17,7 @@
       </InformationURL>
       </ResourceHeader>
     <InstrumentType>Platform</InstrumentType>
-    <InvestigationName/>
+    <InvestigationName>Ephemeris : Jupiter Moons</InvestigationName>
     <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/Galileo</ObservatoryID>
     </Instrument>
 </Spase>

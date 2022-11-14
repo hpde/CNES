@@ -29,7 +29,7 @@
       <PriorID>spase://SMWG/Instrument/THEMIS-A/ESA</PriorID>
     </ResourceHeader>
     <InstrumentType>ElectrostaticAnalyser</InstrumentType>
-    <InvestigationName/>
+    <InvestigationName>Dual Full Distribution Electrostatic Analyzers</InvestigationName>
     <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/THEMIS/ThemisA</ObservatoryID>
     </Instrument>
 </Spase>

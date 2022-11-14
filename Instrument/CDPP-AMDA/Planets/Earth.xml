@@ -13,7 +13,7 @@
       </Contact>
     </ResourceHeader>
     <InstrumentType>Unspecified</InstrumentType>
-    <InvestigationName/>
+    <InvestigationName>Geomagnetic properties</InvestigationName>
     <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/PlanetsProperties</ObservatoryID>
   </Instrument>
 </Spase>

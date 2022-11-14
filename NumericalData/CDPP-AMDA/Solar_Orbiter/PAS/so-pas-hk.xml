@@ -15,9 +15,6 @@
         <PersonID>spase://CNES/Person/CDPP-AMDA/Andrei.Fedorov</PersonID>
         <Role>PrincipalInvestigator</Role>
       </Contact>
-      <InformationURL>
-        <URL/>
-        </InformationURL>
       <Association>
         <AssociationID>solo-pas-l1</AssociationID>
         <AssociationType>PartOf</AssociationType>

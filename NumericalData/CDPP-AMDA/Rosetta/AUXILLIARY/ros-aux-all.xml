@@ -11,10 +11,7 @@
         <PersonID>spase://CNES/Person/CDPP-AMDA/L.Foldy</PersonID>
         <Role>TechnicalContact</Role>
       </Contact>
-      <InformationURL>
-        <URL/>
-        </InformationURL>
-    </ResourceHeader>
+      </ResourceHeader>
     <AccessInformation>
          <RepositoryID>spase://SMWG/Repository/CDPP/AMDA</RepositoryID>
          <Availability>Online</Availability>

@@ -21,7 +21,7 @@
       </InformationURL> 
       </ResourceHeader>
     <InstrumentType>Platform</InstrumentType>
-    <InvestigationName/>
+    <InvestigationName>Ephemeris: Saturn Moons</InvestigationName>
     <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/Cassini</ObservatoryID>
     </Instrument>
 </Spase>

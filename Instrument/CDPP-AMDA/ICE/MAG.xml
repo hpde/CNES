@@ -13,7 +13,7 @@
       </Contact>
     </ResourceHeader>
    <InstrumentType>Magnetometer</InstrumentType>
-    <InvestigationName/>
+   <InvestigationName>Vector Helium Magnetometer</InvestigationName>
     <ObservatoryID>spase://CNES/Observatory/CDPP-AMDA/ICE</ObservatoryID>
   </Instrument>
 </Spase>

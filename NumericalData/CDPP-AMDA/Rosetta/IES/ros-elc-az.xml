@@ -38,9 +38,6 @@
         <PersonID>spase://CNES/Person/CDPP-AMDA/Brad.Trantham</PersonID>
         <Role>DataProducer</Role>
       </Contact>
-      <InformationURL>
-        <URL/>
-        </InformationURL>
       <Association>
         <AssociationID>ros-elc-all</AssociationID>
         <AssociationType>PartOf</AssociationType>
