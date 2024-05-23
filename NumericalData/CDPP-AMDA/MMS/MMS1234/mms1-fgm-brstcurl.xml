@@ -6,7 +6,7 @@
     <ResourceHeader>
       <ResourceName>MMS_1234 - FGM - burst - current</ResourceName>
       <ReleaseDate>2024-05-03T03:31:05Z</ReleaseDate>
-      <Description>ToDo</Description>
+      <Description>Curlometer.</Description>
       <Contact>
         <PersonID>spase://CNES/Person/CDPP-AMDA/Penou</PersonID>
         <Role>DataProducer</Role>

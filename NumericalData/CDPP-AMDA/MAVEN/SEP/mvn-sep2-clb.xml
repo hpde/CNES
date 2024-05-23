@@ -7,6 +7,8 @@
       <ResourceName>MAVEN - SEP - telescope 2 - diff fluxes</ResourceName>
       <ReleaseDate>2024-04-02T00:29:52Z</ReleaseDate>
       <Description>MAVEN SEP 1 Calibrated Ion (without mass discrimination) and Electron Spectra in Forward/Rear look directions (#/cm^2/sec/ster/keV) : Parker / anti-Parker spiral and perpendicular directions                       
+      
+      Attenuator state: 0=error, 1=open, 2=closed, 3=mixed
          </Description>
       <Acknowledgement>Principal Investigator : Davin Larson, SSL, Berkeley</Acknowledgement>
       <Contact>

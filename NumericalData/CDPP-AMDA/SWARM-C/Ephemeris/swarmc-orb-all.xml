@@ -6,8 +6,8 @@
     <ResourceHeader>
       <ResourceName>Swarm-C - Ephemeris - 1 s - position in ITRF</ResourceName>
       <AlternateName>Swarm-C orbital information from FAC dataset</AlternateName>
-      <ReleaseDate>2024-05-22T02:22:11Z</ReleaseDate>
-      <Description>ToDo</Description>
+      <ReleaseDate>2024-05-23T02:22:19Z</ReleaseDate>
+      <Description>Swarm-C orbital information from FAC dataset</Description>
       <Contact>
         <PersonID>spase://CNES/Person/CDPP-AMDA/R.Haagmans</PersonID>
         <Role>ProjectScientist</Role>
@@ -58,7 +58,7 @@
     <TemporalDescription>
       <TimeSpan>
         <StartDate>2013-12-04T00:00:00Z</StartDate>
-        <StopDate>2024-05-16T23:59:59Z</StopDate>
+        <StopDate>2024-05-17T23:59:59Z</StopDate>
       </TimeSpan>
       <Cadence>PT1S</Cadence>
     </TemporalDescription>

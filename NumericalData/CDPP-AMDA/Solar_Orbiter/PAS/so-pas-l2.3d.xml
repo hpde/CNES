@@ -5,8 +5,8 @@
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/Solar_Orbiter/PAS/so-pas-l2.3d</ResourceID>
     <ResourceHeader>
       <ResourceName>SolarOrbiter - SWA/PAS - L2 - 3D : distribution function</ResourceName>
-      <ReleaseDate>2024-05-22T03:02:54Z</ReleaseDate>
-      <Description>ToDo</Description>
+      <ReleaseDate>2024-05-23T02:58:18Z</ReleaseDate>
+      <Description>Solar Orbiter Proton Analyser Sensor L2 data - 3D : distribution function</Description>
       <Contact>
         <PersonID>spase://SMWG/Person/Philippe.Louarn</PersonID>
         <Role>PrincipalInvestigator</Role>

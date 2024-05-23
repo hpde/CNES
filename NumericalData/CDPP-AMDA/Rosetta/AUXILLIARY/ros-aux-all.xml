@@ -6,7 +6,7 @@
     <ResourceHeader>
       <ResourceName>Rosetta - AUX - Orbit/Attitude</ResourceName>
       <ReleaseDate>2017-07-18T22:15:05Z</ReleaseDate>
-      <Description>ToDo</Description>
+      <Description>Orbit/Attitude</Description>
       <Contact>
         <PersonID>spase://CNES/Person/CDPP-AMDA/L.Foldy</PersonID>
         <Role>TechnicalContact</Role>

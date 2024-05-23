@@ -7,7 +7,7 @@
       <ResourceName>Swarm-B - Ephemeris - 0.5 s - lp extended dataset</ResourceName>
       <AlternateName>Swarm-B orbital information from EFI / LP extended dataset</AlternateName>
       <ReleaseDate>2024-05-20T02:28:10Z</ReleaseDate>
-      <Description>ToDo</Description>
+      <Description>Swarm-B orbital information from EFI / LP extended dataset</Description>
       <Contact>
         <PersonID>spase://CNES/Person/CDPP-AMDA/S.Buchert</PersonID>
         <Role>Scientist</Role>

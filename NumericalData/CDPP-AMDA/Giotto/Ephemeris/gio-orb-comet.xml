@@ -6,7 +6,7 @@
     <ResourceHeader>
       <ResourceName>Giotto - Ephemeris - flyby comet/halley</ResourceName>
       <ReleaseDate>2014-06-18T12:59:54Z</ReleaseDate>
-      <Description>ToDo</Description>
+      <Description>Giotto spacecraft positions in various coordinate systems</Description>
       <Contact>
         <PersonID>spase://SMWG/Person/Elena.Budnik</PersonID>
         <Role>MetadataContact</Role>

@@ -5,8 +5,8 @@
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/ARTEMIS/P2/FGM/athp2-fgm-s</ResourceID>
     <ResourceHeader>
       <ResourceName>ARTEMIS-P2 - FGM - 3 sec (spin)</ResourceName>
-      <ReleaseDate>2024-05-22T02:03:50Z</ReleaseDate>
-      <Description>ToDo</Description>
+      <ReleaseDate>2024-05-23T02:03:42Z</ReleaseDate>
+      <Description>Fluxgate Magnetometer (FGM) data - Level 2 - FGS (spin-resolution) magnetic field</Description>
       <Contact>
         <PersonID>spase://SMWG/Person/Uli.Auster</PersonID>
         <Role>TechnicalContact</Role>
@@ -47,7 +47,7 @@
     <TemporalDescription>
       <TimeSpan>
         <StartDate>2011-07-17T00:00:00Z</StartDate>
-        <StopDate>2024-05-18T18:17:41Z</StopDate>
+        <StopDate>2024-05-19T00:02:50Z</StopDate>
       </TimeSpan>
       <Cadence>PT4S</Cadence>
     </TemporalDescription>

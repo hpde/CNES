@@ -6,7 +6,7 @@
     <ResourceHeader>
       <ResourceName>Giotto - MAG - magnetic field</ResourceName>
       <ReleaseDate>2014-06-12T09:43:08Z</ReleaseDate>
-      <Description>ToDo</Description>
+      <Description>Giotto Magnetometer Experiment data</Description>
       <Contact>
         <PersonID>spase://SMWG/Person/Elena.Budnik</PersonID>
         <Role>GeneralContact</Role>

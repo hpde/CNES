@@ -6,7 +6,8 @@
     <ResourceHeader>
       <ResourceName>Ulysses - SWOOPS - sw electrons</ResourceName>
       <ReleaseDate>2012-03-06T21:16:53Z</ReleaseDate>
-      <Description>ToDo</Description>
+      <Description>This data set contains 3 to 22 minutes averages of the electron density and temperature data from the 
+    Ulysses Solar Wind Observations Over the Poles of the Sun instrument.</Description>
       <Contact>
         <PersonID>spase://SMWG/Person/Elena.Budnik</PersonID>
         <Role>GeneralContact</Role>

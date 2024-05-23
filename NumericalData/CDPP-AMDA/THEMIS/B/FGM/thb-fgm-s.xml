@@ -5,8 +5,8 @@
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/THEMIS/B/FGM/thb-fgm-s</ResourceID>
     <ResourceHeader>
       <ResourceName>THEMIS-B - FGM - 3 sec (spin)</ResourceName>
-      <ReleaseDate>2024-05-22T02:03:32Z</ReleaseDate>
-      <Description>ToDo</Description>
+      <ReleaseDate>2024-05-23T02:03:26Z</ReleaseDate>
+      <Description>Fluxgate Magnetometer (FGM) data - Level 2 - FGS (spin-resolution) magnetic field</Description>
       <Contact>
         <PersonID>spase://SMWG/Person/Uli.Auster</PersonID>
         <Role>TechnicalContact</Role>

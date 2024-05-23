@@ -5,8 +5,8 @@
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/THEMIS/C/FGM/thc-fgm-l</ResourceID>
     <ResourceHeader>
       <ResourceName>THEMIS-C - FGM - 0.25 sec (low)</ResourceName>
-      <ReleaseDate>2024-05-22T02:03:48Z</ReleaseDate>
-      <Description>ToDo</Description>
+      <ReleaseDate>2024-05-23T02:03:39Z</ReleaseDate>
+      <Description>Fluxgate Magnetometer (FGM) data - Level 2 - FGL (low-resolution) magnetic field</Description>
       <Contact>
         <PersonID>spase://SMWG/Person/Uli.Auster</PersonID>
         <Role>TechnicalContact</Role>

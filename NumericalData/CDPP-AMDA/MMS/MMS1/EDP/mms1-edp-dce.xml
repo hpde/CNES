@@ -6,8 +6,8 @@
     <ResourceHeader>
       <ResourceName>MMS1 - EDP - fast - dc e-field</ResourceName>
       <AlternateName>dc electric field / fast / l2</AlternateName>
-      <ReleaseDate>2024-05-22T02:39:41Z</ReleaseDate>
-      <Description>ToDo</Description>
+      <ReleaseDate>2024-05-23T02:39:00Z</ReleaseDate>
+      <Description>Electric Double Probe, Quick-Look Three-Dimensional Electric Field, Level 2, Fast Survey Data</Description>
       <Contact>
         <PersonID>spase://SMWG/Person/James.L.Burch</PersonID>
         <Role>PrincipalInvestigator</Role>

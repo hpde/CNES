@@ -6,8 +6,8 @@
     <ResourceHeader>
       <ResourceName>THEMIS-E - ESA - onboard moments : potential</ResourceName>
       <AlternateName>S/c potential from onboard moments</AlternateName>
-      <ReleaseDate>2024-05-22T02:01:58Z</ReleaseDate>
-      <Description>ToDo</Description>
+      <ReleaseDate>2024-05-23T02:01:59Z</ReleaseDate>
+      <Description>Electrostatic Analyzer (ESA) data - Level 2 - S/c potential from onboard moments</Description>
       <Contact>
         <PersonID>spase://SMWG/Person/Vassilis.Angelopoulos</PersonID>
         <Role>PrincipalInvestigator</Role>
@@ -48,7 +48,7 @@
     <TemporalDescription>
       <TimeSpan>
         <StartDate>2007-08-10T00:00:17Z</StartDate>
-        <StopDate>2024-05-20T02:46:04Z</StopDate>
+        <StopDate>2024-05-21T02:12:08Z</StopDate>
       </TimeSpan>
       <Cadence>PT3S</Cadence>
     </TemporalDescription>

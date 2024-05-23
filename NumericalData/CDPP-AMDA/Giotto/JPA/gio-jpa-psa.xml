@@ -6,7 +6,7 @@
     <ResourceHeader>
       <ResourceName>Giotto - JPA - protons</ResourceName>
       <ReleaseDate>2014-06-13T14:06:35Z</ReleaseDate>
-      <Description>ToDo</Description>
+      <Description>Johnstone Plasma Analyser - protons data.</Description>
       <Contact>
         <PersonID>spase://SMWG/Person/Elena.Budnik</PersonID>
         <Role>GeneralContact</Role>

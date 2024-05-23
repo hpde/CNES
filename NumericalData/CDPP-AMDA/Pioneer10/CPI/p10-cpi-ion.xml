@@ -6,7 +6,10 @@
     <ResourceHeader>
       <ResourceName>Pioneer 10 - CPI - flyby jupiter - ion flux</ResourceName>
       <ReleaseDate>2012-09-13T15:54:27Z</ReleaseDate>
-      <Description>ToDo</Description>
+      <Description>Pionner 10
+                CPI - Charge Particle Instrument - 
+                Data provided to CDPP by ONERA. All information included in this report:
+                http://amda.cdpp.eu/help/parameters/doc/ONERA_Jupiter_plasma_db_for_AMDA.pdf</Description>
       <Contact>
         <PersonID>spase://SMWG/Person/Elena.Budnik</PersonID>
         <Role>GeneralContact</Role>

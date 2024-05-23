@@ -6,7 +6,7 @@
     <ResourceHeader>
       <ResourceName>Phobos-2 - MAG - b field</ResourceName>
       <ReleaseDate>2012-11-15T12:38:35Z</ReleaseDate>
-      <Description>ToDo</Description>
+      <Description>Magnetic field data</Description>
       <Contact>
         <PersonID>spase://SMWG/Person/Konrad.Schwingenschuh</PersonID>
         <Role>PrincipalInvestigator</Role>

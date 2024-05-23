@@ -6,7 +6,10 @@
     <ResourceHeader>
       <ResourceName>Pioneer 11 - CRT - flyby jupiter - ion flux</ResourceName>
       <ReleaseDate>2012-09-14T13:28:40Z</ReleaseDate>
-      <Description>ToDo</Description>
+      <Description>Pionner 11
+                CRT - Cosmic Ray Telescope - 
+                Data provided to CDPP by ONERA. All information included in this report:
+                http://amda.cdpp.eu/help/parameters/doc/ONERA_Jupiter_plasma_db_for_AMDA.pdf</Description>
       <Contact>
         <PersonID>spase://SMWG/Person/Elena.Budnik</PersonID>
         <Role>GeneralContact</Role>

@@ -5,8 +5,8 @@
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/THEMIS/E/ESA/the-esa-l2e</ResourceID>
     <ResourceHeader>
       <ResourceName>THEMIS-E - ESA - electron full mode</ResourceName>
-      <ReleaseDate>2024-05-22T02:00:49Z</ReleaseDate>
-      <Description>ToDo</Description>
+      <ReleaseDate>2024-05-23T02:00:51Z</ReleaseDate>
+      <Description>Electrostatic Analyzer (ESA) data - Level 2 - electron full mode</Description>
       <Contact>
         <PersonID>spase://SMWG/Person/Elena.Budnik</PersonID>
         <Role>TechnicalContact</Role>
@@ -47,7 +47,7 @@
     <TemporalDescription>
       <TimeSpan>
         <StartDate>2007-03-07T19:54:48Z</StartDate>
-        <StopDate>2024-05-20T02:44:28Z</StopDate>
+        <StopDate>2024-05-20T23:59:55Z</StopDate>
       </TimeSpan>
       <CadenceMin>PT96.27S</CadenceMin>
       <CadenceMax>PT551.0S</CadenceMax>

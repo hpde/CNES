@@ -5,8 +5,8 @@
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/THEMIS/B/ESA/thb-peim-all</ResourceID>
     <ResourceHeader>
       <ResourceName>THEMIS-B - ESA - ion onboard moments</ResourceName>
-      <ReleaseDate>2024-05-22T02:01:22Z</ReleaseDate>
-      <Description>ToDo</Description>
+      <ReleaseDate>2024-05-23T02:01:21Z</ReleaseDate>
+      <Description>Electrostatic Analyzer (ESA) data - Level 2 - ion onboard moments</Description>
       <Contact>
         <PersonID>spase://SMWG/Person/Vassilis.Angelopoulos</PersonID>
         <Role>PrincipalInvestigator</Role>

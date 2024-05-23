@@ -5,7 +5,7 @@
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/THEMIS/A/Ephemeris/tha-orb-all</ResourceID>
     <ResourceHeader>
       <ResourceName>THEMIS-A - Ephemeris - orbit</ResourceName>
-      <ReleaseDate>2024-05-21T02:01:54Z</ReleaseDate>
+      <ReleaseDate>2024-05-23T02:02:08Z</ReleaseDate>
       <Description>
             THEMIS A ephemeris
         </Description>
@@ -49,7 +49,7 @@
     <TemporalDescription>
       <TimeSpan>
         <StartDate>2007-02-17T23:36:00Z</StartDate>
-        <StopDate>2024-05-19T23:59:00Z</StopDate>
+        <StopDate>2024-05-21T23:59:00Z</StopDate>
       </TimeSpan>
       <Cadence>PT60S</Cadence>
     </TemporalDescription>

@@ -6,7 +6,7 @@
     <ResourceHeader>
       <ResourceName>Interball Tail - MIF-M - high resolution</ResourceName>
       <ReleaseDate>2020-07-10T10:55:42Z</ReleaseDate>
-      <Description>ToDo</Description>
+      <Description>This data set contains the DC/AC Magnetic Field (0-64 Hz and 1 Hz - 40 kHz) in GSM from the MIF-M magnetometer on board Interball-Tail.</Description>
       <Contact>
         <PersonID>spase://SMWG/Person/Stanislav.A.Romanov</PersonID>
         <Role>PrincipalInvestigator</Role>
