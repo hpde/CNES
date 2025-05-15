@@ -2,18 +2,20 @@
 <Spase xmlns="http://www.spase-group.org/data/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.spase-group.org/data/schema http://www.spase-group.org/data/schema/spase-2.4.1.xsd">
   <Version>2.4.1</Version>
   <NumericalData>
-    <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/Juno/Models/jun-jrm33-mshell</ResourceID>
+    <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/BepiColombo/Ephemeris/bepi-orb-mercury5</ResourceID>
     <ResourceHeader>
-      <ResourceName>Juno - Jovian Magnetic Field Models - JRM33 + Con2020 M-Shell</ResourceName>
-      <AlternateName>JRM33 + Con2020 M-Shell</AlternateName>
-      <ReleaseDate>2024-02-15T01:01:36Z</ReleaseDate>
-      <Description>Juno M-Shell calculated with JRM33+CON2020 between PJ1 (2016-08-27) and PJ56 (2023-11-22) with 1s-resolution.
-                Spatial resolution is 1/250 Rj ~ 300 km. Outer boundary is set to R=30 Rj.
-      </Description>
+      <ResourceName>BepiColombo - Ephemeris - Mercury flyby #5</ResourceName>
+      <ReleaseDate>2025-01-30T16:11:58Z</ReleaseDate>
+      <Description>Calculated by IRAP using BepiColombo SPICE kernels</Description>
+      <Acknowledgement>Please acknowledge the European Space Agency, ESA, and the Japanese Aerospace Exploration Agency, JAXA.</Acknowledgement>
       <Contact>
-        <PersonID>spase://CNES/Person/CDPP-AMDA/Jonas.Rabia</PersonID>
+        <PersonID>spase://CNES/Person/CDPP-AMDA/Benjamin.Renard</PersonID>
         <Role>DataProducer</Role>
       </Contact>
+      <InformationURL>
+        <Name>ESA SPICE Service</Name>
+        <URL>https://doi.org/10.5270/esa-dwuc9bs</URL>
+      </InformationURL>
     </ResourceHeader>
     <AccessInformation>
       <RepositoryID>spase://SMWG/Repository/CDPP/AMDA</RepositoryID>
@@ -23,7 +25,7 @@
         <Name>CDPP/AMDA HAPI Server</Name>
         <URL>https://amda.irap.omp.eu/service/hapi</URL>
         <Style>HAPI</Style>
-        <ProductKey>jun-jrm33-mshell</ProductKey>
+        <ProductKey>bepi-orb-mercury5</ProductKey>
         <Description>Web Service to this product using the HAPI interface.</Description>
       </AccessURL>
       <Format>CSV</Format>
@@ -44,49 +46,66 @@
       <Format>PNG</Format>
       <Acknowledgement>Thank you for acknowledging the use of AMDA in publications with wording like "Data analysis was performed with the AMDA science analysis system provided by the Centre de Données de la Physique des Plasmas (CDPP) supported by CNRS, CNES, Observatoire de Paris and Université Paul Sabatier, Toulouse". See the Rules of the road at https://amda.cdpp.eu/help/policy.html . Please acknowledge the Data Providers.</Acknowledgement>
     </AccessInformation>
-    <ProviderName>IRAP</ProviderName>
-    <InstrumentID>spase://CNES/Instrument/CDPP-AMDA/Juno/Models</InstrumentID>
-    <MeasurementType>MagneticField</MeasurementType>
+    <ProviderName>ESAC</ProviderName>
+    <ProviderResourceName>
+            * bc_mpo_fcp_00196_20181020_20270407_v02.bsp
+        </ProviderResourceName>
+    <InstrumentID>spase://CNES/Instrument/CDPP-AMDA/BepiColombo/Ephemeris</InstrumentID>
+    <MeasurementType>Ephemeris</MeasurementType>
     <TemporalDescription>
       <TimeSpan>
-        <StartDate>2016-08-27T00:00:00Z</StartDate>
-        <StopDate>2023-11-22T00:00:00Z</StopDate>
+        <StartDate>2024-11-30T00:00:00Z</StartDate>
+        <StopDate>2024-12-01T23:59:00Z</StopDate>
       </TimeSpan>
-      <Cadence>PT1S</Cadence>
+      <Cadence>PT60S</Cadence>
     </TemporalDescription>
-    <ObservedRegion>Jupiter</ObservedRegion>
-    <Caveats>Due to the limitation in the spatial resolution used for the computation, small stalls in M-Shell colatitude, longitude and curvilinear distance may occasionally occur close to the magnetic equator</Caveats>
+    <ObservedRegion>Mercury</ObservedRegion>
     <Parameter>
-      <Name>M-Shell</Name>
-      <ParameterKey>mshell_juno_m</ParameterKey>
-      <Description>M-Shell - Radial distance of the intersection between the magnetic field line and themagnetic equator</Description>
+      <Name>xyz_mso</Name>
+      <ParameterKey>bepi_xyz_mso5</ParameterKey>
+      <Units>Rm</Units>
+      <Structure>
+        <Size>3</Size>
+        <Element>
+          <Name>x</Name>
+          <Index>1</Index>
+          <ParameterKey>bepi_xyz_mso5(0)</ParameterKey>
+        </Element>
+        <Element>
+          <Name>y</Name>
+          <Index>2</Index>
+          <ParameterKey>bepi_xyz_mso5(1)</ParameterKey>
+        </Element>
+        <Element>
+          <Name>z</Name>
+          <Index>3</Index>
+          <ParameterKey>bepi_xyz_mso5(2)</ParameterKey>
+        </Element>
+      </Structure>
       <Support>
-        <SupportQuantity>Other</SupportQuantity>
+        <SupportQuantity>Positional</SupportQuantity>
       </Support>
     </Parameter>
     <Parameter>
-      <Name>M-Shell colatitude</Name>
-      <ParameterKey>mshell_juno_t</ParameterKey>
-      <Description>Colatitude (S3RH) of the intersection between the magnetic field line and themagnetic equator</Description>
+      <Name>distance bepi-mercury</Name>
+      <ParameterKey>bepi_mercury5_r</ParameterKey>
+      <Units>Rv</Units>
+      <Support>
+        <SupportQuantity>Positional</SupportQuantity>
+      </Support>
+    </Parameter>
+    <Parameter>
+      <Name>lon iau_mercury</Name>
+      <ParameterKey>lon_bepi_mercury5</ParameterKey>
       <Units>deg</Units>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>
     </Parameter>
     <Parameter>
-      <Name>M-Shell longitude</Name>
-      <ParameterKey>mshell_juno_p</ParameterKey>
-      <Description>Longitude (S3RH) of the intersection between the magnetic field line and themagnetic equator</Description>
+      <Name>lat iau_mercury</Name>
+      <ParameterKey>lat_bepi_mercury5</ParameterKey>
       <Units>deg</Units>
-      <Support>
-        <SupportQuantity>Positional</SupportQuantity>
-      </Support>
-    </Parameter>
-    <Parameter>
-      <Name>curvilinear distance s</Name>
-      <ParameterKey>mshell_juno_s</ParameterKey>
-      <Description>Curvilinear distance along the magnetic field line between the magnetic equator and the spacecraft</Description>
-      <Units>Rj</Units>
       <Support>
         <SupportQuantity>Positional</SupportQuantity>
       </Support>
