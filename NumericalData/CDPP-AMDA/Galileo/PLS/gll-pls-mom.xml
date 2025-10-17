@@ -67,7 +67,6 @@
       Refer to the instrument paper for the complete definition of each      
       mode.
       </Description>
-      <Units/>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>

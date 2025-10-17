@@ -5,7 +5,7 @@
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/THEMIS/C/ESA/thc-peem-all</ResourceID>
     <ResourceHeader>
       <ResourceName>THEMIS-C - ESA - electron onboard moments</ResourceName>
-      <ReleaseDate>2025-10-16T02:01:34Z</ReleaseDate>
+      <ReleaseDate>2025-10-17T02:01:37Z</ReleaseDate>
       <Description>Electrostatic Analyzer (ESA) data - Level 2 - electron onboard moments</Description>
       <Contact>
         <PersonID>spase://SMWG/Person/Vassilis.Angelopoulos</PersonID>

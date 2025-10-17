@@ -5,7 +5,7 @@
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/Solar_Orbiter/PAS/so-pas-l2.omni</ResourceID>
     <ResourceHeader>
       <ResourceName>SolarOrbiter - SWA/PAS - L2 - omni : diff E flux</ResourceName>
-      <ReleaseDate>2025-10-16T04:30:36Z</ReleaseDate>
+      <ReleaseDate>2025-10-17T04:28:28Z</ReleaseDate>
       <Description>Solar Orbiter Proton Analyser Sensor L2 data - omni : differential E flux</Description>
       <Contact>
         <PersonID>spase://SMWG/Person/Philippe.Louarn</PersonID>
@@ -56,7 +56,7 @@
     <TemporalDescription>
       <TimeSpan>
         <StartDate>2020-04-14T15:03:06Z</StartDate>
-        <StopDate>2025-09-30T23:59:57Z</StopDate>
+        <StopDate>2025-10-02T23:59:57Z</StopDate>
       </TimeSpan>
       <CadenceMin>PT1S</CadenceMin>
       <CadenceMax>PT4S</CadenceMax>

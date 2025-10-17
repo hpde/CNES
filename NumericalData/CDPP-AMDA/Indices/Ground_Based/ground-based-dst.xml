@@ -6,7 +6,7 @@
     <ResourceHeader>
       <ResourceName>Indices - Ground Based - Dst</ResourceName>
       <AlternateName>Disturbance Stormtime index</AlternateName>
-      <ReleaseDate>2025-10-16T02:25:47Z</ReleaseDate>
+      <ReleaseDate>2025-10-17T02:25:06Z</ReleaseDate>
       <Description> Dst index is taken from the WDC (World Data Center) at Kyoto.
             Processing Level :
             * FINAL : 1970 - 2014
